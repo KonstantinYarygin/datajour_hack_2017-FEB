@@ -1,0 +1,4050 @@
+n_rates,rating,name,year
+56,4.0,"""+100500"" (2011)",2011.0
+14,6.9,"""1812"" (2012)",2012.0
+19,7.2,"""1941"" (2009)",2009.0
+9,8.2,"""1942"" (2011)",2011.0
+5,4.6,"""3 bogatyrya"" (2002)",2002.0
+51,5.6,"""33 kvadratnykh metra"" (1998)",1998.0
+89,5.1,"""6 kadrov"" (2006)",2006.0
+6,3.5,"""9 Maya. Lichnoe otnoshenie"" (2008)",2008.0
+25,4.8,"""9 mesyatsev"" (2006)",2006.0
+47,7.4,"""A zori zdes tikhie"" (2005)",2005.0
+164,7.2,"""Admiral"" (2009)",2009.0
+24,5.5,"""Advokat"" (2004)",2004.0
+8,3.6,"""Advokat"" (2004) {Alibi dlya korolevy (#1.1)}",2004.0
+9,3.7,"""Advokat"" (2004) {Boy bez pravil (#1.3)}",2004.0
+10,5.8,"""Adyutanty lyubvi"" (2005)",2005.0
+10,1.6,"""Aeroport"" (2005)",2005.0
+13,6.4,"""Afganskiy prizrak"" (2008)",2008.0
+9,4.6,"""Agenstvo"" (2003)",2003.0
+104,6.0,"""Agent natsionalnoy bezopasnosti"" (1999)",1999.0
+17,7.9,"""Agent osobogo naznachenia"" (2010)",2010.0
+36,7.2,"""Agentstvo NLS - 2"" (2003)",2003.0
+101,7.5,"""Agentstvo NLS"" (2001)",2001.0
+48,7.3,"""Alaska Kid"" (1993)",1993.0
+15,6.3,"""Aleksandrovskiy sad"" (2005)",2005.0
+11,5.5,"""Alisa znaet, chto delat!"" (2013)",2013.0
+6,3.3,"""Amanda O"" (2010)",2010.0
+9,4.0,"""Amazonki"" (2011)",2011.0
+388,5.1,"""And Quiet Flows the Don"" (2006)",2006.0
+19,6.1,"""Angel ili demon"" (2013)",2013.0
+6,5.5,"""Angel v serdtse"" (2012)",2012.0
+18,7.3,"""Angliya v obshchem i v chastnosti"" (2014)",2014.0
+75,8.3,"""Anna German"" (2012)",2012.0
+125,6.4,"""Anna Karenina"" (2009)",2009.0
+19,3.9,"""Anzhelika"" (2014)",2014.0
+369,7.7,"""Apostol"" (2008)",2008.0
+15,6.3,"""Atlantida"" (2007)",2007.0
+25,8.1,"""Atomnyy les"" (2012)",2012.0
+9,8.9,"""Audio Stories from Spike"" (2014)",2014.0
+6,5.7,"""Azbuka lyubvi"" (1992)",1992.0
+70,7.9,"""BadComedian"" (2011)",2011.0
+5,5.8,"""Balabol"" (2014)",2014.0
+21,6.3,"""Ballada o bombere"" (2011)",2011.0
+10,5.4,"""Balzakovskiy vozrast, ili Vse muzhiki svo... 5 let spustya"" (2013)",2013.0
+101,4.9,"""Balzakovskiy vozrast, ili Vse muzhiki svo..."" (2004)",2004.0
+5,5.4,"""Balzakovskiy vozrast, ili Vse muzhiki svo..."" (2004) {Ochnaya stavka (#2.5)}",2004.0
+5,4.6,"""Balzakovskiy vozrast, ili Vse muzhiki svo..."" (2004) {Teni proshlogo (#2.8)}",2004.0
+5,6.8,"""Balzakovskiy vozrast, ili Vse muzhiki svo..."" (2004) {Tikhoe zhenskoe shchastye, ili Borba za sushchestvovanie (#2.3)}",2004.0
+5,4.2,"""Balzakovskiy vozrast, ili Vse muzhiki svo..."" (2004) {Zakon Prikhodko (#1.12)}",2004.0
+434,8.2,"""Banditskiy Peterburg: Advokat"" (2000)",2000.0
+99,6.6,"""Banditskiy Peterburg: Arestant"" (2003)",2003.0
+310,7.5,"""Banditskiy Peterburg: Baron"" (2000)",2000.0
+128,6.2,"""Banditskiy Peterburg: Krakh Antibiotika"" (2001)",2001.0
+90,6.7,"""Banditskiy Peterburg: Oper"" (2003)",2003.0
+101,6.7,"""Banditskiy Peterburg: Zhurnalist"" (2003)",2003.0
+8,6.9,"""Bandy"" (2010)",2010.0
+27,5.7,"""Barboskiny"" (2011)",2011.0
+72,4.8,"""Barvikha"" (2009)",2009.0
+15,7.3,"""Bashnya"" (2010)",2010.0
+55,7.4,"""Bayazet"" (2003)",2003.0
+478,7.1,"""Bednaya Nastya"" (2003)",2003.0
+124,6.5,"""Belaya gvardiya"" (2012)",2012.0
+10,5.6,"""Belka i Strelka: Ozornaya semeyka"" (2011)",2011.0
+6,6.2,"""Besy"" (2006)",2006.0
+77,6.9,"""Besy"" (2014)",2014.0
+9,7.0,"""Bez prava na vybor"" (2013)",2013.0
+76,5.1,"""Bitva ekstrasensov"" (2007)",2007.0
+27,8.1,"""Biznes po-russki"" (2010)",2010.0
+6,5.2,"""Bliznetsy"" (2004)",2004.0
+8,6.2,"""Blyustiteli poroka"" (2000)",2000.0
+48,7.7,"""Boets"" (2004)",2004.0
+18,5.6,"""Bol'shaya raznitsa"" (2008)",2008.0
+11,5.2,"""Bolshaya progulka"" (2005)",2005.0
+28,8.9,"""Born in the USSR"" (1991)",1991.0
+158,7.9,"""Born in the USSR"" (1991) {Born in the USSR: 28 Up (#1.4)}",1991.0
+9,6.6,"""Brak po zaveshchaniyu"" (2010)",2010.0
+25,6.0,"""Bratany"" (2009)",2009.0
+119,7.4,"""Bratya Karamazovy"" (2009)",2009.0
+23,7.3,"""Bratya piloty"" (1995)",1995.0
+11,6.4,"""Bratya po obmenu"" (2013)",2013.0
+8,4.1,"""Bratya po-raznomu"" (2006)",2006.0
+6,2.8,"""Bratya"" (2011)",2011.0
+170,7.1,"""Brezhnev"" (2005)",2005.0
+7377,8.6,"""Brigada"" (2002)",2002.0
+51,8.1,"""Brigada"" (2002) {1 seriya (#1.1)}",2002.0
+37,8.1,"""Brigada"" (2002) {4 seriya (#1.4)}",2002.0
+178,7.5,"""Broken Silence"" (2002)",2002.0
+7,4.1,"""Brony-Ponies"" (2015)",2015.0
+8,6.0,"""Bronyahi"" (2016)",2016.0
+15,2.2,"""Bronylogy"" (2014)",2014.0
+11,2.8,"""Buhanki"" (2016)",2016.0
+12,2.1,"""Bunker ili Uchenye pod zemley"" (2006)",2006.0
+16,7.2,"""Chelovek voyny"" (2005)",2005.0
+15,3.4,"""Chelovek-amfibiya"" (2004)",2004.0
+11,7.2,"""Chempion"" (2008)",2008.0
+201,7.2,"""Chernobyl: Zona otchuzhdeniya"" (2014)",2014.0
+18,7.3,"""Chernye volki"" (2011)",2011.0
+60,7.5,"""Chest imeyu!.."" (2004)",2004.0
+6,5.7,"""Chkalov"" (2012)",2012.0
+14,6.1,"""Chop"" (2015)",2015.0
+89,6.7,"""Chto skazal pokoynik"" (2000)",2000.0
+7,4.1,"""Chudotvorets"" (2014)",2014.0
+7,7.9,"""Chuzhoe litso"" (2012)",2012.0
+10,6.3,"""Chuzhoy rayon"" (2012)",2012.0
+5,7.2,"""Chuzhoy"" (2014)",2014.0
+33,6.6,"""Chyornaya komnata"" (2000)",2000.0
+14,6.7,"""Chyornye koshki"" (2013)",2013.0
+31,6.5,"""Chyornyy voron"" (2001)",2001.0
+35,3.5,"""Comedy Battle"" (2010)",2010.0
+73,5.2,"""Comedy Club"" (2005)",2005.0
+75,3.6,"""Comedy Woman"" (2008)",2008.0
+70,5.0,"""Daesh molodezh"" (2009)",2009.0
+195,6.5,"""Dalnoboyshchiki"" (2001)",2001.0
+20,6.1,"""Dalnoboyshiki dva"" (2004)",2004.0
+13,4.8,"""Dasha Vasileva. Lyubitelnitsa chastnogo syska 1"" (2003)",2003.0
+29,9.5,"""Dead Hand"" (2013)",2013.0
+106,4.0,"""Deffchonki"" (2012)",2012.0
+7,8.0,"""Delo chesti"" (2013)",2013.0
+28,6.8,"""Delo gastronoma No. 1"" (2011)",2011.0
+79,6.6,"""Delo o 'Myortvykh dushakh'"" (2005)",2005.0
+6,5.3,"""Delo o Maikle Karmane"" (2016)",2016.0
+51,5.9,"""Den rozhdeniya Burzhuya 2"" (2001)",2001.0
+104,6.6,"""Den rozhdeniya Burzhuya"" (2000)",2000.0
+5,8.2,"""Dendy Memories"" (2012)",2012.0
+38,6.0,"""Desantura"" (2009)",2009.0
+30,2.4,"""Detektivy"" (2006)",2006.0
+171,7.3,"""Deti Arbata"" (2004)",2004.0
+7,5.9,"""Deti Vanyukhina"" (2005)",2005.0
+17,5.6,"""Detka"" (2012)",2012.0
+45,7.5,"""Devyat neizvestnykh"" (2006)",2006.0
+51,7.9,"""Devyat zhizney Nestora Makhno"" (2007)",2007.0
+19,7.2,"""Dikiy"" (2009)",2009.0
+240,7.4,"""Diversant 2: Konets voyny"" (2007)",2007.0
+382,7.4,"""Diversant"" (2004)",2004.0
+12,4.7,"""Dnevnik doktora Zaytsevoy"" (2012)",2012.0
+29,6.5,"""Dnevnik ubiytsy"" (2003)",2003.0
+5,4.2,"""Dochki-materi"" (2007)",2007.0
+42,2.6,"""Doktor Tyrsa"" (2011)",2011.0
+396,7.6,"""Doktor Zhivago"" (2006)",2006.0
+163,1.1,"""Dom 2"" (2004)",2004.0
+9,3.7,"""Dom kuvyrkom"" (2008)",2008.0
+5,6.8,"""Dom s liliyami"" (2013)",2013.0
+23,4.2,"""Dorogaya Masha Berezina"" (2005)",2005.0
+74,6.8,"""Dose detektiva Dubrovskogo"" (1999)",1999.0
+93,7.9,"""Dostoevskiy"" (2011)",2011.0
+64,2.7,"""Drongo"" (2002)",2002.0
+9,4.4,"""Drugaya zhizn"" (2003)",2003.0
+8,4.1,"""Druzhba narodov"" (2014)",2014.0
+12,7.3,"""Druzhina"" (2015)",2015.0
+5,6.0,"""Druzhnaya semeyka"" (2003)",2003.0
+11,4.8,"""Durdom"" (2006)",2006.0
+5,6.0,"""Dva Antona"" (2009)",2009.0
+235,4.9,"""Dva ottsa i dva syna"" (2013)",2013.0
+7,5.9,"""Dve legendy"" (2014)",2014.0
+8,5.5,"""Dve sestry 2"" (2009)",2009.0
+13,5.7,"""Dve sudby"" (2002)",2002.0
+22,4.0,"""Dyatlovy"" (2004)",2004.0
+7,5.7,"""Dym"" (1992)",1992.0
+6,2.2,"""Efrosinya"" (2010)",2010.0
+150,8.0,"""Ekaterina"" (2014)",2014.0
+94,7.2,"""Ermak"" (1996)",1996.0
+504,7.2,"""Esenin"" (2005)",2005.0
+18,6.9,"""Eshelon"" (2005)",2005.0
+12,3.0,"""Evlampiya Romanova. Sledstvie vedet diletant"" (2003)",2003.0
+7,7.6,"""Extreme Collectors"" (2013)",2013.0
+8,2.4,"""Fabrika grez"" (2004)",2004.0
+114,2.2,"""Fabrika zvezd"" (2002)",2002.0
+5,5.2,"""Fabrika zvezd: Vozvrashchenie"" (2011)",2011.0
+27,6.7,"""Fartsa"" (2015)",2015.0
+11,4.7,"""Fatalisty"" (2003)",2003.0
+9,6.9,"""Feaction"" (2016)",2016.0
+7,2.4,"""Feechki supervised"" (2015)",2015.0
+30,5.6,"""Fiksiki"" (2010)",2010.0
+1109,7.3,"""Fizruk"" (2013)",2013.0
+11,1.7,"""Flutter Green Reacts"" (2014)",2014.0
+6,8.0,"""Furtseva. Legenda o Ekaterine"" (2011)",2011.0
+28,5.5,"""Gaishniki"" (2008)",2008.0
+28,6.3,"""Galileo"" (2007)",2007.0
+9,6.4,"""Galina"" (2008)",2008.0
+6,2.2,"""Galygin.ru"" (2010)",2010.0
+29,7.8,"""Geheimes Kuba"" (2015)",2015.0
+74,7.2,"""Geroy nashego vremeni"" (2006)",2006.0
+5,7.0,"""Getery mayora Sokolova"" (2014)",2014.0
+16,4.8,"""Geymery"" (2012)",2012.0
+290,7.7,"""Gibel imperii"" (2005)",2005.0
+8,7.8,"""Glukhar 2. Prodolzhenie"" (2009)",2009.0
+458,8.1,"""Glukhar"" (2008)",2008.0
+14,7.3,"""Glukhar. Vozvrashchenie"" (2010)",2010.0
+78,7.7,"""Gora samotsvetov"" (2005)",2005.0
+54,7.8,"""Gora samotsvetov"" (2005) {Zhikharka (#5.1)}",2005.0
+10,6.9,"""Gorod soblaznov"" (2009)",2009.0
+173,6.6,"""Gorodok"" (1993)",1993.0
+13,6.0,"""Goryachev i drugie"" (1992)",1992.0
+5,6.8,"""Gospoda-tovarishchi"" (2014)",2014.0
+26,7.3,"""Goznak"" (2015)",2015.0
+5,7.2,"""Grach"" (2012)",2012.0
+164,8.2,"""Grafinya de Monsoro"" (1998)",1998.0
+333,7.4,"""Granitsa. Tayozhnyy roman"" (2001)",2001.0
+21,6.5,"""Grazhdanin nachalnik"" (2001)",2001.0
+10,4.9,"""Grekhi ottsov"" (2004)",2004.0
+40,7.6,"""Grigoriy R."" (2014)",2014.0
+21,7.7,"""Gromovy"" (2006)",2006.0
+6,7.0,"""Gromovy. Dom nadezhdy"" (2007)",2007.0
+606,7.8,"""Grozovye vorota"" (2006)",2006.0
+11,5.9,"""Gruppa 'Zeta'"" (2007)",2007.0
+5,4.2,"""Gunanoydy v Korolyove"" (2008)",2008.0
+7,1.0,"""Hallowinskie vzlomy"" (2015)",2015.0
+11,6.9,"""Hermitage Masterpieces"" (1992)",1992.0
+5,7.8,"""HeyIamHiggins"" (2014)",2014.0
+6,5.8,"""High School Students"" (2006)",2006.0
+35,8.2,"""Hotel Eleon"" (2016)",2016.0
+60,7.2,"""I vse-taki ya lyublyu..."" (2008)",2008.0
+14,7.3,"""Idealnaya para"" (2001)",2001.0
+1379,8.6,"""Idiot"" (2003)",2003.0
+14,6.0,"""Igra na vybyvanie"" (2004)",2004.0
+14,9.0,"""Igra"" (2011)",2011.0
+13,6.8,"""Ikh Italiya"" (2012)",2012.0
+12,6.4,"""Illuminati confirmed"" (2016)",2016.0
+64,7.1,"""Imperiya pod udarom"" (2000)",2000.0
+9,2.7,"""In the World of the Fairies"" (2016)",2016.0
+6,7.7,"""Indus"" (2010)",2010.0
+5,5.4,"""Inkvizitor"" (2014)",2014.0
+5,9.0,"""Institut blagorodnykh devits"" (2010)",2010.0
+8,8.9,"""Intercept"" (1998)",1998.0
+2002,7.7,"""Interny"" (2010)",2010.0
+121,6.9,"""Isaev"" (2009)",2009.0
+21,7.0,"""Ischeznuvshie"" (2009)",2009.0
+13,5.6,"""Istoriya Letchika"" (2009)",2009.0
+31,7.5,"""Istrebiteli"" (2013)",2013.0
+5,4.0,"""Istselenie lyubovyu"" (2005)",2005.0
+23,7.3,"""Ivan Groznyy"" (2009)",2009.0
+5,4.8,"""Ivan Podushkin. Dzhentlmen syska"" (2006)",2006.0
+231,7.5,"""Izmeni"" (2015)",2015.0
+24,6.0,"""KGB v smokinge"" (2005)",2005.0
+98,5.2,"""Kadetstvo"" (2006)",2006.0
+16,3.5,"""Kadety"" (2004)",2004.0
+147,7.0,"""Kak ya stal russkim"" (2015)",2015.0
+23,1.3,"""Kak ya vstretil vashu mamu"" (2010)",2010.0
+5,3.8,"""Kamenskaya chetyre"" (2005)",2005.0
+8,4.6,"""Kamenskaya shest"" (2011)",2011.0
+41,6.4,"""Kamenskaya: Illyuziya grekha"" (2003)",2003.0
+74,6.3,"""Kamenskaya: Stechenie obstoyatelstv"" (1999)",1999.0
+29,5.7,"""Kamenskaya: Ukradennyy son"" (2002)",2002.0
+47,3.0,"""Karmelita"" (2005)",2005.0
+23,2.1,"""Karmelita. Tsyganskaya strast"" (2009)",2009.0
+9,8.6,"""Karpov 2"" (2013)",2013.0
+8,8.9,"""Karpov 3"" (2014)",2014.0
+24,8.0,"""Karpov"" (2012)",2012.0
+16,5.5,"""Karusel"" (2005)",2005.0
+8,4.4,"""Katerina"" (2007)",2007.0
+18,6.5,"""Katya"" (2009)",2009.0
+24,5.2,"""Kavalery Morskoy Zvezdy"" (2004)",2004.0
+9,3.1,"""Kazaki-razboyniki"" (2008)",2008.0
+27,6.5,"""Kazaroza"" (2005)",2005.0
+53,6.9,"""Kazus Kukotskogo"" (2005)",2005.0
+22,8.8,"""Keiser Report"" (2009)",2009.0
+20,5.2,"""KhB"" (2013)",2013.0
+23,7.0,"""Khiromant"" (2005)",2005.0
+6,8.0,"""Khokkeynye igry"" (2012)",2012.0
+16,4.7,"""Kholostyaki"" (2004)",2004.0
+23,6.2,"""Kletka"" (2003)",2003.0
+17,5.2,"""Klim"" (2015)",2015.0
+82,3.8,"""Klub"" (2006)",2006.0
+46,5.2,"""Klubnichka"" (1997)",1997.0
+13,4.8,"""Kobra antiterror"" (2003)",2003.0
+9,6.6,"""Kobra antiterror"" (2003) {Gnev: Part 1 (#1.6)}",2003.0
+6,5.5,"""Kobra"" (2001)",2001.0
+5,4.8,"""Kodeks chesti"" (2004)",2004.0
+25,7.7,"""Kolybelnye mira"" (2008)",2008.0
+13,6.2,"""Komanda"" (2004)",2004.0
+44,8.1,"""Kon Belyy"" (1993)",1993.0
+8,3.9,"""Konferentsiya manyakov"" (2003)",2003.0
+13,6.2,"""Kontora"" (2006)",2006.0
+53,6.1,"""Konvoy PQ-17"" (2004)",2004.0
+16,6.9,"""Korabl"" (2014)",2014.0
+154,7.4,"""Koroleva Margo"" (1996)",1996.0
+9,6.2,"""Koroli igry"" (2007)",2007.0
+12,5.6,"""Kosti"" (2016)",2016.0
+8,7.4,"""Kotovskiy"" (2010)",2010.0
+5,5.8,"""Kozlyonok v moloke"" (2003)",2003.0
+10,6.7,"""Krasavchik"" (2011)",2011.0
+8,7.5,"""Krasnaya Koroleva"" (2015)",2015.0
+67,7.4,"""Krasnaya kapella"" (2004)",2004.0
+20,6.7,"""Krasnaya ploschad"" (2004)",2004.0
+8,6.9,"""Krasnye gory"" (2013)",2013.0
+100,7.0,"""Kratkiy kurs schastlivoy zhizni"" (2012)",2012.0
+5,3.8,"""Krem"" (2009)",2009.0
+36,7.4,"""Kremen"" (2012)",2012.0
+5,4.6,"""Kreml-9"" (2001)",2001.0
+86,5.8,"""Kremlyovskie kursanty"" (2009)",2009.0
+36,7.7,"""Krik sovy"" (2013)",2013.0
+14,9.0,"""Kriminalnaya Rossiya"" (1995)",1995.0
+58,7.5,"""Krot"" (2001)",2001.0
+24,5.8,"""Kto khochet stat millionerom?"" (2001)",2001.0
+49,3.7,"""Kto v dome khozyain?"" (2006)",2006.0
+2337,8.9,"""Kukhnya"" (2012)",2012.0
+20,3.7,"""Kulagin i partnyory"" (2004)",2004.0
+23,6.5,"""Kuprin. Poedinok"" (2014)",2014.0
+23,5.8,"""Kuprin. Vpotmakh"" (2014)",2014.0
+26,6.2,"""Kuprin. Yama"" (2014)",2014.0
+129,7.5,"""Kursanty"" (2004)",2004.0
+5,3.2,"""Kvartirka"" (2004)",2004.0
+5,7.8,"""La case du sicle"" (2010) {Birobidjan, Birobidjan!}",2010.0
+36,7.6,"""Ladoga"" (2014)",2014.0
+15,4.9,"""Landysh serebristyy 2"" (2005)",2005.0
+15,5.9,"""Larva"" (2016)",2016.0
+7,6.7,"""Lastochkino gnezdo"" (2012)",2012.0
+40,6.6,"""Lednikovyy period"" (2002)",2002.0
+12,1.8,"""Legendy mirovogo kino"" (2004)",2004.0
+10,6.5,"""Legendy o Kruge"" (2012)",2012.0
+48,6.9,"""Lektor"" (2011)",2011.0
+65,7.9,"""Leningrad 46"" (2014)",2014.0
+16,7.3,"""Leningrad"" (2007)",2007.0
+7,6.9,"""Lesnik"" (2011)",2011.0
+17,7.2,"""Leto volkov"" (2011)",2011.0
+9,5.4,"""Life of the Mermaids"" (2015)",2015.0
+1249,8.5,"""Likvidatsiya"" (2007)",2007.0
+6,3.8,"""Linii sudby"" (2003)",2003.0
+10,8.3,"""Liniya Marty"" (2014)",2014.0
+7,3.6,"""Liniya zashchity"" (2002)",2002.0
+212,5.9,"""Londongrad"" (2015)",2015.0
+14,6.1,"""Lovushka"" (2009)",2009.0
+116,4.8,"""Luntik i ego druziya"" (2006)",2006.0
+14,2.6,"""Lyuba, deti i zavod"" (2005)",2005.0
+5,6.8,"""Lyubopytnaya Varvara"" (2012)",2012.0
+10,6.1,"""Lyubov - ne to, chto kazhetsya..."" (2009)",2009.0
+6,6.2,"""Lyubov imperatora"" (2002)",2002.0
+13,5.4,"""Lyubov kak lyubov"" (2006)",2006.0
+9,5.7,"""Lyubov na ostrie nozha"" (2008)",2008.0
+49,3.2,"""Lyubov na rayone"" (2008)",2008.0
+11,6.4,"""Lyubov za lyubov"" (2013)",2013.0
+5,4.8,"""Lyudi i teni. Film pervyy: 'Sekrety kukolnogo teatra'"" (2001)",2001.0
+10,6.4,"""Lyutyy"" (2013)",2013.0
+10,6.1,"""MUR est MUR"" (2004)",2004.0
+8,2.9,"""Machekha"" (2007)",2007.0
+5,5.6,"""Mamochki"" (2012)",2012.0
+15,4.6,"""Margosha 2"" (2009)",2009.0
+10,5.4,"""Margosha 3"" (2010)",2010.0
+47,4.5,"""Margosha"" (2009)",2009.0
+13,3.8,"""Maroseika 12 - Gen smerti."" (2000)",2000.0
+12,4.3,"""Maroseyka, 12"" (2000)",2000.0
+20,4.1,"""Marsh Turetskogo"" (2001)",2001.0
+1336,8.1,"""Masha i Medved"" (2009)",2009.0
+6,6.3,"""Mashiny skazki"" (2011)",2011.0
+12,6.4,"""Mashkiny strashilki"" (2014)",2014.0
+29,7.5,"""Maski Show"" (1991)",1991.0
+2665,7.6,"""Master i Margarita"" (2005)",2005.0
+50,6.8,"""Mata Hari"" (2016)",2016.0
+226,7.7,"""Mazhor"" (2014)",2014.0
+5,9.2,"""Mech 2"" (2015)",2015.0
+37,7.6,"""Mech"" (2009)",2009.0
+10,3.3,"""Mediki"" (2002)",2002.0
+17,4.6,"""Medovyy mesyats"" (2004)",2004.0
+14,4.8,"""Melochi zhizni"" (1992)",1992.0
+33,6.8,"""Mentovskie voyny - 2"" (2006)",2006.0
+38,7.4,"""Mentovskie voyny - 3"" (2007)",2007.0
+31,6.8,"""Mentovskie voyny - 4"" (2008)",2008.0
+99,8.3,"""Mentovskie voyny"" (2005)",2005.0
+32,6.0,"""Mentovskie voyny. Nedetskie igry"" (2005)",2005.0
+7,1.0,"""Mertvets iz pod snega"" (2016)",2016.0
+25,7.2,"""Messing"" (2009)",2009.0
+115,6.1,"""Metod Freyda"" (2012)",2012.0
+15,4.1,"""Metod Lavrovoy"" (2011)",2011.0
+366,7.4,"""Metod"" (2015)",2015.0
+20,3.6,"""Modnyy prigovor"" (2007)",2007.0
+25,6.5,"""Moimi glazami"" (2013)",2013.0
+7,6.1,"""Molodaya gvardiya"" (2015)",2015.0
+193,5.2,"""Molodezhka"" (2013)",2013.0
+78,5.9,"""Molodoy Volkodav"" (2007)",2007.0
+10,4.5,"""Molodozhyony"" (2011)",2011.0
+7,4.9,"""Morpekhi"" (2011)",2011.0
+18,5.1,"""Morskie dyavoly"" (2005)",2005.0
+71,7.2,"""Mosgaz"" (2012)",2012.0
+101,6.2,"""Moskovskaya saga"" (2004)",2004.0
+9,5.3,"""Moskovskye okna"" (2001)",2001.0
+7,3.6,"""Moskva. Tsentralnyy okrug 2"" (2004)",2004.0
+10,5.4,"""Moskva. Tsentralnyy okrug"" (2003)",2003.0
+5,6.0,"""Moya Prechistenka"" (2006)",2006.0
+42,5.5,"""Moya bolshaya armyanskaya svadba"" (2004)",2004.0
+6,4.0,"""Moya granitsa"" (2002)",2002.0
+7,4.7,"""Moya lyubimaya vedma"" (2008)",2008.0
+484,4.7,"""Moya prekrasnaya nyanya"" (2004)",2004.0
+43,6.9,"""Mr. Freeman"" (2009)",2009.0
+19,3.6,"""Mult lichnosti"" (2009)",2009.0
+10,7.0,"""Na nozhakh"" (1998)",1998.0
+7,5.7,"""Na puti k serdtsu"" (2007)",2007.0
+6,4.5,"""Na solnechnoy storone ulitsy"" (2011)",2011.0
+11,2.6,"""Na uglu, u Patriarshikh 2"" (2001)",2001.0
+10,2.9,"""Na uglu, u Patriarshikh 3"" (2003)",2003.0
+17,5.1,"""Na uglu, u Patriarshikh..."" (1995)",1995.0
+151,8.7,"""Namedni 1961-2003: Nasha Era"" (1997)",1997.0
+20,9.5,"""NanoCelentano"" (2016)",2016.0
+19,5.4,"""Nanolyubov"" (2010)",2010.0
+12,3.8,"""Nanoman"" (2013)",2013.0
+8,1.2,"""Nanoman"" (2013) {Fekalonia (#1.6)}",2013.0
+5,7.6,"""Narkomovskiy oboz"" (2011)",2011.0
+12,7.5,"""Narodnyy artist"" (2003)",2003.0
+874,6.6,"""Nasha Russia"" (2006)",2006.0
+7,3.0,"""Nashi 90-e"" (2000)",2000.0
+17,6.4,"""Navazhdenie"" (2004)",2004.0
+18,6.8,"""Nazad v SSSR"" (2010)",2010.0
+6,6.2,"""Ne plach po mne, Argentina!"" (2012)",2012.0
+7,7.4,"""Ne pokiday menya"" (2014)",2014.0
+354,4.5,"""Ne rodis krasivoy"" (2005)",2005.0
+7,7.4,"""Ne zabyvay"" (2005)",2005.0
+11,6.5,"""Nebo i zemlya"" (2004)",2004.0
+12,5.8,"""Nemnogo ne v sebe"" (2011)",2011.0
+6,4.8,"""Neotlozhka"" (2004)",2004.0
+42,6.5,"""Neudacha Puaro"" (2002)",2002.0
+57,5.5,"""Next 2"" (2003)",2003.0
+27,5.4,"""Next 3"" (2003)",2003.0
+119,6.5,"""Next"" (2002)",2002.0
+10,3.0,"""Nezlob"" (2013)",2013.0
+32,3.2,"""Nikita Mikhalkov. Sentimentalnoe puteshestvie na rodinu. Muzyka russkoy zhivopisi"" (1995)",1995.0
+40,5.8,"""Nina"" (2001)",2001.0
+14,7.0,"""Nochnye lastochki"" (2013)",2013.0
+8,5.6,"""O, schastlivchik!"" (1999)",1999.0
+16,6.9,"""Obnimaya nebo"" (2014)",2014.0
+132,7.7,"""Obratnaya storona Luny"" (2012)",2012.0
+6,5.7,"""Obrechennaya stat zvezdoy"" (2005)",2005.0
+15,1.8,"""Obruchalnoe koltso"" (2008)",2008.0
+7,1.0,"""Obychnyi den shkolnika"" (2016)",2016.0
+6,7.2,"""Oderzhimiy"" (2009)",2009.0
+11,5.2,"""Odin v Odin!"" (2013)",2013.0
+6,2.3,"""Odin v lesu"" (2016)",2016.0
+24,4.3,"""Odna za vsekh"" (2009)",2009.0
+7,4.6,"""Odnazhdy v Rossii"" (2014)",2014.0
+18,7.9,"""Odnazhdy v Rostove"" (2012)",2012.0
+11,7.2,"""Ofitsery 2: Vsyo budet khorosho"" (2009)",2009.0
+36,6.2,"""Ofitsery: Poslednie voiny imperii"" (2006)",2006.0
+8,5.8,"""Okhota na Vervolfa"" (2009)",2009.0
+14,6.2,"""Okhota na Zolushku"" (1999)",1999.0
+16,5.2,"""Okhota na asfalte"" (2005)",2005.0
+13,8.6,"""Okhota na gaulyaytera"" (2012)",2012.0
+6,4.3,"""Okhota na geniya"" (2006)",2006.0
+126,7.2,"""Okhota na izyubrya"" (2005)",2005.0
+18,7.2,"""Okhotnik"" (2006)",2006.0
+14,7.4,"""Okhotniki za brilliantami"" (2011)",2011.0
+6,7.2,"""Okhotniki za golovami"" (2014)",2014.0
+27,4.9,"""Opera: Khroniki uboinogo otdela"" (2004)",2004.0
+12,5.8,"""Operativnyy psevdonim"" (2003)",2003.0
+13,5.8,"""Orlova i Aleksandrov"" (2015)",2015.0
+17,5.3,"""Ostanovka po trebovaniyu - 2"" (2001)",2001.0
+36,6.0,"""Ostanovka po trebovaniyu"" (2000)",2000.0
+24,3.5,"""Ostorozhno, Zadov"" (2004)",2004.0
+47,7.1,"""Ostorozhno, modern! 2"" (2001)",2001.0
+54,6.2,"""Ostorozno, Modern!"" (1996)",1996.0
+21,5.9,"""Ostrov nenuzhnykh lyudey"" (2012)",2012.0
+25,7.6,"""Ostrov"" (2016/I)",2016.0
+5,7.0,"""Otdel"" (2010/I)",2010.0
+10,7.9,"""Otkroveniya"" (2012)",2012.0
+5,6.4,"""Otkroyte, militsiya!"" (2009)",2009.0
+7,5.9,"""Otryad"" (2008)",2008.0
+16,7.2,"""Otryv"" (2012)",2012.0
+250,7.9,"""Ottepel"" (2013)",2013.0
+58,6.4,"""Ottsy i deti"" (2008)",2008.0
+7,7.0,"""Ozabochennye, ili Lyubov zla"" (2015)",2015.0
+6,4.3,"""Ozero zhivikh mertvetsov"" (2016)",2016.0
+54,7.9,"""Palach"" (2015)",2015.0
+33,7.1,"""Pan ili propal"" (1998)",1998.0
+8,7.4,"""Papa naprokat"" (2014)",2014.0
+6,6.0,"""Papashi"" (2012)",2012.0
+1197,5.6,"""Papiny dochki"" (2007)",2007.0
+5,4.4,"""Parizhskiy antikvar"" (2001)",2001.0
+20,6.2,"""Parni iz stali"" (2005)",2005.0
+6,6.2,"""Parovozik Tishka"" (2013)",2013.0
+12,6.8,"""Parshivye ovtsy"" (2010)",2010.0
+14,7.4,"""Partiya dlya chempionki"" (2013)",2013.0
+9,7.4,"""PatriotKINO"" (2014)",2014.0
+9,4.6,"""PatriotKINO"" (2014) {Samiy luchskiy den' - obzor fil'ma (V stile BadComedian) (#2.2)}",2014.0
+43,6.4,"""Pelagiya i belyy buldog"" (2009)",2009.0
+8,7.5,"""Pensilvaniya"" (2015)",2015.0
+129,7.1,"""Pepel"" (2013)",2013.0
+21,7.3,"""Perevodchik"" (2014)",2014.0
+15,7.1,"""Perom i shpagoy"" (2007)",2007.0
+7,8.1,"""Pervaya mirovaya voyna"" (2014)",2014.0
+85,7.6,"""Peterburgskie tayny"" (1994)",1994.0
+8,7.5,"""Petlya Nesterova"" (2015)",2015.0
+7,7.1,"""Petlya vremeni"" (2013)",2013.0
+42,6.3,"""Petr Pervyy. Zaveshchanie"" (2011)",2011.0
+6,2.2,"""Petya Velikolepny"" (2006)",2006.0
+5,4.4,"""Pilot mezhdunarodnykh avialiniy"" (2011)",2011.0
+6,7.3,"""Platina 2"" (2009)",2009.0
+24,7.3,"""Platina"" (2007)",2007.0
+8,4.4,"""Plokhbuster Show"" (2013)",2013.0
+26,7.0,"""Po imeni Baron"" (2002)",2002.0
+82,7.0,"""Po tu storonu volkov"" (2002)",2002.0
+5,2.4,"""Pobeg 2"" (2012)",2012.0
+50,4.0,"""Pobeg"" (2010)",2010.0
+26,6.9,"""Pod livnem pul"" (2006)",2006.0
+7,7.1,"""Pod prikrytiem"" (2013)",2013.0
+6,5.7,"""Podari mne zhizn"" (2003)",2003.0
+18,8.4,"""Podstrochnik"" (2009)",2009.0
+6,4.2,"""Pogonya za angelom"" (2007)",2007.0
+12,6.8,"""Poka tsvetet paporotnik"" (2012)",2012.0
+28,6.4,"""Politseyskiy s Rublyovki"" (2016)",2016.0
+35,7.8,"""Polkino"" (2010)",2010.0
+8,6.0,"""Polniy Modern!"" (1999)",1999.0
+11,6.4,"""Polnyy vperyod!"" (2005)",2005.0
+7,2.1,"""Ponyat. Prostit"" (2006)",2006.0
+6,7.0,"""Popytka k begstvu"" (2007)",2007.0
+9,2.9,"""Posledniy boy"" (2014)",2014.0
+111,6.2,"""Posledniy bronepoezd"" (2006)",2006.0
+105,6.1,"""Posledniy geroy"" (2001)",2001.0
+190,3.7,"""Posledniy iz Magikyan"" (2013)",2013.0
+6,6.3,"""Posledniy ment"" (2015)",2015.0
+12,6.8,"""Poslednyaya reproduktsiya"" (2008)",2008.0
+19,7.1,"""Poteryavshye solntse"" (2005)",2005.0
+85,7.7,"""Povinnost"" (1998)",1998.0
+84,6.9,"""Pozner"" (2008)",2008.0
+5,4.8,"""Pravila ugona"" (2009)",2009.0
+8,4.6,"""Prestuplenie budet raskryto"" (2008)",2008.0
+94,7.8,"""Prestuplenie i nakazanie"" (2007)",2007.0
+41,6.3,"""Prikazano unichtozhit. Operatsiya 'Kitayskaya shkatulka"" (2009)",2009.0
+26,7.0,"""Priklyucheniya v Izumrudnom Gorode"" (1999) {Printsessa Ozma (#1.4)}",1999.0
+39,6.5,"""Priklyucheniya v Izumrudnom Gorode"" (1999) {Serebryanye tufelki (#1.1)}",1999.0
+43,3.3,"""Prints Sibiri"" (2014)",2014.0
+15,6.7,"""Printsessa i nishchiy"" (2004)",2004.0
+11,5.6,"""Privet ot Katyushi"" (2013)",2013.0
+10,4.6,"""Proklyatie Dyuran"" (1993)",1993.0
+5,5.2,"""Proklyatyy ray-2"" (2008)",2008.0
+5,5.2,"""Prokurorskaya proverka"" (2011)",2011.0
+14,7.6,"""Proshchay, lyubimaya!"" (2014)",2014.0
+18,6.3,"""Prostye istiny"" (1999)",1999.0
+6,6.7,"""Provintsialka"" (2008)",2008.0
+12,5.1,"""Provintsialy"" (2002)",2002.0
+8,6.2,"""Provokator"" (2016)",2016.0
+622,7.7,"""Prozhektorperiskhilton"" (2008)",2008.0
+14,3.3,"""Pust govoryat"" (2001)",2001.0
+7,5.3,"""Pyataya strazha"" (2013)",2013.0
+7,7.1,"""Pyatnitskiy"" (2011)",2011.0
+6,7.3,"""Pyatnitskiy. Glava tretya"" (2013)",2013.0
+19,7.0,"""Pyatyy angel"" (2003)",2003.0
+10,5.7,"""Pyatyy ugol"" (2001)",2001.0
+6,8.2,"""Pyotr Leshchenko. Vsyo, chto bylo..."" (2013)",2013.0
+32,8.5,"""Qumi-Qumi"" (2012)",2012.0
+8,2.5,"""Ranetki live"" (2009)",2009.0
+207,2.2,"""Ranetki"" (2008)",2008.0
+7,6.3,"""Raskol"" (1993)",1993.0
+37,7.8,"""Raskol"" (2011)",2011.0
+6,8.0,"""Rayon tmy"" (2015)",2015.0
+16,7.9,"""Razvedchitsy"" (2013)",2013.0
+22,5.5,"""Razvyazka Peterburgskikh tayn"" (1998)",1998.0
+697,6.4,"""Realnye patsany"" (2010)",2010.0
+17,6.8,"""Revizorro"" (2014)",2014.0
+17,5.7,"""Rieltor"" (2005)",2005.0
+7,8.6,"""Robinzon"" (2011)",2011.0
+92,7.1,"""Rodina zhdyot"" (2003)",2003.0
+56,4.4,"""Rodina"" (2015)",2015.0
+5,5.0,"""Rodstvennyy obmen"" (2005)",2005.0
+57,8.1,"""Romanovy"" (2013)",2013.0
+9,2.2,"""Ronfred Show"" (2016)",2016.0
+27,8.2,"""Rossiyskaya Imperiya"" (2000)",2000.0
+8,5.9,"""Rostov-papa"" (2001)",2001.0
+77,5.2,"""Rozygrysh"" (2003)",2003.0
+17,4.4,"""Russisch Roulette"" (2012) {Teil 1 (#1.1)}",2012.0
+19,4.2,"""Russisch Roulette"" (2012) {Teil 2 (#1.2)}",2012.0
+19,7.9,"""Russkie bez Rossii"" (2003)",2003.0
+80,5.4,"""Russkie v Gorode Angelov"" (2003)",2003.0
+33,4.8,"""Russkiy tranzit"" (1994)",1994.0
+7,7.6,"""Russkiye strashilki"" (2003)",2003.0
+28,3.7,"""Ryzhaya"" (2008)",2008.0
+5,7.0,"""S chego nachinaetsya rodina"" (2014)",2014.0
+5,4.6,"""S novym schastem!"" (1999)",1999.0
+9,5.7,"""Samara-gorodok"" (2004)",2004.0
+11,5.2,"""Samaya krasivaya"" (2005)",2005.0
+7,5.1,"""Samozvantsy"" (1998)",1998.0
+18,5.9,"""Sarmat"" (2004)",2004.0
+144,5.3,"""Sasha+Masha"" (2002)",2002.0
+106,4.0,"""SashaTanya"" (2013)",2013.0
+20,6.8,"""Satisfaktsiya"" (2006)",2006.0
+15,4.7,"""Save Brony Fandom"" (2016)",2016.0
+297,4.3,"""Schastlivy vmeste"" (2006)",2006.0
+7,5.4,"""Schastlivyy"" (2005)",2005.0
+28,9.2,"""Schastlivyye lyudi"" (2007)",2007.0
+15,7.4,"""Sdelano v SSSR"" (2011)",2011.0
+13,4.1,"""Sdvinutyy"" (2001)",2001.0
+8,6.4,"""Sedmaya runa"" (2014)",2014.0
+5,7.2,"""Sekunda do..."" (2007)",2007.0
+14,6.9,"""Semeynye tayny"" (2001)",2001.0
+7,6.9,"""Semeynyy albom"" (2014)",2014.0
+27,3.3,"""Semeynyy biznes"" (2014)",2014.0
+7,5.7,"""Semin"" (2009)",2009.0
+2701,9.0,"""Semnadtsat mgnoveniy vesny"" (1973)",1973.0
+6,4.3,"""Serdtse materi"" (2010)",2010.0
+5,3.8,"""Serebryanaya svadba"" (2001)",2001.0
+9,8.2,"""Set"" (2008)",2008.0
+13,5.1,"""Sezon okhoty"" (1997)",1997.0
+192,8.4,"""Shakespeare: The Animated Tales"" (1992)",1992.0
+15,6.8,"""Shakespeare: The Animated Tales"" (1992) {As You Like It (#2.3)}",1992.0
+80,7.3,"""Shakespeare: The Animated Tales"" (1992) {Hamlet (#1.5)}",1992.0
+17,8.5,"""Shakespeare: The Animated Tales"" (1992) {Julius Caesar (#2.4)}",1992.0
+48,7.6,"""Shakespeare: The Animated Tales"" (1992) {Macbeth (#1.3)}",1992.0
+51,6.9,"""Shakespeare: The Animated Tales"" (1992) {Romeo and Juliet (#1.4)}",1992.0
+23,7.5,"""Shakespeare: The Animated Tales"" (1992) {The Taming of the Shrew (#2.2)}",1992.0
+44,8.0,"""Shakespeare: The Animated Tales"" (1992) {The Tempest (#1.2)}",1992.0
+18,7.6,"""Shakespeare: The Animated Tales"" (1992) {The Winter's Tale (#2.5)}",1992.0
+25,8.2,"""Shakespeare: The Animated Tales"" (1992) {Twelfth Night (#1.6)}",1992.0
+5,5.4,"""Shakhmatist"" (2004)",2004.0
+9,7.6,"""Shakhta"" (2010)",2010.0
+15,4.1,"""Shalnoy angel"" (2009)",2009.0
+9,6.2,"""Shapovalov"" (2012)",2012.0
+13,6.9,"""Shef"" (2012)",2012.0
+226,6.2,"""Sherlok Kholms"" (2013)",2013.0
+10,5.5,"""Shiroka reka"" (2008)",2008.0
+15,2.7,"""Shkola N1"" (2007)",2007.0
+75,7.1,"""Shkola zlosloviya"" (2002)",2002.0
+521,6.3,"""Shkola"" (2010)",2010.0
+968,7.4,"""Shtrafbat"" (2004)",2004.0
+11,5.4,"""Simba Jr. And the Football World Cup"" (1998)",1998.0
+11,6.5,"""Sindrom Drakona"" (2012)",2012.0
+11,4.8,"""Sinie nochi"" (2008)",2008.0
+6,5.3,"""Sishik Poutilin"" (2009)",2009.0
+5,6.2,"""Sivyy merin"" (2010)",2010.0
+24,6.5,"""Sklifosovskiy"" (2012)",2012.0
+114,6.7,"""Sladkaya zhizn"" (2014)",2014.0
+11,7.9,"""Slava"" (2015)",2015.0
+127,3.5,"""Sled"" (2007)",2007.0
+26,7.7,"""Sledstvie veli..."" (2006)",2006.0
+8,1.0,"""Slender Must Die"" (2016)",2016.0
+9,4.6,"""Slepoy"" (2004)",2004.0
+13,6.7,"""Smersh"" (2007)",2007.0
+8,7.2,"""Smert shpionam!"" (2007)",2007.0
+8,7.0,"""Smert shpionam. Krym"" (2008)",2008.0
+7,7.6,"""Smert shpionam. Udarnaya volna"" (2013)",2013.0
+5,5.2,"""Smertelnaya skhvatka"" (2010)",2010.0
+381,7.7,"""Smeshariki"" (2003)",2003.0
+7,6.1,"""Smeshariki: Azbuka bezopasnosti"" (2006)",2006.0
+10,6.3,"""Smeshariki: Novye priklyucheniya"" (2012)",2012.0
+9,6.7,"""Smeshariki: Pin-kod"" (2012)",2012.0
+87,6.7,"""Snayper. Oruzhie vozmezdiya"" (2009)",2009.0
+8,7.6,"""Snaypery. Lyubov pod pritselom"" (2012)",2012.0
+10,6.8,"""Sneg i pepel"" (2015)",2015.0
+246,7.0,"""Sochi 2014: XXII Olympic Winter Games"" (2014)",2014.0
+12,5.9,"""Soldaty 2"" (2004)",2004.0
+282,6.4,"""Soldaty"" (2004)",2004.0
+59,6.5,"""Sonka zolotaya ruchka"" (2007)",2007.0
+11,6.5,"""Spasite nashi dushi"" (2008)",2008.0
+38,5.9,"""Spetsnaz II"" (2003)",2003.0
+173,6.5,"""Spetsnaz"" (2002)",2002.0
+622,8.3,"""Stalingrad"" (2003)",2003.0
+10,6.9,"""Staroe ruzhe"" (2014)",2014.0
+5,5.2,"""Starye dela"" (2006)",2006.0
+10,7.4,"""Stepnye deti"" (2012)",2012.0
+15,7.2,"""Sterva"" (2016)",2016.0
+5,5.2,"""Stolitsa grekha"" (2010)",2010.0
+86,7.6,"""Stories from My Childhood"" (1998)",1998.0
+16,8.1,"""Strasti po Chapayu"" (2013)",2013.0
+5,5.4,"""Stroybatya"" (2010)",2010.0
+5,4.8,"""Studiya 17"" (2013)",2013.0
+10,5.7,"""Sudebnaya kolonka"" (2008)",2008.0
+7,4.9,"""Super Maks"" (2013)",2013.0
+5,4.0,"""SuperIntuitsiya"" (2007)",2007.0
+6,3.8,"""Svadba Barbi"" (2005)",2005.0
+225,5.5,"""Svetofor"" (2011)",2011.0
+7,5.7,"""Svoy chelovek"" (2005)",2005.0
+8,6.4,"""Svoy-chuzhoy"" (2007)",2007.0
+35,7.2,"""Svoya igra"" (1994)",1994.0
+34,8.5,"""Syn ottsa narodov"" (2013)",2013.0
+13,6.2,"""Syshchiki"" (2001)",2001.0
+10,4.7,"""Taksist: Krutye povoroty"" (2004)",2004.0
+18,4.7,"""Talisman lyubvi"" (2005)",2005.0
+6,7.3,"""Talyanka"" (2014)",2014.0
+7,6.0,"""Tango vtroem"" (2006)",2006.0
+5,3.4,"""Tantsy so zvezdami"" (2006)",2006.0
+7,5.7,"""Tantsy"" (2014)",2014.0
+70,5.0,"""Tatyanin den"" (2007)",2007.0
+29,6.8,"""Tayga"" (2002)",2002.0
+6,6.7,"""Taynaya strazha"" (2005)",2005.0
+49,6.5,"""Tayny dvortsovykh perevorotov"" (2000)",2000.0
+6,6.0,"""Tayny dvortsovykh perevorotov"" (2000) {Vivat, Anna! (#4.2)}",2000.0
+113,6.5,"""Tayny sledstviya"" (2000)",2000.0
+14,3.7,"""Taynyy gorod"" (2014)",2014.0
+8,5.0,"""Telokhranitel - 2"" (2009)",2009.0
+9,6.2,"""Telokhranitel"" (2007)",2007.0
+26,6.9,"""Temnyy mir: Ravnovesie"" (2014)",2014.0
+5,4.8,"""Terroristka Ivanova"" (2009)",2009.0
+16,7.5,"""Test na beremennost"" (2015)",2015.0
+137,6.5,"""The Canterbury Tales"" (1998)",1998.0
+9,8.2,"""The Face of Russia"" (1998)",1998.0
+9,4.3,"""The Hunter on Fairies"" (2016)",2016.0
+54,7.9,"""Tikhiy Don"" (2015)",2015.0
+7,4.4,"""Toch-v-toch'"" (2014)",2014.0
+6,5.8,"""Tolko ty..."" (2004)",2004.0
+17,7.5,"""Tragediya XX veka"" (1993)",1993.0
+6,7.2,"""Trailer in the Style"" (2016)",2016.0
+17,7.8,"""Tri dnya leytenanta Kravtsova"" (2012)",2012.0
+8,3.6,"""Troe protiv vsekh - 2"" (2003)",2003.0
+13,5.1,"""Troe protiv vsekh"" (2002)",2002.0
+12,5.1,"""Troe sverkhu"" (2006)",2006.0
+7,4.6,"""Tronutye"" (2006)",2006.0
+10,8.0,"""Tulskiy Tokarev"" (2010)",2010.0
+56,5.9,"""Tuman"" (2010)",2010.0
+5,6.0,"""Turetskiy tranzit"" (2014)",2014.0
+12,4.8,"""Turisty"" (2005)",2005.0
+7,6.4,"""Twilight's Adventures"" (2015)",2015.0
+14,6.6,"""U.E."" (2006)",2006.0
+26,6.2,"""Ubit Stalina"" (2013)",2013.0
+383,7.0,"""Uboynaya sila"" (2000)",2000.0
+295,7.1,"""Uchastok"" (2003)",2003.0
+12,6.4,"""Uchitelya"" (2014)",2014.0
+6,7.3,"""Ukhodyashchaya natura"" (2013)",2013.0
+10,5.6,"""Ulitsy razbityh fonarey 2"" (1999)",1999.0
+289,6.1,"""Ulitsy razbitykh fonarey"" (1997)",1997.0
+6,8.8,"""Umnozhayushchiy pechal"" (2005)",2005.0
+12,2.9,"""Undina 2. Na grebne volny"" (2004)",2004.0
+21,3.2,"""Undina"" (2003)",2003.0
+598,5.3,"""Univer"" (2008)",2008.0
+156,5.2,"""Univer. Novaya obschaga"" (2011)",2011.0
+59,5.5,"""Uralskie pelmeni"" (2009)",2009.0
+139,3.3,"""Utomlennye solntsem 2"" (2011)",2011.0
+18,2.4,"""V Moskve vsegda solnechno"" (2014)",2014.0
+97,6.0,"""V iyune 41-go"" (2008)",2008.0
+199,7.6,"""V kruge pervom"" (2006)",2006.0
+55,6.7,"""V ritme tango"" (2006)",2006.0
+42,8.0,"""Vangeliya"" (2013)",2013.0
+6,4.8,"""Vasha chest"" (2007)",2007.0
+111,4.7,"""Vasilisa"" (2014)",2014.0
+5,6.2,"""Vasilyevskiy ostrov"" (2009)",2009.0
+157,6.4,"""Vecherniy Urgant"" (2012)",2012.0
+35,8.4,"""Velikaya voyna"" (2010)",2010.0
+40,7.7,"""Velikaya"" (2015)",2015.0
+8,7.0,"""Verbnoe voskresene"" (2010)",2010.0
+53,7.7,"""Verni moyu lyubov"" (2014)",2014.0
+6,2.5,"""Vernoe sredstvo"" (2012)",2012.0
+11,5.4,"""Vintovaya lestnitsa"" (2005)",2005.0
+47,4.3,"""Viola Tarakanova"" (2004)",2004.0
+6,7.0,"""Voennaya razvedka. Zapadnyy front"" (2010)",2010.0
+8,5.0,"""Vokzal"" (2003)",2003.0
+211,4.3,"""Voroniny"" (2009)",2009.0
+14,5.9,"""Vorotily"" (2007)",2007.0
+7,2.9,"""Vorovka 2. Schaste naprokat"" (2002)",2002.0
+183,5.8,"""Vosmidesyatye"" (2012)",2012.0
+10,7.0,"""Vospominanie o Sherloke Kholmse"" (2006)",2006.0
+14,2.4,"""Vovochka - 2"" (2002)",2002.0
+23,3.7,"""Vovochka"" (2002)",2002.0
+51,5.2,"""Vozvrashchenie Mukhtara"" (2003)",2003.0
+5,4.8,"""Vozvrashenie Muhtara 2"" (2005)",2005.0
+24,5.2,"""Vremena"" (2000)",2000.0
+6,7.7,"""Vremenno nedostupen"" (2015)",2015.0
+6,5.3,"""Vremya zhestokikh"" (2004)",2004.0
+19,8.3,"""Vse nachalos v Kharbine"" (2013)",2013.0
+5,8.8,"""Vtoraya mirovaya voyna: den za dnem"" (2005)",2005.0
+11,5.3,"""Vysshiy pilotazh"" (2009)",2009.0
+6,5.3,"""Vystrel"" (2015)",2015.0
+108,6.1,"""Vyzhit posle"" (2013)",2013.0
+19,5.9,"""Vyzov"" (2006)",2006.0
+10,6.9,"""Vzglyad"" (1994)",1994.0
+72,7.0,"""Vzyat Tarantinu"" (2006)",2006.0
+1536,7.3,"""War and Peace"" (2007)",2007.0
+34,7.9,"""War and Peace"" (2007) {(#1.1)}",2007.0
+29,7.8,"""War and Peace"" (2007) {(#1.2)}",2007.0
+27,7.7,"""War and Peace"" (2007) {(#1.3)}",2007.0
+29,7.8,"""War and Peace"" (2007) {(#1.4)}",2007.0
+9,3.4,"""What Infuriates In"" (2014)",2014.0
+43,2.4,"""Ya budu ryadom"" (2011)",2011.0
+6,4.3,"""Ya lechu"" (2008)",2008.0
+8,6.8,"""Ya ne vernus"" (2005)",2005.0
+6,8.5,"""Ya vernus"" (2009)",2009.0
+6,1.8,"""Yesli zavtra v pokhod"" (2004)",2004.0
+16,5.7,"""Yunkera"" (2006)",2006.0
+24,7.2,"""Zabytyy"" (2011)",2011.0
+6,5.7,"""Zadaniya osoboy vazhnosti. Operatsiya 'Tayfun'"" (2013)",2013.0
+5,6.2,"""Zakhvatchiki"" (2009)",2009.0
+20,5.7,"""Zakoldovannyy uchastok"" (2006)",2006.0
+8,5.9,"""Zakon & poryadok: Otdel operativnykh rassledovaniy"" (2007)",2007.0
+15,5.3,"""Zakon & poryadok: Prestupnyy umysel"" (2007)",2007.0
+31,7.1,"""Zakon kamennykh dzhungley"" (2015)",2015.0
+9,7.2,"""Zakon myshelovki"" (2007)",2007.0
+19,7.4,"""Zakon"" (2002)",2002.0
+168,6.1,"""Zakrytaya shkola"" (2011)",2011.0
+65,6.6,"""Zal ozhidaniya"" (1998)",1998.0
+64,6.3,"""Zapiski ekspeditora Taynoy kantselyarii"" (2011)",2011.0
+25,7.4,"""Zashchitniki"" (2015)",2015.0
+12,6.2,"""Zastava Zhilina"" (2009)",2009.0
+70,8.0,"""Zaveshchanie Lenina"" (2007)",2007.0
+205,4.2,"""Zaytsev+1"" (2011)",2011.0
+16,2.5,"""Zharkiy led"" (2009)",2009.0
+5,4.6,"""Zhdi Menya"" (1998)",1998.0
+6,6.2,"""Zheleznyy zanaves"" (1994)",1994.0
+10,5.6,"""Zhenshchiny v igre bez pravil"" (2004)",2004.0
+10,6.7,"""Zhenskiy roman"" (2005)",2005.0
+8,8.4,"""Zhivoy Pushkin"" (1999)",1999.0
+90,8.2,"""Zhizn i priklyucheniya Mishki Yaponchika"" (2011)",2011.0
+67,7.8,"""Zhizn i sudba"" (2012)",2012.0
+9,5.2,"""Zhukov"" (2012)",2012.0
+13,6.2,"""Zhurov"" (2009)",2009.0
+9,1.1,"""Zhutkiye istorii"" (2015)",2015.0
+48,4.3,"""Zimnyaya vishnya 3"" (1995)",1995.0
+6,7.3,"""Znahar"" (2008)",2008.0
+6,4.7,"""Znakhar 2. Okhota bez pravil"" (2011)",2011.0
+8,6.9,"""Zolotoy kapkan"" (2010)",2010.0
+219,5.1,"""Zolotoy telyonok"" (2005)",2005.0
+25,5.0,"""Zolotye. Barvikha 2"" (2011)",2011.0
+108,7.8,"""Zona"" (2006)",2006.0
+7,6.1,"""Zov dzhungley"" (1993)",1993.0
+15,5.9,"""Zveroboy"" (2009)",2009.0
+23,4.0,"""Zvezda epokhi"" (2005)",2005.0
+7,6.4,"""Zvezdniy chas"" (1992)",1992.0
+60,6.8,"""Zvezdochyot"" (2004)",2004.0
+145,3.1,#Nerealnaya lyubov (2014),2014.0
+8,4.5,#NumberDrocher (2016),2016.0
+24,7.4,#halloweenparty (2015),2015.0
+7,9.0,'Strashilki' Khrestinina Kirilla: No. 1 'Kollektorshchik' (2011),2011.0
+1094,7.2,(M)uchenik (2016),2016.0
+24,7.3,(Menya zdes net) (2009),2009.0
+12,4.8,...Pervaya lyubov (1995),1995.0
+79,7.2,00:10 (2009),2009.0
+40,5.7,07-y menyaet kurs (2007),2007.0
+8,7.2,100 Thousand (2009) (TV),2009.0
+30,7.0,101-y kilometr (2001),2001.0
+11918,7.8,12 (2007),2007.0
+84,5.1,12 mesyatsev (2013),2013.0
+14,5.9,12 mesyatsev. Novaya skazka (2015),2015.0
+6,4.3,12 stulev (2004) (TV),2004.0
+23,6.2,1210 (2012),2012.0
+573,6.9,14+ (2015),2015.0
+1823,5.7,1612: Khroniki smutnogo vremeni (2007),2007.0
+12,5.4,17 avgusta (2009),2009.0
+59,5.8,1812 God (1912),1912.0
+254,2.4,1812. Ulanskaya ballada (2012),2012.0
+358,6.2,1814 (2007),2007.0
+10,5.8,2+1= (2003) (TV),2003.0
+68,5.1,2-Assa-2 (2008),2008.0
+7,1.0,20 rubley za tyolku (2011) (V),2011.0
+124,5.6,20 sigaret (2007),2007.0
+8,6.6,21.12.2012 Konets sveta (2012),2012.0
+32,7.9,211: Anna (2009),2009.0
+12,6.5,"22 iyunya, rovno v 4 chasa (1992)",1992.0
+436,5.4,22 minuty (2014),2014.0
+12,4.5,22.12.2012 Posle kontsa sveta (2012),2012.0
+142,6.1,24 chasa (2000),2000.0
+329,6.8,25 degrs en hiver (2004),2004.0
+25,7.8,29 kilometr (2012),2012.0
+11,7.1,3 Girls (2007),2007.0
+103,5.0,30 svidaniy (2016),2016.0
+51,4.8,32 dekabrya (2004) (TV),2004.0
+6,1.5,33-y Moskovskiy mezhdunarodnyy kinofestival (2011) (TV),2011.0
+9,7.2,3:00 (2015),2015.0
+1758,6.7,4 (2004),2004.0
+580,6.3,4 Tage im Mai (2011),2011.0
+14,9.1,4th Floor (2016),2016.0
+9,8.7,5 dom (2014),2014.0
+7,1.0,6 elementov vremeni (2016),2016.0
+31,6.1,7 dney s russkoy krasavitsey (1991),1991.0
+54,2.7,7 glavnykh zhelaniy (2013),2013.0
+7,8.3,7.62 (2009) (VG),2009.0
+8,6.2,72 chasa (2016),2016.0
+1167,6.7,72 metra (2004),2004.0
+6,5.3,8 (2015/II),2015.0
+333,3.9,8 luchshikh svidaniy (2016),2016.0
+430,5.5,8 novykh svidaniy (2015),2015.0
+635,6.4,8 pervykh svidaniy (2012),2012.0
+230,6.7,8  $ (1999),1999.0
+25,5.6,9 dney i odno utro (2014),2014.0
+16883,7.2,9 rota (2005),2005.0
+30,4.7,901 kilometr (2012),2012.0
+156,5.9,977 (2006),2006.0
+7,7.3,A Bag-killer from the Space (2009),2009.0
+75,7.6,A Bitter Taste of Freedom (2011),2011.0
+11,6.4,A Journey of Dmitry Shostakovich (2006),2006.0
+7,6.7,A Trivial Exclusion (2009),2009.0
+13,6.1,"A Very Large Increase in the Size, Amount, or Importance of Something Over a Very Short Period of Time (2013)",2013.0
+9,6.3,A chtoy-to ty vo frake? (1993) (TV),1993.0
+9,2.0,A mama luchshe! (2010),2010.0
+70,6.4,A poutru oni prosnulis (2003),2003.0
+6,3.2,A spat' s chuzhoy zhenoy khorosho!? (1992),1992.0
+524,6.5,A zori zdes tikhie... (2015),2015.0
+8,8.0,Abandoned (2015/IV),2015.0
+11,8.5,Abandoned (2016/II),2016.0
+8,5.5,Abel (2009),2009.0
+5,7.6,Aben Ashlishi (2015),2015.0
+8,6.6,Absistent (1996) (V),1996.0
+8,4.2,Abstract? (2009),2009.0
+9,3.9,Absurd (2016) (V),2016.0
+454,7.8,Adazhio (2000),2000.0
+6,7.0,Addicted (2014/II),2014.0
+5,5.2,Adel (2008),2008.0
+6223,6.9,Admiral (2008),2008.0
+11,4.4,Adskiy ostrov (2012),2012.0
+24,4.6,Afera (2001),2001.0
+22,8.0,Afinskie vechera (1999),1999.0
+12,7.2,"Africa, Blood & Beauty (2012)",2012.0
+7,7.9,Aftersuicide Nightmare (2007),2007.0
+6,7.5,Agape (1996),1996.0
+5,9.6,Agent Adventures (2012),2012.0
+8,4.8,Agent Diego and Video Recorder (2016),2016.0
+53,6.8,Agitbrigada 'Bey vraga!' (2007),2007.0
+7,5.4,Akt (1993),1993.0
+371,5.0,Aleksandr. Nevskaya bitva (2008),2008.0
+2222,7.0,Aleksandra (2007),2007.0
+5,7.8,Alexandra (2007),2007.0
+31,4.9,Alfons (1993),1993.0
+10,7.9,Alien Alive (2015),2015.0
+15,8.7,Alien Nightmare (2015),2015.0
+7,1.0,Alien brainsuckers (2006),2006.0
+7,1.0,Alien horror (2015) (V),2015.0
+14,4.5,Alisa i bukinist (1992),1992.0
+11,6.5,Alisa navsegda (2008),2008.0
+47,6.3,Alkhimiki (2000),2000.0
+294,4.7,All Inclusive ili Vsyo vklyucheno! (2011),2011.0
+21,5.0,"Alyaska, ser! (1992)",1992.0
+1485,7.1,Alyosha Popovich i Tugarin Zmey (2004),2004.0
+10,7.0,Ameriga (2000),2000.0
+134,7.0,Amerikanka (2001),2001.0
+400,6.4,Amerikanskaya doch (1995),1995.0
+76,5.3,Amerikanskiy dedushka (1994),1994.0
+7,1.0,Amnesia (2016) (V),2016.0
+49,6.2,Amori elementari (2014),2014.0
+171,6.4,Amrica (2010),2010.0
+19,7.5,Anatomiya t.A.T.u. (2003) (TV),2003.0
+262,5.7,Andersen. Zhizn bez lyubvi (2006),2006.0
+6,9.2,"Andrey Belyy. Okhota na angela, ili Chetyre lyubvi poeta i proritsatelya (2002)",2002.0
+64,7.9,Andrey Iskanov's Ingression (2010),2010.0
+33,7.3,Andrey Svislotskiy (1992),1992.0
+8,8.5,Andrey Tarkovskiy. Vospominanie (1996),1996.0
+10,7.8,Anemos stin poli (1996),1996.0
+14,6.6,Angel (2011/III),2011.0
+17,6.6,Angel na obochinye (2004),2004.0
+6,6.7,Angel of Death (2007),2007.0
+186,6.5,Angely revolyutsii (2014),2014.0
+48,6.6,Angely smerti (1993),1993.0
+7,5.6,Angely v rayu (1993),1993.0
+132,7.7,Animated Epics: Beowulf (1998) (TV),1998.0
+200,7.1,"Ankor, eshchyo ankor! (1993)",1993.0
+7,4.1,Anna (2005/II),2005.0
+14,5.4,Anna Karenina (1911),1911.0
+10,6.0,Anna Karenina (1914),1914.0
+549,7.6,Anna ot 6 do 18 (1994),1994.0
+11,4.6,Anomaliya (1993),1993.0
+9,3.6,Anomaliya (2012),2012.0
+5,2.0,Anomaliya vnezemnogo proiskhozhdeniya (2016),2016.0
+8,6.2,Anomie (2016),2016.0
+10,8.6,Another Dimension (2012) (V),2012.0
+14,4.3,Antalya (2010),2010.0
+8,8.2,Anthology of Horror 2 (2015),2015.0
+7,8.1,Anthology of Horror 3 (2016),2016.0
+167,3.5,Antidur (2007),2007.0
+5,8.2,Antifascist Attitude (2008),2008.0
+502,5.2,Antikiller 2: Antiterror (2003),2003.0
+384,6.1,Antikiller D.K. (2009),2009.0
+25,5.0,Antisex (2008),2008.0
+9,6.4,Antitransformery (2012),2012.0
+16,7.2,Antologiya uzhasov (2014),2014.0
+181,7.4,Anton tut ryadom (2012),2012.0
+19,8.3,Antonina obernulas (2008),2008.0
+29,6.2,Anya (2015),2015.0
+49,6.6,Apelsinovyy sok (2010),2010.0
+5,4.6,Apokalypse 99 - Anatomie eines Amoklufers (2000),2000.0
+7,5.6,Apokrif: Muzyka dlya Petra i Pavla (2005),2005.0
+101,6.2,Aprel (2002),2002.0
+64,6.5,Arbitr (1992),1992.0
+10,8.6,Arctic Alchemy (2015),2015.0
+5,7.0,Arena (2012),2012.0
+16,5.1,Ariel (1992),1992.0
+10,6.8,Arje (2004),2004.0
+7,3.6,Armagedon (2015) (V),2015.0
+13,7.5,Arshin mal-alan (1917),1917.0
+108,3.4,Artefakt (2009),2009.0
+35,6.6,Artel (2006),2006.0
+14,6.9,Artist i master izobrazheniya (2000),2000.0
+206,7.0,Artistka (2007),2007.0
+6,7.8,Arventur (2015),2015.0
+215,8.8,Arvydas Sabonis 11 (2014),2014.0
+1163,4.4,Assassins Run (2013),2013.0
+6,8.2,Ataga sovetskikh zombi (2016),2016.0
+29,6.6,Atlantida (2002),2002.0
+12,5.5,Atlantika (2011),2011.0
+81,5.4,Atomnyy Ivan (2012),2012.0
+9,6.8,Attack Red Arrows and Circles (2016),2016.0
+7,1.0,Attack of Monster (2016),2016.0
+6,8.7,Attraction of the Earth (2017),2017.0
+6,4.7,Attraktsion (1996),1996.0
+526,6.2,Ausgerechnet Sibirien (2012),2012.0
+7,6.7,Autumn Madness (2008),2008.0
+6,5.3,Avantyura (1995),1995.0
+78,4.6,Avantyuristy (2014),2014.0
+8,5.2,Avariynoe sostoyanie (2012),2012.0
+1872,5.8,Avgust. Vosmogo (2012),2012.0
+107,6.4,Azarkant (2013),2013.0
+9,7.2,Azathoth (2016),2016.0
+503,6.6,Azazel (2002) (TV),2002.0
+222,3.6,Aziris nuna (2006),2006.0
+12,6.7,B teme (2008),2008.0
+7,5.1,B/S* *byvshiy sotrudnik (2012) (TV),2012.0
+11,7.2,BAgI (2011),2011.0
+5,6.8,BRATiYA (2011),2011.0
+500,6.4,Bablo (2011),2011.0
+37,3.1,Babnik-2 (1992),1992.0
+12,6.1,Babochki (1992),1992.0
+9,7.0,Babushka (1997),1997.0
+470,7.4,Babusya (2003),2003.0
+25,5.8,Bagrovyy tsvet snegopada (2010),2010.0
+386,6.4,Baikonur (2011),2011.0
+6,5.8,Bakchisarayskiy fontan (1909),1909.0
+182,6.9,Baksy (2008),2008.0
+86,6.1,Balaxanida neft fontani (1898),1898.0
+7,5.4,Balerina (1993),1993.0
+9,5.7,Balka Illi (2015),2015.0
+427,6.9,Ballada o bombere (2011) (V),2011.0
+27,9.3,Ballada o materi (2007),2007.0
+6,7.7,"Ballet, Sweat and Tears (2013)",2013.0
+8,7.1,Bam (2008),2008.0
+7,1.1,Bandit Pereslavl (2016) (V),2016.0
+7,6.6,Banka (2013),2013.0
+5,6.2,Bankrot (2009),2009.0
+59,7.3,Barabaniada (1993),1993.0
+7,3.3,Barabanschik (2016),2016.0
+77,6.3,Barak (1999),1999.0
+56,6.4,Barkhanov i ego telokhranitel (1996),1996.0
+309,5.5,Barmen (2015),2015.0
+7,8.0,Baron (2016),2016.0
+85,6.8,Baryshnya i khuligan (1918),1918.0
+213,6.8,Baryshnya-krestyanka (1995),1995.0
+31,5.9,Bashmachnik (2002),2002.0
+606,6.6,Batalon (2015),2015.0
+7,1.0,Battle for Pereslavl (2016) (V),2016.0
+24,6.2,Battles (2015),2015.0
+18,6.3,Baykalskiy intsident. Skrytaya ugroza (2014),2014.0
+714,6.2,Bear's Kiss (2002),2002.0
+8,9.2,Bednaya Liz (2013) (TV),2013.0
+330,7.1,Bednaya Sasha (1997),1997.0
+294,6.3,Bednye rodstvenniki (2005),2005.0
+176,6.9,"Bednyy, bednyy Pavel (2003)",2003.0
+187,6.6,Beduin (2011),2011.0
+9,6.6,Beg po solnechnoy storone (1992),1992.0
+28,7.6,Begi! (2015) (TV),2015.0
+56,6.4,Beglyanki (2007),2007.0
+21,5.5,Begushchaya po volnam (2007),2007.0
+13,5.2,Behind the Back (2014),2014.0
+8,7.1,Behind the Wall (2007),2007.0
+11,6.0,Belaya belaya noch (2014),2014.0
+5,5.2,"Belaya noch, nezhnaya noch (2008)",2008.0
+29,6.1,Belaya strela (2007) (TV),2007.0
+934,5.2,Belka i Strelka. Zvezdnye sobaki (2010),2010.0
+71,4.5,Belka i Strelka: Lunnye priklyucheniya (2014),2014.0
+199,7.7,Belovy (1992),1992.0
+7,5.6,Belye nochi (1992),1992.0
+966,7.0,Belye nochi pochtalona Alekseya Tryapitsyna (2014),2014.0
+16,4.4,Belyy gorod (2006),2006.0
+25,5.0,"Belyy korol, krasnaya koroleva (Russkie) (1993)",1993.0
+22,3.7,"Belyy mavr, ili Intimnye istorii o moikh sosedyakh (2012)",2012.0
+22,7.7,Belyy prazdnik (1996),1996.0
+2119,6.1,Belyy tigr (2012),2012.0
+20,7.6,Belyy yagel (2014),2014.0
+7,5.7,Benches No. 0458 (2016),2016.0
+3208,5.0,Beremennyy (2011),2011.0
+75,7.1,Beskonechnost (1992),1992.0
+8,6.8,Best Friend (2013),2013.0
+39,7.3,Besy (1992),1992.0
+7,8.4,Besy (2016),2016.0
+8,6.1,Between Dreams (2009),2009.0
+8,2.5,Between Life and Death (2012),2012.0
+38,6.3,Beyond the Ocean (2000),2000.0
+329,6.0,Bez granits (2015),2015.0
+52,4.8,Bez muzhchin (2011),2011.0
+19,5.1,Bez vini vinovatiye (2008),2008.0
+60,6.0,Bezdelniki (2011),2011.0
+56,5.8,Bezrazlichie (2011),2011.0
+76,6.3,Bibiheybatda neft fontani yangini (1898),1898.0
+18,7.8,Bibinur (2009),2009.0
+47,7.3,Bibo (2012),2012.0
+707,4.3,Bilet na Vegas (2013),2013.0
+7,7.6,"Bilet v krasnyy teatr, ili smert grobokopatelya (1992)",1992.0
+9,7.2,Billy the Puppet (2016),2016.0
+16,8.4,Birth of a Website (2008) (V),2008.0
+8,7.5,Bites of Zombies Do Not Pass Without Leaving a Trace (2005),2005.0
+1325,8.4,Biting Elbows: Bad Motherfucker (2013) (V),2013.0
+13,7.5,Bitva za Sevastopol (2014),2014.0
+4683,7.2,Bitva za Sevastopol (2015),2015.0
+31,5.8,Bitva za Ukrainu (2014),2014.0
+12,8.8,Black Book (2016),2016.0
+12,6.2,Black Knight Decoded (2015) (V),2015.0
+1745,4.1,Black Rose (2014),2014.0
+26883,6.4,Black Sea (2014),2014.0
+246,6.8,Blagoslovite zhenshchinu (2003),2003.0
+9,6.3,Blagotvoritelnyy bal (1993) (TV),1993.0
+22,5.5,Blazhennaya (2008),2008.0
+191,6.7,Blizhniy Boy: The Ultimate Fighter (2007),2007.0
+137,5.5,Blizkiy vrag (2010),2010.0
+6,2.5,Bloger (2012),2012.0
+231,7.6,Blokada (2006/I),2006.0
+552,7.4,Blokpost (1999),1999.0
+56,7.0,Bloodrop 3D (2011),2011.0
+7,7.6,Bloody Cats-killers (1996) (V),1996.0
+10,2.7,Bloody Diarhea (2015),2015.0
+8,2.1,Bloody Forest (2016),2016.0
+7,1.0,Bloody Massacre (2016),2016.0
+5,6.4,Blueberry Fields Forever (2016),2016.0
+14,4.4,Bluz opadayushih listyev (2006) (V),2006.0
+6,9.5,Bock Saga: Welcome to Altlantis (2016),2016.0
+24,7.5,Bock Saga: Welcome to Hel (2015),2015.0
+11,6.5,Bogatyr dukha (1918),1918.0
+15,3.5,Bogatyrsha (2016),2016.0
+566,7.0,Boginya: kak ya polyubila (2004),2004.0
+144,6.2,Bolero (1993),1993.0
+13,5.6,Bolevoy priyom (1992),1992.0
+75,6.0,Bolshaya lyubov (2006),2006.0
+167,1.7,Bolshaya rzhaka (2012),2012.0
+7,4.1,Bolshoe zlo i melkie pakosti (2005) (TV),2005.0
+5,7.8,Bolshoi Ballet: Ivan the Terrible (1990) (TV),1990.0
+5,5.4,Bolshoy chelovek (1908),1908.0
+7,5.4,"Bolshoy kapkan, ili solo dlya koshki pri polnoy lune (1992)",1992.0
+34,4.3,Bomba (1997),1997.0
+8,8.8,Book Smugglers (2010),2010.0
+38,6.3,Boris Godunov (2012),2012.0
+160,1.9,Born Into Mafia (2007),2007.0
+21,6.6,Botinki iz America (2001),2001.0
+7,5.9,Boxes (2013/II),2013.0
+1447,6.1,Boy s tenyu (2005),2005.0
+486,6.1,Boy s tenyu 3. Posledniy raund (2011),2011.0
+699,6.2,Boy s tenyu II. Revansh (2007),2007.0
+5,5.6,Boyarin Orsha (1910),1910.0
+7943,4.7,Branded (2012),2012.0
+10840,8.0,Brat (1997),1997.0
+7876,7.9,Brat 2 (2000),2000.0
+32,6.6,Brat Deyan (2015),2015.0
+26,7.0,Bratya Ch (2014),2014.0
+23,6.7,Bratya Piloty gotovyat na zavtrak makaronchiki (1996),1996.0
+15,5.7,Bratya Razboiniki (1912),1912.0
+9,6.1,Bravoman (2016),2016.0
+9,8.4,Break Point (2004),2004.0
+8,7.4,Bred (1992) (V),1992.0
+8,5.1,Bred 2 (1993) (V),1993.0
+6,5.2,Bred vdvoyom (1995),1995.0
+105,4.8,Bremenskie muzykanty (2001),2001.0
+6747,7.5,Brestskaya krepost (2010),2010.0
+731,3.1,Brigada: Naslednik (2012),2012.0
+12,8.7,Brigade E5: New Jagged Union (2005) (VG),2005.0
+246,7.1,"Brigands, chapitre VII (1996)",1996.0
+7,7.3,Brillianty. Vorovstvo (2011),2011.0
+21,7.6,Brodvey. Chernoe more (2002),2002.0
+8,2.5,Broken Love (2011),2011.0
+7,2.9,Broken Love 2 (2011),2011.0
+7,3.7,Brony-Ponies (2015),2015.0
+7,3.7,Brony-Ponies 2 (2015),2015.0
+7,4.4,Brony-Ponies 3: Rise of Sayonara (2015),2015.0
+7,4.3,Brony-Ponies 4: The Return of Sayonara (2015),2015.0
+6,4.2,Brony-Ponies 5: Revolution (2016),2016.0
+9,3.2,Brony-Ponies 6: Military Service (2016),2016.0
+6,4.5,Brony-Ponies 7: Survivors on the Island (2016),2016.0
+9,4.2,Brony-Ponies 8: Returning to the Army (2016),2016.0
+8,4.8,Brony-Ponies and Buhanki: Rangers Yukio and Shad (2016),2016.0
+7,6.1,Brony-Ponies: Attack of Pony from FVK (2016),2016.0
+7,5.1,Brony-Ponies: The Official Game (2016),2016.0
+11,6.9,Brut (2014),2014.0
+224,6.7,"Buben, baraban (2009)",2009.0
+53,8.3,Bucks from Starbucks (2013),2013.0
+34,6.2,Bud so mnoy (2009),2009.0
+33,6.9,Buddha's Little Finger (2015),2015.0
+6,4.0,"Budulay, kotorogo ne zhdut (1994)",1994.0
+8,6.9,Buhanka Ulix: The Movie (2016),2016.0
+54,7.6,Bukashki (2002),2002.0
+7,8.0,Bulag. Svyatoy istochnik (2013),2013.0
+11,5.3,Bulvarnyy pereplyot (2003),2003.0
+13,6.0,Bulvarnyy roman (1994),1994.0
+708,6.5,Bumazhnyy soldat (2008),2008.0
+4295,7.3,Bumer (2003),2003.0
+2131,6.3,Bumer: Film vtoroy (2006),2006.0
+309,7.3,Bunt. Delo Litvinenko (2007),2007.0
+13,7.3,Buqlmun (2013),2013.0
+45,3.9,Buratino (2009),2009.0
+22,7.1,Burevestnik (2004) (TV),2004.0
+369,4.1,Burial of the Rats (1995) (TV),1995.0
+8,10.0,Butterflies (2016),2016.0
+9,9.0,Butterfly Fluttering (2014),2014.0
+51,5.3,"Byron, i balada enos daimonismenou (1992)",1992.0
+644,6.2,"Bystree, chem kroliki (2014)",2014.0
+5,4.2,Byt vlyublyonnym (1992),1992.0
+37,7.2,Campaign of Hate: Russia and Gay Propaganda (2014),2014.0
+15,6.1,Candy (2008) (V),2008.0
+6,2.3,Cannibals Holocaust. Demons in the Flesh (2016),2016.0
+2399,5.8,Canbal (2013),2013.0
+20864,4.7,Captivity (2007),2007.0
+7,8.6,Cargo 425 (2014),2014.0
+7,5.0,Cargo 425. Part 2 (2015),2015.0
+13,7.3,Casus belli (2003),2003.0
+120,7.5,Catherine the Great (2005) (TV),2005.0
+8,8.2,Cave (2015),2015.0
+11,7.3,Cemetery Legend (2015),2015.0
+302,6.3,Ch/B (2014),2014.0
+50,7.2,Chaika (2012),2012.0
+73,6.7,Chaiki (2015),2015.0
+8,1.0,Chains of Mephistopheles (2015),2015.0
+207,7.1,Chamane (1996),1996.0
+5,2.2,Chapaev (2016) (V),2016.0
+5,9.0,Chas khlada (2016) (V),2016.0
+126,6.8,Chas pik (2006),2006.0
+9,4.7,Chastnik (2008) (TV),2008.0
+26,7.2,Chastnoe pionerskoe (2013),2013.0
+18,6.9,Chastnoe pionerskoe 2 (2015),2015.0
+12,6.7,Chastnye kroniki. Monolog (1999),1999.0
+56,7.4,Cheburashka (2010),2010.0
+9,6.9,Checkpoint (2015),2015.0
+22,4.8,Chek (2000),2000.0
+257,6.7,Chekhovskie motivy (2002),2002.0
+563,7.1,Chekist (1992),1992.0
+74,7.0,Chelovek bezvozvratnyy (2006),2006.0
+26,6.2,Chelovek niotkuda (2010) (TV),2010.0
+10,6.4,Chelovek s Luny (2003),2003.0
+153,1.8,Chelovek s bulvara Kaputsinok (2010),2010.0
+102,6.9,Chelovek u okna (2010),2010.0
+10,6.4,"Chelovek v futlyare, chelovek v palto i chelovek vo frake (2005)",2005.0
+22,5.7,"Chelovek, kotoryy molchal (2004)",2004.0
+153,5.7,"Chelovek, kotoryy znal vsyo (2009)",2009.0
+39,7.6,Chelovek-veter (2007),2007.0
+439,4.3,Chempiony (2014),2014.0
+199,6.4,Chempiony: Bystree. Vyshe. Silnee (2016),2016.0
+3645,5.9,Chernaya Molniya (2009),2009.0
+11,6.4,Chernyy prints (2004),2004.0
+20,5.8,Cherv (2006),2006.0
+47,6.7,Chetvyortaya planeta (1995),1995.0
+37,5.2,Chetyre taksista i sobaka (2004),2004.0
+26,4.7,Chetyre taksista i sobaka 2 (2006),2006.0
+41,6.2,Chetyre vozrasta lyubvi (2008),2008.0
+8,4.6,Chetyrnadtsat tsvetov radugi (2000),2000.0
+45466,6.5,Child 44 (2015),2015.0
+52,7.3,Children 404 (2014),2014.0
+49,7.6,Chinti (2012),2012.0
+36,7.0,Chippendale (2012),2012.0
+412,7.3,Chistilishche (1998) (TV),1998.0
+83,6.0,Chistoe iskusstvo (2016),2016.0
+31,6.4,Chitaem 'Blokadnuyu knigu' (2009),2009.0
+91,7.1,Chizkeik (2008) (V),2008.0
+7,5.9,Chornyy baran (2009),2009.0
+24,7.4,Christmas Eve '45 (2012),2012.0
+3232,5.6,Chto tvoryat muzhchiny! (2013),2013.0
+1087,5.2,Chto tvoryat muzhchiny! 2 (2015),2015.0
+26,5.9,Chtoby vyzhit (1993),1993.0
+79,7.6,Chucha (1999),1999.0
+50,6.7,Chucha-2 (2001),2001.0
+27,6.7,Chucha-3 (2004),2004.0
+25,7.9,Chuchelo (1992),1992.0
+13,5.0,Chudesa v Reshetove (2004),2004.0
+5,5.0,Chudnaya dolina (2004) (V),2004.0
+245,6.6,Chudo (2009),2009.0
+6,6.8,Chuffyk (1993) (TV),1993.0
+659,6.7,Chuzhaya (2010),2010.0
+23,4.4,Chuzhaya voyna (2014),2014.0
+163,5.3,Chuzhie (2008),2008.0
+7,4.1,Chuzhie dushi (2009) (TV),2009.0
+10,5.6,Chyornaya akula (1993),1993.0
+7,6.9,Chyornaya metka (2011) (TV),2011.0
+29,5.7,Chyornaya vual (1995),1995.0
+11,4.0,Chyornye berety (1995),1995.0
+15,6.7,Chyornyy frayer (1999),1999.0
+74,6.4,Chyornyy kvadrat (1993),1993.0
+8,3.8,Chyornyy okean (1997),1997.0
+12,7.8,Ciel eteint! (2008),2008.0
+6,8.0,Cinderella's Ball (2016),2016.0
+25,8.0,Cinema: A Public Affair (2015),2015.0
+15,6.3,Citizien Khodorkovsky (2015),2015.0
+612,6.5,City 40 (2016),2016.0
+9,6.8,Close-Up (1997),1997.0
+7,4.7,Clown (2002),2002.0
+33,8.3,Coca: Die Taube von Tschetschenien (2005),2005.0
+7,1.0,Collection of Fear (2016) (V),2016.0
+51,7.3,Colors of Math (2012),2012.0
+9,7.1,Conduction (2015/I),2015.0
+19,6.1,Confrotation Between 2 Robbers: Back to the Past (2015),2015.0
+5,8.8,Constancy of Death (2017),2017.0
+9,7.6,Corpse Bride (2016),2016.0
+5,1.2,Corridor (2014) (V),2014.0
+11,8.0,Crazy Elnar (2014),2014.0
+11,7.7,Crazy Elnar 2 (2014),2014.0
+9,7.7,Crazy Elnar 3 (2014),2014.0
+520,6.5,Crime and Punishment (2002),2002.0
+8,8.1,Crocodile-killer (2016),2016.0
+9,2.8,Curse of the Sorcerer (2013),2013.0
+7,5.9,Cursed Dagger (2015),2015.0
+8,7.2,Cursed Ground (1996),1996.0
+33,5.1,Cyril and Methodius: The Apostles of the Slavs (2013),2013.0
+9,6.4,D.A.R.E. to Keep Kids Off Drugs (1994) (TV),1994.0
+1286,7.6,DMB (2000),2000.0
+208,5.2,Da i Da (2014),2014.0
+63,3.8,Dabl trabl (2015),2015.0
+24,5.5,Dafnis i Khloya (1993),1993.0
+23,6.2,Daleko ot Sanset Bulvara (2006),2006.0
+10,8.2,Damn Volvoxes (2013),2013.0
+216,2.4,Dance Macabre (1992),1992.0
+350,8.2,Dancer (2016/II),2016.0
+5,6.0,"Danse la danse, Nacho Duato (2012)",2012.0
+7,4.1,Dark Seed (2016/II),2016.0
+5,8.0,Dark Sky. White Clouds. (2015),2015.0
+9,4.0,Date of Death Unknown (2014),2014.0
+60,9.2,Datuna: Portrait of America (2015),2015.0
+1376,7.3,Daun Haus (2001),2001.0
+6,5.7,Davayte bez fokusov!... (1992),1992.0
+8,7.5,Day Z (2012),2012.0
+9,6.3,Day and Night Killers (2014),2014.0
+9,8.7,Day of the Living Dead (2016),2016.0
+320,5.5,Dazhe ne dumay! (2003),2003.0
+198,3.8,Dazhe ne dumay! Ten nezavisimosti (2004),2004.0
+62,7.3,Dead Line (2004),2004.0
+25,7.4,Deadhunt (2005) (VG),2005.0
+11,9.5,Deadly Cruise (2016),2016.0
+8,4.6,Deadly Dialog (2015),2015.0
+8,8.9,Death in Kizhi (2016),2016.0
+60,6.0,Ded 005 (2013),2013.0
+7,5.1,Ded Moroz vsegda zvonit... trizhdy! (2012) (TV),2012.0
+78,4.4,Ded Moroz. Bitva Magov (2016),2016.0
+5,3.0,Degradation (2016) (V),2016.0
+47,7.6,Delirium (2013/II),2013.0
+7,7.3,Deliverance (2013),2013.0
+9,6.3,Delo Beilisa (1917),1917.0
+7,1.0,Delusion of Persecution (2016),2016.0
+23,4.7,Demobbed-002 (2000),2000.0
+11,4.9,Demobbed-003 (2001),2001.0
+11,4.8,Demobbed-004 (2001),2001.0
+10,4.8,Demobbed: Snova v Boyu (2001),2001.0
+5,6.0,Demon (2017),2017.0
+319,3.5,Den D (2008),2008.0
+5,7.8,Den Pobedy (2014),2014.0
+5,4.6,Den deneg (2006),2006.0
+39,4.7,Den duraka (2014),2014.0
+85,6.2,Den khomyachka (2003),2003.0
+8,5.5,Den pobedy (2007),2007.0
+168,6.8,Den polnoluniya (1998),1998.0
+12,7.6,Den radio (2003) (V),2003.0
+1915,7.4,Den radio (2008),2008.0
+126,5.6,Den rozhdeniya Alisy (2009),2009.0
+13,2.4,Den rozhdeniya Infanty (2007),2007.0
+7,5.1,Den svyatogo Valentina (2000),2000.0
+21,5.4,Den uchitelya (2012),2012.0
+2007,7.6,Den vyborov (2007),2007.0
+618,6.2,Den vyborov 2 (2016),2016.0
+14,5.1,Den zverya (2010),2010.0
+5,1.6,Den' zombie 2. Apokalipsis (2015),2015.0
+5,1.4,Den' zombie. Gibel Moskvy (2015),2015.0
+5,5.0,Densen (2008) (V),2008.0
+7,3.9,Derevenskaya rhapsodia (2012),2012.0
+7,1.0,Derevo (2016) (V),2016.0
+7,1.0,Derevo 2: Vozvraschenie (2016) (V),2016.0
+19,6.9,Derevo detstva (2008),2008.0
+36,6.8,Derevyannaya komnata (1995),1995.0
+40,5.2,"Derzhi udar, detka! (2016)",2016.0
+91,3.2,Derzkie dni (2007),2007.0
+14,7.8,Destruct (2014),2014.0
+11,6.7,Desyatka (2013),2013.0
+7,6.9,Deti 404 (2014),2014.0
+7,3.4,Deti 90-kh (2015),2015.0
+86,7.3,Deti chugunnykh bogov (1993),1993.0
+57,6.2,Deti ponedelnika (1997),1997.0
+35,2.3,Deti protiv volshebnikov (2016),2016.0
+76,6.5,Deti veka (1915),1915.0
+63,6.6,Detochki (2013),2013.0
+16,3.9,Detonator (1992),1992.0
+7,8.4,Detsimeron (2006),2006.0
+356,6.4,Detyam do 16... (2010),2010.0
+7,7.3,Deux amis (2014),2014.0
+10,7.3,Devi gory (1919),1919.0
+18,6.1,Devochka dura (2006),2006.0
+75,6.1,Devochki (2005),2005.0
+154,6.2,Devstvennost (2008),2008.0
+15,5.9,Devyat dney do vesny (2007) (TV),2007.0
+9,3.8,Dezertir (1997),1997.0
+39,6.2,Dialogi (2013),2013.0
+223,5.6,Diana: Last Days of a Princess (2007) (TV),2007.0
+9,7.2,Didn't See Didn't Do (2015),2015.0
+307,7.1,Die Hard (1997),1997.0
+8,7.5,Die Hter der Tundra (2013),2013.0
+7,8.6,Die Moskauer Prozesse (2014),2014.0
+8,3.9,Die for Love (2010),2010.0
+8,4.2,Die for love (2015),2015.0
+7,2.3,Die for love 2 (2012),2012.0
+771,6.8,Dieci inverni (2009),2009.0
+170,3.8,Diggeri (2016),2016.0
+464,6.6,Dikari (2006),2006.0
+11,6.3,Dikarka (2002),2002.0
+513,7.2,Dikoe pole (2008),2008.0
+279,6.6,Dirizhyor (2012),2012.0
+5,5.2,Disciples 3: Renaissance (2010) (VG),2010.0
+14,7.7,Dislike (2016),2016.0
+33,8.9,"Disparait, v. (2005)",2005.0
+212,6.8,Ditya bolshogo goroda (1914),1914.0
+157,2.0,Dizlayk (2016),2016.0
+421,7.2,Dnevnik ego zheny (2000),2000.0
+50,5.7,Dnevnik kamikadze (2003),2003.0
+30267,6.5,Dnevnoy dozor (2006),2006.0
+14,5.9,Dnevnoy predstavitel (2004),2004.0
+10,5.2,Dni nashey zhizni (1914),1914.0
+8,8.0,"Do Not Worry, I Keep (2016)",2016.0
+40,4.5,Do svidaniya mama (2014),2014.0
+6,5.5,Dobriy doktor (2010),2010.0
+1125,7.2,Dobrynya Nikitich i Zmey Gorynych (2006),2006.0
+258,7.4,Doch (2012),2012.0
+90,5.2,Doch yakudzy (2010),2010.0
+18,5.9,Doktor (2012),2012.0
+100,6.8,Dolce... (2000),2000.0
+289,6.2,Dolgaya schastlivaya zhizn (2013),2013.0
+56,7.1,Dolgoe proshchanie (2004),2004.0
+12,5.5,Dolina roz (2011),2011.0
+10,7.5,Dolina schastya (1993),1993.0
+8,6.1,Doll (2014/II),2014.0
+850,7.5,Dom (2011/III),2011.0
+445,6.6,Dom Solntsa (2010),2010.0
+11,5.9,Dom dlya bogatykh (2000),2000.0
+2347,7.2,Dom durakov (2002),2002.0
+11,7.9,Dom mastera (1998),1998.0
+33,6.7,Dom na obochine (2011),2011.0
+6,4.7,Dom smerti (1916),1916.0
+5,1.4,Dom tumanov (2016),2016.0
+38,5.6,Dom vetra (2011),2011.0
+5,6.2,"Dom, milyy dom... (2008)",2008.0
+52,6.8,Domik v Kolomne (1913),1913.0
+33,5.6,Domik v serdtse (2014),2014.0
+1061,7.2,Domovoy (2008),2008.0
+22,7.0,Don Kikhot vozvrashchaetsya (1997),1997.0
+11,6.6,Don't Go Into the Woods Alone (2015),2015.0
+34,6.9,Dopolnitel'nye vozmozhnosti pyatachka (2008),2008.0
+6,5.2,Dora-Dora Pomidora (2001) (TV),2001.0
+37,6.0,Doroga (2002),2002.0
+9,5.4,Doroga bez kontsa (2015),2015.0
+46,5.6,Doroga na (2011),2011.0
+155,6.2,Doroga na Berlin (2015),2015.0
+19,6.8,Doroga v ray (1993),1993.0
+7,8.1,Dorogi (2003),2003.0
+12,7.8,Dotyanutsya do mamy (2011),2011.0
+7,6.9,Double Solid Line (2009),2009.0
+6,6.0,Down by the Path of the Sun (2015),2015.0
+7,7.3,Dozhd Idyot (2012),2012.0
+27,7.1,Dozhd' sverkhu vniz (2007),2007.0
+20,6.3,Dozhdi v okeane (1994),1994.0
+7,8.0,Drama v kabare futuristov No. 13 (1914),1914.0
+45,5.2,Drama v tabore podmoskovnykh tsygan (1908),1908.0
+12,6.2,Dreamfish (2016),2016.0
+18,8.2,Drednouty (2006) (V),2006.0
+4716,5.2,Driven to Kill (2009) (V),2009.0
+72,7.2,Drugaya storona (1994),1994.0
+60,5.4,Drugoe nebo (2010),2010.0
+50,8.2,Drunken Sailor (2007),2007.0
+277,3.0,Druzya druzey (2013),2013.0
+15,8.3,Dry Grass in a Blue Vase (2013),2013.0
+13,6.9,"Dryan khoroshaya, dryan plokhaya (1998)",1998.0
+592,5.0,Dublyor (2013),2013.0
+228,5.2,Dubrovskiy (2014),2014.0
+1266,6.5,Duelyant (2016),2016.0
+13,5.3,Dukh (1999),1999.0
+17,7.6,Dukh (2014),2014.0
+2530,6.5,Dukhless (2012),2012.0
+1031,6.4,Dukhless 2 (2015),2015.0
+141,7.9,Dukhovnye golosa. Iz dnevnikov voyny. Povestvovanie v pyati chastyakh (1995),1995.0
+6,8.0,Dunechka (2004),2004.0
+209,6.5,Dura (2005),2005.0
+4674,8.0,Durak (2014/II),2014.0
+7,7.1,Durakam zdes ne mesto (2015),2015.0
+14,8.1,Dusha (2014),2014.0
+76,7.0,Dusha shpiona (2015),2015.0
+553,6.8,Duska (2007),2007.0
+651,7.1,Dva dnya (2011),2011.0
+161,7.4,Dva kapitana II (1993),1993.0
+16,5.8,Dva tovarishcha (2001),2001.0
+226,6.7,Dva v odnom (2007),2007.0
+5,5.8,Dvadtsat minut s angelom (1996) (TV),1996.0
+1712,7.2,Dvadtsat vosem panfilovtsev (2016),2016.0
+18,5.8,"Dve luny, tri solntsa (1998)",1998.0
+6,5.3,Dvenadtsatoe leto (2008),2008.0
+9,3.3,Dvoe (2004),2004.0
+7,7.0,Dvoe (2010) (TV),2010.0
+7,3.9,Dvor zhivikh mertvetsov (2016) (V),2016.0
+15,7.2,Dvoynaya familiya (2006),2006.0
+34,7.1,Dyadushkina kvartira (1913),1913.0
+72,7.3,Dyuba-Dyuba (1992),1992.0
+20,7.2,Dyuymovochka (2007),2007.0
+493,3.2,"Dzhentlmeny, udachi! (2012)",2012.0
+9,5.2,Dzherry (2012),2012.0
+825,5.3,Dzhungli (2012),2012.0
+6,7.7,Ebis za naslednika Medvezhonka (2008),2008.0
+129,6.0,Edinichka (2015),2015.0
+70,5.7,Eger (2004),2004.0
+7,7.4,Egg of Genocide (2005),2005.0
+44,5.8,Ekhali dva shofyora (2002),2002.0
+9,4.9,Ekhay (1995),1995.0
+1974,7.0,Ekipazh (2016),2016.0
+43,5.0,Ekvator (2007),2007.0
+7,5.9,Elastico (2016),2016.0
+6,8.5,Elbrus: Siberian expedition (2014),2014.0
+291,7.5,Elegiya dorogi (2001),2001.0
+37,6.9,Elegiya iz Rossii (1993),1993.0
+81,7.2,Elegiya zhizni. Rostropovich. Vishnevskaya. (2006),2006.0
+8783,7.3,Elena (2011),2011.0
+12,2.7,Elevator (2014/II),2014.0
+15,6.8,Eliksir (1996),1996.0
+18,3.8,Eliksir (2015),2015.0
+28,5.7,Elka (2007),2007.0
+85,5.0,Elki lokhmatye (2015),2015.0
+7,6.3,Eltsin. Tri dnya v avguste (2011) (TV),2011.0
+15,8.8,Elvis 55 (2012),2012.0
+26,9.0,Emerald Dream (2012),2012.0
+73,6.3,En un claroscuro de la luna (1999),1999.0
+42,3.4,Endless Corridor (2014),2014.0
+6,8.3,Enmesh (2011),2011.0
+11,4.3,Entropiya (2013),2013.0
+8,7.8,Equilibrium (2016),2016.0
+11,7.0,Escape from the Village of Beetles (2015),2015.0
+10,8.3,Escape from the Village of Zombies (2015),2015.0
+34,6.8,Escaping Riga (2014),2014.0
+230,6.5,Eshche odin god (2014),2014.0
+11,6.8,Eshchyo raz! (2010),2010.0
+15,7.1,Esli by ya tebya lyubil... (2010) (TV),2010.0
+7,3.3,Esli by znat... (1993),1993.0
+4008,7.5,Est - Ouest (1999),1999.0
+9,4.2,Estestvennyy otbor (2001),2001.0
+14,5.7,Eta zhenshchina v okne... (1993),1993.0
+7,8.6,Etazh No. 6 (2013),2013.0
+35,6.3,Etim vecherom angely plakali (2008),2008.0
+47,7.5,Everything Is Allowed (2004) (V),2004.0
+9,8.4,Evidence (2015/I),2015.0
+7,8.7,Evil Mix (1996) (V),1996.0
+8,6.6,Evil Vid 3: Battle Across Time (2011),2011.0
+8,7.5,Evil Vid 4: Rebirth (2011),2011.0
+5,8.2,Evolyutsiya Petra Sentsova (2006),2006.0
+60,4.8,Evropa-Aziya (2009),2009.0
+173,5.8,Exaella (2011),2011.0
+9,7.7,Exam (2016),2016.0
+8,6.2,Execution (1996) (V),1996.0
+7,9.9,Exploration of Confinement (2013),2013.0
+1455,6.9,Exporting Raymond (2010),2010.0
+1001,6.8,Eyforiya (2006),2006.0
+20,8.0,F5 (2012),2012.0
+43,8.7,Faberge: A Life of Its Own (2014),2014.0
+55,6.9,Fabrika (2004),2004.0
+5,2.6,Fabrika: Ne vinovataya ya (2005) (V),2005.0
+6,2.5,Faces of Aliens (2016),2016.0
+9,8.1,Fall (2016/III),2016.0
+15,5.9,Falling Down a Good Flutter Green (2016),2016.0
+8,5.1,Fallout: Equestria. Chapter 20.5 (2016),2016.0
+112,3.5,Fantom kiler 2 (1999) (V),1999.0
+87,7.6,Fara (1999),1999.0
+15,7.7,Faraon (1999),1999.0
+8,7.0,Farewell from Moscow: The Igor Larionov Farewell Game (2006),2006.0
+13,5.3,Farkas (2007),2007.0
+66,6.6,Fart (2005),2005.0
+126,6.0,Fartovyy (2006),2006.0
+17,6.1,Fata Morgana (2004),2004.0
+13,6.3,Fatal Meeting (2011),2011.0
+7,3.4,Fatal Meeting (2015/I),2015.0
+8,4.2,Fatal Meeting (2015/II),2015.0
+4163,6.6,Faust (2011/III),2011.0
+5,2.4,Feat of Pioneer (1996) (V),1996.0
+7,8.1,February 28 (2014),2014.0
+7,7.6,Festival of Zombies (2010),2010.0
+6,6.0,Feyerverk (2003),2003.0
+19,5.2,Figa.ro (2009),2009.0
+19,7.5,Figner: The End of a Silent Century (2006),2006.0
+11,7.2,Filipok (1982),1982.0
+17,7.0,Film (2000/IV),2000.0
+12,7.2,Finding Babel (2015),2015.0
+9,7.8,Finding Katie (2016),2016.0
+65,5.3,"Fiofaniya, risuyushchaya smert (1991)",1991.0
+1233,5.8,First Squad: The Moment of Truth (2009),2009.0
+6,7.0,Five Nights at Freddy's: Survive the NIght (2016),2016.0
+6,5.2,Five Nights at Ponies (2015),2015.0
+9,8.1,Flagellare (2010),2010.0
+157,4.3,Flesh.ka (2006),2006.0
+19,7.6,Flutter Green Forever (2016),2016.0
+16,7.1,Flutter Green and Screwdriver (2016),2016.0
+13,7.5,Flutter Green and Screwdriver 2 (2016),2016.0
+18,7.4,Flutter Green vs. Hater (2016),2016.0
+19,5.1,Flutter Green: Homecoming (2016),2016.0
+9,6.8,Flutter Green: Joke on April Fools Day (2016),2016.0
+11,7.6,Flutter Green: Killer in the Skype (2016),2016.0
+415,3.9,Fobos. Klub strakha (2010),2010.0
+78,5.8,Fonogramma strasti (2009),2009.0
+24,6.5,"For Faith, Tsar and Fatherland (2007) (TV)",2007.0
+10,5.3,Forest (2006),2006.0
+7,1.0,Forest Tragedy (2016),2016.0
+7,1.0,Forest of Maniac (2016) (V),2016.0
+10,8.8,Forest of Satan (2016),2016.0
+7,1.3,Forest of the Dead Crawls (2016) (V),2016.0
+17,6.8,Forever After (2011),2011.0
+104,7.6,Forever Pure (2016),2016.0
+11,5.7,Formula Zero (2006),2006.0
+66,4.6,Fort Ross (2014),2014.0
+5,6.8,Fort von allen Sonnen (2013),2013.0
+118,6.1,Fortuna (2000),2000.0
+6,8.0,Fotki (2011),2011.0
+21,6.9,Fotograf (1998),1998.0
+7,7.1,Four Names (2005) (TV),2005.0
+78,6.3,Frantsuz (2004) (TV),2004.0
+307,7.2,Franz + Polina (2006),2006.0
+87,6.4,Free Pussy Riot: The Movie (2013),2013.0
+6,7.7,Freedom (2016/III),2016.0
+8,7.0,Freezer (2009) (V),2009.0
+10,8.2,Friends (2014/II),2014.0
+3586,5.5,Frostbiten (2006),2006.0
+309651,7.1,Furious 6 (2013),2013.0
+1048,7.1,Gadkie lebedi (2006),2006.0
+171,6.8,Gadkiy utyonok (2010),2010.0
+353,7.1,Gagarin (1994),1994.0
+1564,6.6,Gagarin. Pervyy v kosmose (2013),2013.0
+10,8.8,Gallery of Gore (2015) (V),2015.0
+10,9.2,Game with Death (2015),2015.0
+7,1.1,Garazh. Doroga v neizvedannoe (2016) (V),2016.0
+7,1.0,Garazh. Nachalo (2015) (V),2015.0
+244,5.5,Gardemariny III (1992),1992.0
+497,6.6,Garpastum (2005),2005.0
+11,7.7,Gaseirneba zgvis sanapiroze (1908),1908.0
+5,8.0,Gatherers of Sea Grass (2016),2016.0
+151,3.1,GazGolder (2014),2014.0
+41,6.1,Gena Beton (2014),2014.0
+18,6.3,General (1992),1992.0
+2832,6.8,Generation P (2011),2011.0
+2739,7.5,Geograf globus propil (2013),2013.0
+283,6.6,Georg (2007),2007.0
+5,4.8,Geroy (1999),1999.0
+246,4.8,Geroy (2016),2016.0
+17,1.9,Geroy eyo romana (2001),2001.0
+10,4.3,Ghost (2010/IV),2010.0
+6,2.5,Ghost (2016/II),2016.0
+15,7.5,Ghost 2: Prevention (2011),2011.0
+10,7.7,Ghost 3: Premonition of Death (2011),2011.0
+9,2.2,Ghost 4: Retribution (2013),2013.0
+9,7.4,Giddy Up! Adventures of Little Pony (2016),2016.0
+5,6.0,Gidravlika (2010),2010.0
+1962,6.5,Girl Model (2011),2011.0
+1316,3.1,Gitler kaput! (2008),2008.0
+10,8.2,Glaz Bozhiy (2012) (TV),2012.0
+47,7.5,Glaza (1992),1992.0
+10,6.9,Globe Trot (2014),2014.0
+131,5.6,Glukhar v kino (2010),2010.0
+10,4.8,"Glukhar. Prikhodi, Novyy god! (2009) (TV)",2009.0
+845,5.5,Glyanets (2007),2007.0
+10,7.9,Glckspilze (2013),2013.0
+95,7.3,God sobaki (1994),1994.0
+37,7.1,God's Fiddler: Jascha Heifetz (2011),2011.0
+7,5.3,Godovshchina revolyutsii (1918),1918.0
+10,7.7,Gogol. Blizhayshiy (2011),2011.0
+13,7.2,Golden Key (2013),2013.0
+23,5.9,"Golem, le jardin ptrifi (1993)",1993.0
+94,6.6,Golfstrim pod aysbergom (2012),2012.0
+13,8.8,Golod... golod... golod (1921),1921.0
+95,4.8,Gololyod (2003),2003.0
+5,8.4,Golosa (1997),1997.0
+21,4.3,Golosa bolshoy strany (2016),2016.0
+31,5.8,Golova (2004),2004.0
+8,5.0,Golova klassika (2005) (V),2005.0
+6,4.3,Golub - poslannik nebes (2015),2015.0
+38,7.2,Golubka (2009),2009.0
+105,6.5,Gongofer (1992),1992.0
+13,7.2,Good Flutter Green vs. Bad Igor (2016),2016.0
+110,4.0,Gop-Stop (2011),2011.0
+8,3.5,Gopnik (2010),2010.0
+7,5.7,Gordiy mish (2009),2009.0
+23,6.1,Gore Sarry (1913),1913.0
+33,6.1,Gorko (1998),1998.0
+42,4.1,Gorko (2008),2008.0
+1777,5.6,Gorko! (2013),2013.0
+565,4.0,Gorko! 2 (2014),2014.0
+11,7.2,Gornichnaya Jenny (1918),1918.0
+57,6.7,Gorod bez solntsa (2005),2005.0
+9,4.8,Gorod-prizrak (2013),2013.0
+122,4.5,Goroskop na udachu (2015),2015.0
+779,5.9,Goryachie novosti (2009),2009.0
+206,5.1,Gospoda ofitsery: Spasti imperatora (2008),2008.0
+9,9.0,Goulag (2000),2000.0
+5,4.6,Gq (2012),2012.0
+5,2.8,Graduation Film (2016),2016.0
+92,5.0,Graf Montenegro (2006),2006.0
+170,7.2,Graffiti (2006/II),2006.0
+8,5.8,Grafinya Sheremeteva (1994) (TV),1994.0
+7,5.1,Grandmother (2013) (V),2013.0
+7,8.4,Grandmother Firefighter Kills Anyone Who Masturbates (2006),2006.0
+16,6.7,Grazhdanin poet. Progon goda (2012),2012.0
+53,5.8,Grecheskiye kanikuly (2005),2005.0
+9,4.6,Grekh (1992),1992.0
+7,6.6,Grekh (2007) (TV),2007.0
+28,5.9,Grekh. Istoriya strasti (1993),1993.0
+11,5.8,Greshnik (2014),2014.0
+7,5.7,Greshnye apostoly lyubvi (1995),1995.0
+19,6.5,Grindhouse: Collection of Non-Created Films (2009),2009.0
+166,6.6,Gromozeka (2011),2011.0
+5002,7.1,Gruz 200 (2007),2007.0
+156,7.1,Gryozy (1915),1915.0
+7,7.1,Guided by Spirit (2009),2009.0
+6,8.5,Guru 'Looks-like me' (2016),2016.0
+9,8.8,Guts & Gore (2004) (V),2004.0
+8,9.0,Guts & Gore 2 (2009) (V),2009.0
+353,6.0,Gvozdi (2003) (V),2003.0
+55871,6.8,Hardcore Henry (2015),2015.0
+5,6.8,Harry Potter and the Prisoner of Hairiness (2011),2011.0
+5,7.0,Harry Potter and the Sorcerer's Feces (2011),2011.0
+5,7.0,Harry Potter and the Toilet of Secrets (2011),2011.0
+6,5.7,Headlong (2014),2014.0
+11,6.8,Hellforces (2005) (VG),2005.0
+6,7.8,Here Comes the Cat! (1992),1992.0
+8,6.2,Hermeneutics (2012),2012.0
+29,7.3,Hermitage Revealed (2014),2014.0
+566,7.6,Heroes of Might and Magic V (2006) (VG),2006.0
+574,6.4,Het Meisje en de Dood (2012),2012.0
+21,6.9,Higher Mission (2015),2015.0
+25,6.3,Hitler & Stalin - Portrait einer Feindschaft (2009) (TV),2009.0
+7,9.0,Hitler Ate My Neighbors (2007),2007.0
+314,5.7,Honey Baby (2004),2004.0
+30,7.3,Honey Money (2015),2015.0
+7,1.3,Hotel of the Maniac (2016) (V),2016.0
+10,7.3,House of 1000 Corpses (2012) (V),2012.0
+11,7.5,House of 1000 Doors: Serpent Flame (2013) (VG),2013.0
+7,4.4,House of Butcher (2013),2013.0
+88,9.3,How to Become a Successful Web Designer (2016),2016.0
+5,5.6,Hozyaeva Geony (1992),1992.0
+28328,7.1,Hundraringen som klev ut genom fnstret och frsvann (2013),2013.0
+12,6.8,Hunters Since the Beginning of Time (2008),2008.0
+9,3.4,Hunters of the Pokemon (2016),2016.0
+55,7.1,I Am Not a Rock Star (2012),2012.0
+9,2.6,I Am Vampire: Reborn (2012),2012.0
+24,7.8,I Loved You (2000),2000.0
+8,6.2,I Used to Live Near the Sea (1998),1998.0
+15,7.3,I Want to Go to Prison (1998),1998.0
+11,3.5,I am maniac (2014),2014.0
+11,5.8,I ne bylo luchshe brata (2011),2011.0
+8,1.9,I'm in Equestria (2016),2016.0
+999,5.0,III (2015/I),2015.0
+33,7.6,IL-2 Sturmovik: Birds of Prey (2009) (VG),2009.0
+8,7.9,Ice Floe (2015),2015.0
+9,5.8,Ichchi (2011),2011.0
+13,6.1,Idealnaya para (1992),1992.0
+19,6.8,Idealnaya zhena (2007) (TV),2007.0
+13,5.1,Idiosyncracy (2010),2010.0
+13,8.2,Idiot (1910),1910.0
+205,5.8,Ierey-san. Ispoved samuraya (2015),2015.0
+128,5.4,Igla Remix (2010),2010.0
+84,5.4,Igra (2008),2008.0
+8,6.0,Igra na vylet (2001),2001.0
+10,4.6,Igra v brasletakh (1998),1998.0
+11,6.2,Igra v modern (2003),2003.0
+407,7.2,Igra v pravdu (2013),2013.0
+18,5.3,Igra vseryoz (1992),1992.0
+173,7.1,Igry motylkov (2004),2004.0
+15,5.1,Igry v temnote (2014),2014.0
+16,5.4,Ikona sezona (2013),2013.0
+20,6.9,Il nous faut du bonheur (2011),2011.0
+39,6.7,Il silenzio di Pelesjan (2011),2011.0
+10,7.3,Ilfipetrov (2013),2013.0
+731,7.0,Ilya Muromets i Solovey Razboynik (2007),2007.0
+6,5.8,Ilya and Emilia Kabakov: Enter Here (2013),2013.0
+16,7.1,Imeniny (2004),2004.0
+9,8.6,"Imperator, kotoryy znal svoyu sudbu (2010)",2010.0
+80,3.6,Impotent (2001),2001.0
+5,10.0,Imya Rokossovsky (2016),2016.0
+127,7.4,In One Breath: Alexander Sokurov's Russian Ark (2003) (V),2003.0
+7,4.7,In Search of Aliens (2011),2011.0
+1676,5.8,In Tranzit (2008),2008.0
+6,6.2,In the Attic (2016),2016.0
+30,5.6,Incognita (2012),2012.0
+130,6.0,Indi (2007),2007.0
+253,4.1,Indigo (2008),2008.0
+293,6.5,Indigne d'Eurasie (2010),2010.0
+9,8.4,Insane Horror Fan (2013),2013.0
+28,6.5,Insayt (2015),2015.0
+6,7.5,Interesnye muzhchiny (2003),2003.0
+106,6.9,Interstelar (2014),2014.0
+17,1.5,Interstelar 2: Operation Terra 2040 (2016),2016.0
+7,1.0,Interview with Dr. Dawn (2014) (V),2014.0
+420,5.5,Intimnye mesta (2013),2013.0
+806,7.1,Invention of Love (2010),2010.0
+7,6.6,Inzeyen - Malina (2007),2007.0
+212,4.8,Ironiya lyubvi (2010),2010.0
+2611,5.2,Ironiya sudby. Prodolzhenie (2007),2007.0
+5,4.8,Ischeznovenie (1994),1994.0
+409,6.8,Ischeznuvshaya imperiya (2008),2008.0
+11,5.6,Ishchu tebya (2010) (TV),2010.0
+53,3.5,Iskateli priklyucheniy (2012),2012.0
+7,7.6,Iskuplenie (2011) (TV),2011.0
+82,5.7,Iskuplenie (2012),2012.0
+8,7.5,Iskushenie (2007),2007.0
+9,5.6,Iskusstvo umirat (1996),1996.0
+84,5.9,Ispoved neznakomtsu (1995),1995.0
+12,4.4,Ispoved soderzhanki (1992),1992.0
+49,6.4,Ispoved zadrota (2014),2014.0
+315,7.2,Ispytanie (2014),2014.0
+14,7.1,Istinnye proishestviya (2002),2002.0
+22,8.2,Istoriya 5-ti stalkerov (2010),2010.0
+5,3.8,It (2015),2015.0
+9,3.0,It's Hard to Be Brony (2016),2016.0
+74,5.9,Italian Movies (2012),2012.0
+2800,7.6,Italyanets (2005),2005.0
+8,7.4,Itsihitanantsu (2012),2012.0
+60,6.4,Iuda (2013),2013.0
+625,6.3,Ivan Tsarevich i Seryy Volk (2011),2011.0
+255,5.3,Ivan Tsarevich i Seryy Volk 2 (2013),2013.0
+148,5.9,Ivan Tsarevich i Seryy Volk 3 (2016),2016.0
+8,6.6,Ivan le terrible (2014) (TV),2014.0
+86,7.9,Ivan syn Amira (2013),2013.0
+29,4.9,Ivan-Durak (2002),2002.0
+6,7.8,Ivanov (1981),1981.0
+6,7.3,Ivanov (2010),2010.0
+11,6.5,Iz Tokio (2011),2011.0
+74,6.7,Iz ada v ad (1997),1997.0
+5,7.0,Iz zhizni razboynikov (2002) (TV),2002.0
+5,6.6,Iz zhizni razboynikov 2 (2004) (TV),2004.0
+5050,7.7,Izgnanie (2007),2007.0
+8,9.0,Izgoy Odin. Mezhzvyozdnyie voyny. Istorii (2016),2016.0
+225,6.3,Izlaiduma gads (2014),2014.0
+515,6.3,Izmena (2012),2012.0
+1289,7.3,Izobrazhaya zhertvu (2006),2006.0
+140,7.6,JFK: A President Betrayed (2013),2013.0
+101969,6.2,Jack Ryan: Shadow Recruit (2014),2014.0
+41,7.8,Jag stannar tiden (2014),2014.0
+496,6.5,Jardins en automne (2006),2006.0
+86,5.7,Jaws 19 (2015),2015.0
+2274,6.3,Jayne Mansfield's Car (2012),2012.0
+83,8.2,Jean Michel Jarre: Oxygene in Moscow (1997) (V),1997.0
+5,6.6,Jesus Project (2015),2015.0
+225,6.5,Jonathan degli orsi (1994),1994.0
+8,2.1,KHL. Donbass-Avtomobilist (2012) (TV),2012.0
+8,2.6,KHL. Donbass-CSKA (2013) (TV),2013.0
+41,8.5,Kaal (1996),1996.0
+291,6.9,Kacheli (2008),2008.0
+17,6.8,Kadril (1999),1999.0
+17,5.4,Kak by ne tak (2003) (TV),2003.0
+305,6.3,Kak menya zovut (2014),2014.0
+63,5.0,Kak poymat pero Zhar-Ptitsy (2013),2013.0
+24,4.8,Kak snimalsya 'Nochnoy dozor' (2004) (TV),2004.0
+27,5.4,Kak stat stervoy (2009),2009.0
+5415,7.0,Kak ya provel etim letom (2010),2010.0
+9,5.3,Kak ya provela leto (1999),1999.0
+190,8.7,Kak ya sel sobaku (2003) (V),2003.0
+13,6.4,"Kak zhivyote, karasi? (1992)",1992.0
+76,7.5,Kakaya chudnaya igra (1995),1995.0
+148,6.6,Kakraki (2009),2009.0
+181,7.0,Kamen (1992),1992.0
+532,5.8,Kamen (2012),2012.0
+225,6.0,Kamennaya bashka (2008),2008.0
+39,5.9,Kamenskaya: Chuzhaya maska (2000) (TV),2000.0
+45,6.2,Kamenskaya: Igra na chuzhom pole (2000) (TV),2000.0
+17,5.5,Kamenskaya: Imya poterpevshego - nikto (2009) (TV),2009.0
+32,6.0,Kamenskaya: Kogda bogi smeyutsya (2003) (TV),2003.0
+24,5.8,Kamenskaya: Muzhskie igry (2002) (TV),2002.0
+34,6.0,Kamenskaya: Ne meshayte palachu (2000) (TV),2000.0
+16,5.5,Kamenskaya: Posmertniy obraz (2009) (TV),2009.0
+19,5.4,Kamenskaya: Rekviem (2009) (TV),2009.0
+33,5.8,Kamenskaya: Sedmaya zhertva (2003) (TV),2003.0
+41,6.0,Kamenskaya: Shestyorki umirayut pervymi (2000) (TV),2000.0
+47,5.7,Kamenskaya: Smert i nemnogo lyubvi (2000) (TV),2000.0
+43,6.3,Kamenskaya: Smert radi smerti (2000) (TV),2000.0
+20,6.0,Kamenskaya: Soavtory (2009) (TV),2009.0
+37,5.7,Kamenskaya: Stilist (2003) (TV),2003.0
+55,6.5,Kamenskaya: Ubiytsa ponevole (2000) (TV),2000.0
+15,5.5,Kamenskaya: Voyushie psy odinochestva (2009) (TV),2009.0
+37,5.4,Kamenskaya: Ya umer vchera (2002) (TV),2002.0
+23,5.0,Kamenskaya: Za vse nado platit (2002),2002.0
+19,5.3,Kamenskaya: Zakon treh otritsaniy (2009) (TV),2009.0
+7,4.9,Kammi (1992),1992.0
+1353,6.9,Kandagar (2010),2010.0
+2031,6.5,Kanikuly strogogo rezhima (2009),2009.0
+7,5.0,Kapkan dlya killera (2009),2009.0
+14,7.8,Karaganda (2013),2013.0
+6,6.7,Karera Arturo Ui (1996),1996.0
+433,6.7,Karlik Nos (2003),2003.0
+122,6.4,Karmen (2003),2003.0
+75,2.8,"Karnavalnaya noch 2, ili 50 let spystya (2007)",2007.0
+18,7.6,Karski i wladcy ludzkosci (2015),2015.0
+247,6.2,Karu sda (2001),2001.0
+14,5.6,Kasachstan Lady (2000),2000.0
+14,5.0,Katka i Shiz (1992),1992.0
+17,5.8,Kaunasskiy blyuz (2004),2004.0
+28,7.2,Kavkaz (2007),2007.0
+173,1.1,Kavkazskaya plennitsa! (2014),2014.0
+39,5.7,Kavkazskaya ruletka (2002),2002.0
+3512,7.7,Kavkazskiy plennik (1996),1996.0
+6,5.3,Kazachya byl (1999),1999.0
+15,5.8,Kazino (1992),1992.0
+26,4.9,Ke-dy (2016),2016.0
+29,6.1,Kele (1988),1988.0
+7,5.9,Kelton's Dark Corner 4: The Kelton Marathon (2015) (V),2015.0
+31,5.9,Khagi-tragger (1994),1994.0
+108,7.7,Khlebnyy den (1998),1998.0
+248,6.4,Khochu v tyurmu (1999),1999.0
+5,9.0,Kholodniy sumrak tserkvey (2016) (V),2016.0
+20,4.7,Kholodnoe solntse (2008),2008.0
+207,5.5,Kholodnyy front (2016),2016.0
+19,5.1,Khoroshie i plokhie (2000),2000.0
+264,6.6,Khoroshiy malchik (2016),2016.0
+6,4.2,Khorovod (1994),1994.0
+1143,6.3,Khottabych (2006),2006.0
+5,7.4,"Khrani menya, dozhd (2009) (TV)",2009.0
+13,7.4,Khranit vechno (2008),2008.0
+32,4.6,Khraniteli seti (2010) (TV),2010.0
+5,8.0,Khrebet Rossii (2009) (TV),2009.0
+6,4.5,Khronika Ada (2006),2006.0
+5,6.0,Khroniki izmeny (2010),2010.0
+958,7.6,"Khrustalyov, mashinu! (1998)",1998.0
+6,3.8,Kifuckriki with District (2016),2016.0
+8,3.9,Kifuckriki with District 2: The Return on the District (2016),2016.0
+6,7.5,Killing Girls (2009),2009.0
+5,8.8,King of Birds (2016),2016.0
+316,6.7,Kino pro Alekseeva (2014),2014.0
+15,6.6,Kino pro kino (2002),2002.0
+28,6.1,Kino-nedelya (1918),1918.0
+6,4.8,"Kinofestival, ili Portveyn Eyzenshteyna (2006)",2006.0
+564,6.7,Kislorod (2009),2009.0
+27,6.4,Kitayskaya babushka (2010),2010.0
+175,6.3,Kitayskiy serviz (1999),1999.0
+18,7.8,Kladbishche zabytykh mertvetsov (2013),2013.0
+592,7.1,Klass korrektsii (2014),2014.0
+216,6.9,Klassik (1998),1998.0
+18,6.8,Kletka (2009),2009.0
+19,5.2,Kletka (2015),2015.0
+70,5.6,Klinch (2015),2015.0
+75,4.5,Klub schastya (2010),2010.0
+122,5.2,Klyuch ot spalni (2003),2003.0
+267,4.8,Klyuch salamandry (2011),2011.0
+9,7.2,Knifes (2008) (V),2008.0
+16,7.0,Kniga Tundry. Povest' o Vukvukaye - malen'kom kamne (2011),2011.0
+669,4.4,Kniga masterov (2009),2009.0
+393,7.0,Knyaz Vladimir. Film pervyy (2006),2006.0
+6,3.8,Knyaz Yuri Dolgorukiy (1998),1998.0
+49,6.0,Knyazhna Tarakanova (1910),1910.0
+5,4.2,Knyazhna iz khrushchyovki (2013) (TV),2013.0
+1123,6.6,Kochegar (2010),2010.0
+1050,4.7,Kod apokalipsisa (2007),2007.0
+25,6.4,Kodeks beshchestiya (1993),1993.0
+8,5.2,Kodeks molchaniya-2 (1992),1992.0
+13,6.0,Kogda my byli schastlivy... (2009),2009.0
+37,6.2,Kokki - begushchiy doktor (1998),1998.0
+564,6.8,Kokoko (2012),2012.0
+1454,7.0,Koktebel (2003),2003.0
+29,4.1,Koleso lyubvi (1994),1994.0
+59,5.7,Kolkhoz interteynment (2003),2003.0
+923,6.9,Kollektor (2016),2016.0
+77,6.5,Kollektsioner (2001),2001.0
+7,6.6,Kolobakha (2008),2008.0
+7,7.4,Kolobok (2013),2013.0
+20,6.5,Kolodets (2009),2009.0
+6,4.7,Koly (1999),1999.0
+106,6.8,Kolya - perekati pole (2005),2005.0
+168,6.6,Kombinat 'Nadezhda' (2014),2014.0
+173,7.2,Komediya strogogo rezhima (1992),1992.0
+5,3.4,Komnata s vidom na ogni (2007) (TV),2007.0
+68,6.1,Kompensatsiya (2010),2010.0
+8,7.5,Kompleks nevmenyaemosti (1992),1992.0
+34,7.6,Komrades (2003),2003.0
+222,6.7,Konets prekrasnoy epokhi (2015),2015.0
+30,6.9,Konets veka (2001),2001.0
+176,3.9,Konservy (2007),2007.0
+78,7.0,Konstruktor krasnogo tsveta (1993),1993.0
+14,6.2,Kontakt (2005/II),2005.0
+11,5.4,Kontrakt na lyubov (2008),2008.0
+56,6.3,Kontrakt so smertyu (1998),1998.0
+108,7.0,Kontributsiya (2016),2016.0
+21,6.0,Kontsert dlya krysy (1995),1995.0
+138,6.3,Konvoy (2012),2012.0
+298,7.0,Kopeyka (2002),2002.0
+33,2.6,Korabl dvoynikov (1997),1997.0
+72,6.2,Korobka (2016),2016.0
+27,6.3,Korol Parizha (1917),1917.0
+5,3.8,Korolevstvo krivykh zerkal (2007) (TV),2007.0
+14,4.4,Koroli i kapusta (1996),1996.0
+12,3.6,Koroli rossiykogo syska: Ubiystvo Buturlina (1994),1994.0
+59,5.2,Korolyov (2007),2007.0
+7,5.3,Korotkoe dykhanie lyubvi (1992),1992.0
+318,6.7,Korotkoe zamykanie (2009),2009.0
+225,2.8,Korporativ (2014),2014.0
+5,6.6,Korzina (2012),2012.0
+8,3.1,Kosa (2014),2014.0
+88,7.1,Kosh ba kosh (1993),1993.0
+148,6.9,Koshechka (2009),2009.0
+16,8.4,Koshmar na Olimpiade. Gibel Sochi (2014),2014.0
+11,8.1,Koshmar na Volge (2014),2014.0
+7,1.0,Koshmar vo dvore (2016) (V),2016.0
+7,1.0,Koshmar vo dvore 2: Nakazanie (2016) (V),2016.0
+11,2.6,Koshmarnye sny (2013),2013.0
+7,7.1,Kosmonavtika (2012),2012.0
+539,6.8,Kosmos kak predchuvstvie (2005),2005.0
+11,4.7,Kostroma (2002),2002.0
+9,9.4,Kostya and Mouse (2006),2006.0
+43,7.0,KostyaNika. Vremya leta (2006),2006.0
+148,7.8,Kot v sapogakh (1996),1996.0
+5,6.4,Kotorogo ne bylo (2010),2010.0
+94,7.7,Kotyonok (1997),1997.0
+13,3.9,Kovcheg (2002),2002.0
+7,7.3,Kozha salamandry (2004),2004.0
+7,1.0,Krabogeddon (2011),2011.0
+20,8.8,Krapiva (2016),2016.0
+16,7.6,Krasnye vorota Rasemon (2003),2003.0
+5,3.6,Krasnyy streptotsid (2002),2002.0
+70,5.7,Krasnyy zhemchug lyubvi (2008),2008.0
+2429,6.5,Kray (2010),2010.0
+449,6.5,Kremen (2007),2007.0
+131,6.4,Krepost (2015),2015.0
+92,5.0,Krestonosets (1995),1995.0
+22,4.1,Krestonosets-2 (1997),1997.0
+6,1.3,Kreyk (2007),2007.0
+5,6.2,Kreytserova sonata (1911),1911.0
+21,6.0,Kreytserova sonata (1914),1914.0
+21,6.7,Krizantemy (1914),1914.0
+71,6.4,Krizis srednego vozrasta (1997),1997.0
+7,1.1,Krolik Black (2016),2016.0
+12,5.2,Kromov (2009),2009.0
+10,7.6,Kronoshpan Horror: Clash of the Titans (2015),2015.0
+7,7.0,Krot na more (2012),2012.0
+19,7.7,Krov (2013),2013.0
+5,6.2,Krov ne voda (2009) (TV),2009.0
+5,1.8,Krovavaya ved'ma. Proklyatiy les (2015),2015.0
+8,6.8,Krug obrechyonnykh (1991),1991.0
+102,5.4,Krym. Put na Rodinu (2015) (TV),2015.0
+21,5.7,Krysha (2009),2009.0
+16,5.4,Krysinyy ugol (1992),1992.0
+9,6.3,Kto prikhodit v zimniy vecher... (2007),2007.0
+107,6.5,Kto ya? (2010),2010.0
+101,6.8,"Kto, esli ne my (1999)",1999.0
+601,6.1,Ku! Kin-dza-dza (2013),2013.0
+25,6.5,Kuda techet more? (2011),2011.0
+198,7.2,Kuka (2007),2007.0
+94,3.3,Kukaracha 3D (2011),2011.0
+1145,7.0,Kukhnya v Parizhe (2014),2014.0
+9,6.4,Kuktau (2006),2006.0
+6326,7.9,Kukushka (2002),2002.0
+13,7.4,Kukushkino gnezdo (2003) (TV),2003.0
+11,6.4,Kulisy ekrana (1917),1917.0
+7,6.7,Kumparsita (1993),1993.0
+223,5.6,Kurer iz 'Raya' (2013),2013.0
+290,6.7,Kurochka Ryaba (1994),1994.0
+8,5.9,Kurortnyy roman (2007) (TV),2007.0
+7,6.9,Kuryer na Vostok (1991),1991.0
+77,8.8,Kvadrat (2013),2013.0
+5,2.8,Kvartira ugneteniya (2016) (V),2016.0
+22,5.3,L'khaim (1911),1911.0
+2539,6.0,LOpuKHI (2009),2009.0
+10,6.7,La clef (1996) (TV),1996.0
+60,7.2,La delegazione (1993),1993.0
+13,9.3,La muse dans le tram (2011),2011.0
+48,7.5,La mre (2007),2007.0
+19,6.6,La prima notte della luna (2010),2010.0
+76,6.3,La traductrice (2006),2006.0
+13,9.1,Ladder in the Lions' Den (2012),2012.0
+191,8.3,Ladoni (1994),1994.0
+7,7.1,Lakomyy kusochek (2003),2003.0
+229,6.5,Landysh serebristyy (2000),2000.0
+172,6.3,Laskovyy may (2009),2009.0
+5,8.0,Last Report (2007),2007.0
+5,8.2,Last Report 2 (2007),2007.0
+10,2.4,Last Session (2014),2014.0
+8,9.0,Last Summer 2. Ural Psycho (2009),2009.0
+9,8.3,Last Summer 3. Violent Video (2012),2012.0
+11,8.3,Last Summer. Zombie Town (2008),2008.0
+72,7.3,Lastochki prileteli (2007),2007.0
+9,5.8,Lavash: If Internet and TV Were Peoples (2015) (V),2015.0
+22,5.6,Lavina (2001),2001.0
+8,5.8,Law of Sandwich: Cleaning (2015) (V),2015.0
+7,6.4,Law of Sandwich: Day of Knowledge (2015) (V),2015.0
+11,8.4,Law of Sandwich: Job Interview (2015) (V),2015.0
+9,6.9,Law of Sandwich: Lecture (2015) (V),2015.0
+10,6.6,Law of Sandwich: Morning (2015) (V),2015.0
+19,8.3,Le Vaudeville du diable (1994),1994.0
+42,5.6,Le divan de Staline (2016),2016.0
+20,7.6,Le sicle des lumires (1993) (TV),1993.0
+622,6.4,Ledokol (2016),2016.0
+17,6.8,Left Behind (2012/I),2012.0
+3309,7.7,Legenda No. 17 (2013),2013.0
+41,4.6,Legenda ostrova Dvid (2010),2010.0
+5,7.2,Legko li by molodym? (2011),2011.0
+3859,6.1,Leningrad (2009),2009.0
+16,5.4,Leninlend (2013),2013.0
+94,6.1,Les interdits (2013),2013.0
+15,5.5,Les pcheries  Astrakhan (1908),1908.0
+17,6.6,Lesnaya tsarevna (2005),2005.0
+13,6.5,Lesopolosa (2005) (V),2005.0
+11,7.6,Lestnitsa (2014),2014.0
+15,9.0,Let's Learn Judo with Vladimir Putin (2008) (V),2008.0
+9,6.2,Lethal Selfie (2016),2016.0
+27,6.0,Letnie lyudi (1995),1995.0
+19,5.9,Letniy dozhd (2002),2002.0
+5,6.2,Lev Trotskiy. Tayna mirovoy revolyutsii (2007) (TV),2007.0
+9,7.1,Lev s sedoy borodoy (1995),1995.0
+33695,7.6,Leviafan (2014),2014.0
+17,6.7,Libido Bendzhamina (1994),1994.0
+19,3.7,Lichnaya zhizn korolevy (1993),1993.0
+536,5.4,Lichnyy nomer (2004),2004.0
+18,6.1,Life of the Jews of Palestine (1913),1913.0
+191,3.9,Lift (2006/II),2006.0
+21,1.9,Lift ukhodit po raspisaniyu (1999),1999.0
+88,6.4,Ligne de vie (1996),1996.0
+109,6.9,Liliya Belgii (1915),1915.0
+104,6.0,Limita (1995),1995.0
+6,8.5,Limp Bizkit Money Sucks Tour Diary (2015),2015.0
+12,7.9,Linar (2013),2013.0
+20,4.5,Lisa Alisa (2003) (V),2003.0
+5,7.4,Literaturno-instruktorskiy agitparokhod vtsik 'Krasnaia Zvezda' (1919),1919.0
+6,2.8,Litso frantsuzskoy natsionalnosti (2000),2000.0
+6,9.2,Lobanovskiy Forever (2016),2016.0
+48,7.5,Lobotomiya (2010),2010.0
+5,6.6,Lofty Senses (2008),2008.0
+9,7.1,Lollipop (2010),2010.0
+12,6.7,Lonely Planet (2011),2011.0
+33,7.8,Long Bridge of Desired Direction (2013),2013.0
+8,6.8,Long Loaf Killer (2014),2014.0
+6,2.5,Lopukhi (2005),2005.0
+9,7.4,Lost Boys (2012),2012.0
+5,8.8,Lost Temple (2010) (V),2010.0
+8,7.8,Lost in the Woods (2014) (V),2014.0
+13,3.1,Lov-servis (1995),1995.0
+6,2.7,Love Triangle (2011) (V),2011.0
+19,7.4,Love. Love. Love. (2013),2013.0
+837,2.7,Lovemakers (2011),2011.0
+16,7.1,Lovitor (2005),2005.0
+12,6.8,Lucanus Cervus (1910),1910.0
+51,5.5,Luchshee vremya goda (2007),2007.0
+2814,7.3,Luna Papa (1999),1999.0
+358,6.5,Luna Park (1992),1992.0
+10,6.2,Lunnye polyany (2002),2002.0
+59,7.5,Lunoy byl polon sad (2000),2000.0
+55,6.7,Lvinaya dolya (2001),2001.0
+9,2.6,Lyogkiy potseluy (2003),2003.0
+240,4.9,Lyogok na pomine (2014),2014.0
+26,5.7,Lyubi menya (2005) (TV),2005.0
+158,5.9,Lyubit ne lyubit (2014),2014.0
+73,5.0,Lyubit po-russki 2 (1996),1996.0
+54,4.4,Lyubit po-russki 3: Gubernator (1999),1999.0
+34,7.3,Lyubka (2009) (TV),2009.0
+400,5.0,Lyubov 2 Morkov (2008),2008.0
+22,6.4,Lyubov i drugie koshmary (2001),2001.0
+7,3.4,Lyubov na sene (2009),2009.0
+8,5.2,Lyubov po zakazu (1993),1993.0
+30,6.7,Lyubov pod prikrytiem (2010),2010.0
+274,5.6,Lyubov s aktsentom (2012),2012.0
+42,6.1,Lyubov v SSSR (2013),2013.0
+1154,6.0,Lyubov v bolshom gorode (2009),2009.0
+762,6.0,Lyubov v bolshom gorode 2 (2010),2010.0
+439,5.2,Lyubov v bolshom gorode 3 (2014),2014.0
+49,5.3,Lyubov zla (1999),1999.0
+11,7.3,"Lyubov, predvestie pechali (1994)",1994.0
+829,5.2,Lyubov-Morkov (2007),2007.0
+291,4.0,Lyubov-Morkov 3 (2011),2011.0
+28,5.4,Lyubov.ru (2008),2008.0
+413,7.2,Lyubovnik (2002),2002.0
+10,7.8,Lyudi 1941 goda (2001),2001.0
+13,6.5,Lyudi dobrye (2009),2009.0
+5,6.0,Lyudi gibnut za metall (1919),1919.0
+6,5.8,Lyudi iz kamnya (2007),2007.0
+45,5.3,Lza ksiecia ciemnosci (1993),1993.0
+107,5.9,M+Zh (2009),2009.0
+17,6.2,MTV Russia Music Awards 2007 (2007) (TV),2007.0
+11,3.7,MTV Russia Music Awards 2008 (2008) (TV),2008.0
+61433,5.6,Machete Kills (2013),2013.0
+9,7.3,Made in BY (2015),2015.0
+22,4.9,Mafiya bessmertna (1993),1993.0
+2105,4.9,Mafiya: Igra na vyzhivanie (2016),2016.0
+34,8.2,Magia Russica (2004),2004.0
+64,5.5,Magnitnye buri (2003),2003.0
+122,6.9,Makarov (1994),1994.0
+5,7.2,Making of 'Visions of Suffering' (2006) (V),2006.0
+7,1.3,Maks doma (2015) (V),2015.0
+14,5.7,Maksimilian (1999),1999.0
+19,6.7,Mal'chik kak Mal'chik (1986),1986.0
+7,4.0,Malakholnaya (2009) (TV),2009.0
+5,4.2,Malchik i devochka (2010) (TV),2010.0
+5,5.8,Malenkaya nochnaya simfoniya (2003),2003.0
+63,7.1,Malenkaya printsessa (1997),1997.0
+10,5.2,"Malenkie chelovechki Bolshevistskogo pereulka, ili Khochu piva (1993)",1993.0
+103,5.3,Malenkiy gigant bolshogo seksa (1993),1993.0
+19,5.4,Maltiyskiy krest (2008),2008.0
+334,6.6,Mama (1999),1999.0
+23,6.9,Mama (2010/II),2010.0
+14,4.5,Mama daragaya! (2014),2014.0
+406,6.9,Mama ne goryuy (1998),1998.0
+269,5.6,Mama ne goryuy 2 (2005),2005.0
+30,8.1,"Mama, I'm Gonna Kill You (2013)",2013.0
+2344,7.1,Mamy (2012),2012.0
+31,4.8,Mamy 3 (2014),2014.0
+10,4.9,Manezhnoye loshadinoye chteniye (2010) (TV),2010.0
+56,6.4,Manga (2005),2005.0
+75,6.4,Maniya Zhizeli (1995),1995.0
+342,2.7,Mantera (2012),2012.0
+104,1.3,Mantikora (2011),2011.0
+10,3.4,Manyachilo (2012),2012.0
+117,5.8,Marafon (2013),2013.0
+5,6.6,Margarita (1997) (TV),1997.0
+8,7.8,Mark Twain's Tom Sawyer (2001) (V),2001.0
+466,3.4,Marquis de Sade (1996),1996.0
+234,6.4,Mars (2004),2004.0
+17,5.5,Marsh Turetskogo: Opasno dlya zhizni (2000) (TV),2000.0
+7,3.0,Marsh Turetskogo: Poslednyy marshal (2001) (TV),2001.0
+9,4.1,Marsh Turetskogo: Ubiystvo na Neglinnoy (2000) (TV),2000.0
+5,4.4,Marsh slavyanki (2003),2003.0
+135,6.1,Marsh-brosok (2003),2003.0
+250,4.2,Marshrut postroen (2016),2016.0
+66,7.2,Marussia (2013),2013.0
+42,7.4,Masha (2004),2004.0
+7,1.0,Mashina na nomer 666 (2015) (V),2015.0
+6,7.8,Mashka (2014),2014.0
+9,2.4,Mask of Death (2012),2012.0
+411,6.8,Master i Margarita (1994),1994.0
+5,1.8,Mastera poroka (2010),2010.0
+2954,7.6,Mat i syn (1997),1997.0
+581,5.5,Match (2012),2012.0
+172328,7.7,Match Point (2005),2005.0
+7,5.6,Materinskiy instinkt (2009) (TV),2009.0
+5,8.2,Matskhovris Saplavze Antebuli Santeli (2008),2008.0
+65,7.3,May (2007),2007.0
+149,6.2,Mayak (2006),2006.0
+1636,7.2,Mayor (2013/I),2013.0
+7,7.0,Mayskiy dozhd (2012),2012.0
+42,5.5,Mazepa (1909),1909.0
+712,5.0,Mechenosets (2006),2006.0
+5,5.4,Mechta (2007),2007.0
+85,5.7,Mechtat ne vredno (2005),2005.0
+28,3.8,Mechty idiota (1993),1993.0
+21,6.6,Medlennoe Bistro (2002),2002.0
+9,5.9,Medvezhya okhota (2007),2007.0
+8,4.9,Meeting (2015/I),2015.0
+140,7.1,Mekhanicheskaya syuita (2001),2001.0
+51,7.2,Melkiy bes (1995),1995.0
+5,6.2,Melyuzga (2005),2005.0
+7,9.3,Memoire (2013),2013.0
+5,7.4,Men's choice (2016),2016.0
+14,6.4,Menschenlabor Sowjetunion (2009) (TV),2009.0
+105,7.2,Menyaly (1992),1992.0
+5,1.0,Mertvets iz pod snega (2016),2016.0
+8,5.2,Meshcherskie (1995),1995.0
+9,5.9,Mest (2008) (TV),2008.0
+1860,7.8,Mest kinematograficheskogo operatora (1912),1912.0
+11,5.5,Mest transformerov (2012),2012.0
+11,8.4,Mesto deystviya. Fuckin City (2007),2007.0
+222,7.2,Mesto na zemle (2001),2001.0
+135,6.6,Mesyats v derevne (2014),2014.0
+26,6.1,Metamorfozis (2015),2015.0
+5137,6.6,Metro (2013/I),2013.0
+6,1.5,Metro. Samaya opasnaya sdelka (2014) (V),2014.0
+17,7.1,Mezhzvyozdnyie voyny. Sila probuzhdayetsya (2015),2015.0
+1337,7.7,Mi ne mozhem zhit bez kosmosa (2014),2014.0
+6,2.7,Michael vs. Novikov 3: Underworld (2011),2011.0
+15,7.9,Midjachvuli raindebi (2000),2000.0
+850,5.0,Midnight in Saint Petersburg (1996) (TV),1996.0
+427,6.3,Midsummer Madness (2007),2007.0
+26,7.5,Mify moego detstva (2005),2005.0
+103,6.6,"Milyy Khans, dorogoy Pyotr (2015)",2015.0
+11,6.3,Milyy drug davno zabytykh let... (1996),1996.0
+5,8.0,Mind Your Head (2010),2010.0
+28,6.2,Mind the Gap (2016/II),2016.0
+11,3.8,Minecraft. Paranormal Activity (2013),2013.0
+67,6.4,Minnesota (2009),2009.0
+169,6.7,Minu Leninid (1997),1997.0
+30,7.8,Mir krepezha (2011),2011.0
+99,4.5,Mirazh (2008),2008.0
+48,6.5,Mirazhi (1916),1916.0
+15,6.7,Mirnaya zhizn (2004),2004.0
+495,5.9,Mishen (2011),2011.0
+36,4.2,Miss Universe 2013 (2013) (TV),2013.0
+8,6.4,Misterii (2000),2000.0
+20,6.5,Misticheskaya komediya (2016),2016.0
+6,8.0,Mkholod sikvdili modis autsileblad (1992),1992.0
+7,6.7,Mlada (1992) (V),1992.0
+17,5.1,Mlechnyy put (2016),2016.0
+1037,6.8,Mne ne bolno (2006),2006.0
+11,5.5,"Mne skuchno, bes (1993) (TV)",1993.0
+54,6.8,Mnogotochie (2006),2006.0
+5,7.8,Mog li Stalin ostanovit Gitlera? (2009),2009.0
+49,7.4,Moia mama - samolet (2013),2013.0
+5,8.0,Moja schastlivaya semja (2007),2007.0
+62,6.4,"Molchi, grust... molchi (1918)",1918.0
+8,7.2,Molodoe zlo (2008),2008.0
+8,5.8,Molodozhony (2012) (TV),2012.0
+1813,6.8,Molokh (1999),1999.0
+57,5.3,Molot (2016),2016.0
+674,7.9,Moms Are Simply Waiting for Us (2012) (V),2012.0
+25,6.1,Mon Paradis - Der Winterpalast (2001),2001.0
+338,7.0,Monakh i bes (2016),2016.0
+38457,7.3,Mongol (2007),2007.0
+7,6.1,Monster 353 (2016),2016.0
+83,4.0,Monstry (1993),1993.0
+165,5.5,Montana (2008),2008.0
+16,5.9,More (2013/III),2013.0
+1836,7.2,Morfiy (2008),2008.0
+7,6.9,Moroshka (2016),2016.0
+575,5.3,Moroz po kozhe (2007),2007.0
+8,2.1,Mortal Kombat X: Rezhim istorii #2 (2015) (TV),2015.0
+13,9.2,Mortem (2016/III),2016.0
+2002,4.5,Moscow Heat (2004),2004.0
+165,5.7,Moscow Never Sleeps (2015),2015.0
+112,6.4,Moskovskiy zhigolo (2008),2008.0
+173,6.0,Moskovskiye kanikuly (1995),1995.0
+259,6.5,Moskva (2000),2000.0
+12,4.0,Moskva - Lopushki (2013) (TV),2013.0
+280,4.0,"Moskva, ya lyublyu tebya! (2010)",2010.0
+14,6.1,"Moskva, ya terplyu tebya (2016)",2016.0
+8,8.9,Moskva. Pride '06 (2006),2006.0
+12,6.9,"Moskvich, im ser (2015)",2015.0
+26,9.0,Mother's War (2008),2008.0
+11,4.4,Motsart (2006),2006.0
+22,6.8,Moy lichniy los' (2014),2014.0
+17,5.2,Moy lichnyy vrag (2005) (TV),2005.0
+208,6.9,Moy papa Baryshnikov (2011),2011.0
+376,6.6,Moy paren - angel (2012),2012.0
+246,7.1,Moy svodnyy brat Frankenshteyn (2004),2004.0
+220,5.0,Moya bezumnaya semya (2012),2012.0
+5,7.6,Moya familiya Shilov (2013) (TV),2013.0
+1068,8.1,Moya lyubov (2006),2006.0
+16,6.4,Moya mama - Snegurochka (2007),2007.0
+15,5.7,Moya mama - nevesta (2004),2004.0
+61,7.2,Moya zhizn (2000),2000.0
+9,6.3,Mozg Sovietskoi Rossii (1919),1919.0
+30,7.4,Mr. Bliss (2004),2004.0
+7,1.0,Mr. Lololoshka vs. EeOneGuy (2014) (V),2014.0
+5,1.0,Mstitel chelovechestva (2016),2016.0
+93,5.4,Mu-Mu (1998),1998.0
+93,6.8,Mukha (2008),2008.0
+9,6.3,Mukhamory (2016),2016.0
+14426,5.7,Mulan II (2004) (V),2004.0
+6,4.7,Muravinyy yozhik (1993),1993.0
+9,5.0,Murder (2005) (V),2005.0
+9,2.7,Murder on Elm Street (2012),2012.0
+315,6.2,Mushketyory 20 let spustya (1992),1992.0
+11,7.5,Mushrooms (2014),2014.0
+293,6.0,Musorshchik (2001),2001.0
+362,7.2,Musulmanin (1995),1995.0
+4491,6.8,Mute Witness (1995),1995.0
+10,8.5,Mutilator from the Grave (2015),2015.0
+32,5.1,Muzh moey vdovy (2010),2010.0
+9,6.9,Muzhchina dlya molodoy zhenshchiny (1996),1996.0
+481,4.3,Muzhchina s garantiey (2012),2012.0
+20,5.7,Muzhchina v moey golove (2009) (TV),2009.0
+7,7.3,Muzhskaya kompaniya (1992),1992.0
+8,4.2,Muzhskaya zhenskaya igra (2011),2011.0
+5,4.6,Muzhskiye otkroveniya (1995),1995.0
+391,3.5,Muzhskoy sezon. Barkhatnaya revolyutsiya (2005),2005.0
+6,2.5,Muzhskoy talisman (1995),1995.0
+7,6.6,Muzhskoy zigzag (1992),1992.0
+17,7.1,Muzyka dlya dekabrya (1995),1995.0
+41,5.8,My Family Treasure (1993),1993.0
+12,7.7,My Friend Boris Nemtsov (2016),2016.0
+6,8.7,My Grandfather Was a Cherry Tree (2015),2015.0
+7,7.4,My Little Hitler (2015),2015.0
+5,7.2,My Murderer (2016),2016.0
+8,9.1,My Neighbors Were Eaten by Toilets (2017),2017.0
+526,7.3,My Perestroika (2010),2010.0
+193,6.3,My Reincarnation (2011),2011.0
+18,7.4,My Strange Grandfather (2011),2011.0
+2513,7.0,My iz budushchego (2008),2008.0
+864,5.2,My iz budushchego 2 (2010),2010.0
+5,7.2,My ne raby (2012),2012.0
+7,2.0,My sdelali eto! (2001),2001.0
+13,5.8,My umryom vmeste (2005),2005.0
+10,5.9,My yedem v Ameriku (1992),1992.0
+25,6.1,Myaso (2002),2002.0
+7,6.6,Mymra (2008) (TV),2008.0
+660,4.3,Myortvye docheri (2007),2007.0
+9,6.8,Mysterious Woods (2012) (V),2012.0
+6,5.7,Mystery Forest (2017),2017.0
+8,1.0,Mystery of Faceless Man: History of Monster (2016),2016.0
+6,5.8,Mystery of Sleeping Forest (2010),2010.0
+34,7.1,Mytar (1997),1997.0
+35,6.1,Mdchen im Eis (2015),2015.0
+32,5.2,Na Baykal (2012),2012.0
+1201,6.1,"Na Deribasovskoy khoroshaya pogoda, ili Na Brayton-Bich opyat idut dozhdi (1993)",1993.0
+9,6.1,Na Muromskoy dorozhke (1993),1993.0
+95,7.4,Na Verkhney Maslovke (2005),2005.0
+127,6.7,Na bezymyannoy vysote (2004),2004.0
+6,4.8,Na boykom meste (1911),1911.0
+17,6.2,Na boykom meste (1998),1998.0
+12,4.8,Na dne (2014),2014.0
+1190,5.8,Na igre (2009),2009.0
+632,5.3,Na igre 2. Novyy uroven (2010),2010.0
+85,4.4,Na izmene (2010),2010.0
+28,5.3,Na kogo Bog poschlet (1994),1994.0
+38,7.1,Na krayu stoyu (2008),2008.0
+5,8.4,Na kruchke (2012),2012.0
+7,1.4,Na kryshe mira (2008),2008.0
+199,5.2,Na kryuchke! (2011),2011.0
+330,6.5,Na more! (2009),2009.0
+73,5.3,Na oshchup (2010),2010.0
+37,5.2,Na svete zhivut dobrye i khoroshie lyudi (2010),2010.0
+27,7.1,Na tebya upovayu (1992),1992.0
+5,6.0,Na zare tumannoy yunosti (1997),1997.0
+9,7.0,Naakhara (2007),2007.0
+12,1.3,Naakhara 2: Sacred Ground (2011),2011.0
+10,7.0,Nachalnik (2009),2009.0
+6,5.7,Nachalo puti (2004),2004.0
+6,4.3,Nad gorodom (2010),2010.0
+57,6.6,Nad temnoy vodoy (1993),1993.0
+5,4.0,Nadezhda (2002),2002.0
+5,7.2,Nak Muay (2013),2013.0
+116,5.9,Nakhodka (2015),2015.0
+23,6.0,Nankinskiy peyzazh (2006),2006.0
+9,6.7,Napisano Sergeyem Dovlatovym (2012),2012.0
+57,5.5,Nas ne dogonish (2007),2007.0
+177,2.0,Nasha Masha i Volshebnyy orekh (2007),2007.0
+1437,4.9,Nasha Russia. Yaytsa sudby (2010),2010.0
+7,7.7,Nasha rodina (2005),2005.0
+12,4.4,Nasledniki (2008),2008.0
+19,5.5,Nasledniki (2015),2015.0
+5,5.8,Naslednitsy (2001),2001.0
+9,6.0,Nastoyatel (2011) (TV),2011.0
+719,7.8,Nastroyshchik (2004),2004.0
+332,7.0,Nastya (1994),1994.0
+9,7.9,Nastya (2015),2015.0
+42,8.1,Natsionalnaya bomba (2004),2004.0
+36,5.2,Naturshchitsa (2007),2007.0
+78,7.1,Nauchnaya sektsiya pilotov (1996),1996.0
+77,7.2,Navodneniye (1993),1993.0
+5,3.2,"Nazad - k schastyu, ili Kto naydyot Sinyuyu ptitsu (2011) (TV)",2011.0
+23,8.4,Ne delayte biskvity v plokhom nastroenii (2003),2003.0
+100,6.7,Ne dumay pro belykh obezyan (2008),2008.0
+96,6.5,Ne khlebom edinym (2005),2005.0
+20,6.2,Ne khochu zhenitsya! (1994),1994.0
+15,6.1,Ne nado pechalitsya (2010),2010.0
+114,6.2,Ne poslat li nam... gontsa? (1998),1998.0
+5,5.4,Ne povezlo (2013),2013.0
+140,6.7,Ne skazhu (2010),2010.0
+8,5.4,Ne strelyayte v passazhira (1993),1993.0
+106,6.5,Ne valyay duraka (1997),1997.0
+2570,7.6,Neadekvatnye lyudi (2010),2010.0
+333,6.8,Nebesnye zheny lugovykh mari (2012),2012.0
+353,7.2,Nebesnyy sud (2011),2011.0
+96,8.9,Nebesnyy verblyud (2015),2015.0
+6,1.0,Nebo (2014) (V),2014.0
+15,8.8,Nebo pod serdtsem (2012),2012.0
+77,5.7,Nebo v almazakh (1999),1999.0
+437,6.8,Nebo. Samolyot. Devushka. (2002),2002.0
+13,7.0,Neboskreby Moskvy (2003),2003.0
+115,6.1,Nechayanno (2014),2014.0
+83,7.1,Nedoverie (2004),2004.0
+30,5.3,"Nefertiti, figlia del sole (1995)",1995.0
+11,7.5,Neft (2003),2003.0
+6,9.2,Neft va milyonlar saltanatinda (1916),1916.0
+26,6.0,Neidealnaya zhenshchina (2008),2008.0
+7,8.1,Neizvestnyy Putin (2000),2000.0
+7,6.3,Nekama Yehudit (1999),1999.0
+5,8.0,Nekhoroshiy malchik (2003) (TV),2003.0
+32,5.8,Nelegal (2006),2006.0
+8,6.5,Nelyubimyy (2011) (TV),2011.0
+49,6.2,Nemye svideteli (1914),1914.0
+7,4.1,Nenasytnye (2006),2006.0
+64,6.3,Neostorozhnost (2007),2007.0
+28,6.6,Nepal foreva (2013),2013.0
+654,6.3,Nepobedimyy (2008),2008.0
+64,6.1,Neproshchennye (2009),2009.0
+14,4.4,Nerealniy kasting (2009),2009.0
+79,6.4,Nesluzhebnoe zadanie (2004),2004.0
+12,6.3,Nesluzhebnoe zadanie 2: Vzryv na rassvete (2005),2005.0
+16,7.4,Nesut menya koni (1996),1996.0
+35,7.2,Net smerti dlya menya (2002),2002.0
+101,3.2,Neulovimye (2015),2015.0
+33,4.6,Neupravlyaemyy zanos (2005),2005.0
+269,5.9,Nevalyashka (2007),2007.0
+6,9.5,Never Not Part 2 (2013),2013.0
+26,6.5,Nevesta (2006),2006.0
+34,5.7,Nevesta (2017),2017.0
+18,5.3,Nevesta iz Parizha (1992),1992.0
+267,5.0,Nevesta lyuboy tsenoy (2009),2009.0
+36,5.2,Nevidimki (2015),2015.0
+7,1.0,New Invasion (2016) (V),2016.0
+9,7.0,Nezabudki (1994),1994.0
+335,7.3,Nezhnyy vozrast (2000),2000.0
+31,7.5,Neznachitelnye podrobnosti sluchaynogo epizoda (2011),2011.0
+21,6.5,Neznaika i Barrabass (2004),2004.0
+373,7.2,Neznaika na Lune (1997),1997.0
+146,7.0,Neznaika na Lune 2 (1999),1999.0
+6,5.8,Neznakomets (2016) (V),2016.0
+7,1.0,Neznakomka (2016),2016.0
+15,6.9,Nezrimyy puteshestvennik (1999),1999.0
+62,6.9,Nichego lichnogo (2007),2007.0
+29,6.5,Nichego strashnogo (2000),2000.0
+6,9.8,Night Life is Sport Life (2014),2014.0
+12,6.2,Night Visitor (2015),2015.0
+13,7.0,Night in the School (2016),2016.0
+10,7.7,Night of the Dead Man (2014),2014.0
+11,6.8,Nightmare in Bratislava (2015),2015.0
+8,7.6,Nightmare in Moscow (2015),2015.0
+8,7.8,Nightmare in Wien (2015),2015.0
+5,6.6,Nikogda ne razgovarivayte s neizvestnymi (2006),2006.0
+247,3.7,Nikto ne znaet pro seks (2006),2006.0
+86,2.5,Nikto ne znaet pro sex 2: No sex (2008),2008.0
+29,6.0,"Nikto, krome nas... (2008)",2008.0
+10,6.9,Nimfa Salmaka (1992),1992.0
+28,5.5,"Niotkuda s lyubovyu, ili Vesyolye pokhorony (2006)",2006.0
+316,6.0,Nirvana (2008/I),2008.0
+12,6.7,Nishchaya (1916),1916.0
+8,8.4,Nizhniaya Kaledonia (2008),2008.0
+62,7.7,No Comment (2015),2015.0
+52,3.2,Noch boytsa (2009),2009.0
+148,6.7,Noch pered Rozhdestvom (1913),1913.0
+21,6.8,Noch pered Rozhdestvom (1997),1997.0
+8,4.4,Noch zakrytykh dverey (2008),2008.0
+292,4.7,Nochnoy bazar (2005),2005.0
+47864,6.5,Nochnoy dozor (2004),2004.0
+503,6.7,Nochnoy prodavets (2005),2005.0
+296,4.1,Nochnye strazhi (2016),2016.0
+94,6.8,Nochnye syostry (2007),2007.0
+13,4.8,Nochnye zimnie lyudi (2014),2014.0
+137,6.9,Noga (1991),1991.0
+23,7.4,Nogi - atavizm (2012),2012.0
+8,6.9,Noise (2013/II),2013.0
+8,5.0,Noktyurn dlya barabana i mototsikla (1994),1994.0
+10,7.0,Norveg (2015),2015.0
+68,4.3,Nosferatu. Uzhas nochi (2010),2010.0
+6,6.3,Notti di paura (1997),1997.0
+27,7.3,"Nous, les enfants du xxme sicle (1994)",1994.0
+1364,6.8,Novaya Zemlya (2008),2008.0
+10,4.3,Noveyshie priklyucheniya Buratino (1997) (TV),1997.0
+7,6.7,Novogodnie priklyucheniya (2002),2002.0
+6,4.5,Novogodnyaya SMSka (2011) (TV),2011.0
+27,6.7,Novogodnyaya zhena (2012) (TV),2012.0
+93,4.2,Novye Bremenskiye (2000),2000.0
+60,3.9,Novye priklyucheniya Alenushki i Eremy (2009),2009.0
+67,5.6,Novyy Odeon (1992),1992.0
+24,4.9,Novyy god otmenyaetsya! (2004) (TV),2004.0
+246,6.2,Nulevoy kilometr (2007),2007.0
+6,7.7,Nuyrka (2011),2011.0
+270,3.5,Nyanki (2012),2012.0
+12,5.9,Nyurkina banya (1996),1996.0
+1985,6.0,O Theos agapaei to haviari (2012),2012.0
+1551,6.6,O chyom eshchyo govoryat muzhchiny (2011),2011.0
+3603,7.7,O chyom govoryat muzhchiny (2010),2010.0
+173,2.8,O chyom molchat devushki (2013),2013.0
+59,5.4,O lyubvi (2004),2004.0
+7,4.6,O lyubvi v lyubuyu pogodu (2004),2004.0
+8,5.6,O nyom (2012),2012.0
+11,4.0,O'key (2002),2002.0
+125,4.8,"O, schastlivchik! (2009)",2009.0
+197,4.7,Obce cialo (2014),2014.0
+8,6.1,Obezyanki v opere (1995),1995.0
+5,5.6,"Obezyanki, vpered (1993)",1993.0
+36,7.3,Obida (2013),2013.0
+4494,5.2,Obitaemyy ostrov (2009),2009.0
+2101,5.1,Obitaemyy ostrov. Skhvatka (2009),2009.0
+10,7.5,Obitel strakha (2014),2014.0
+7,1.1,Object 500 (2016) (V),2016.0
+5,7.0,Obnazhennaya natura (2002),2002.0
+79,6.1,Oborona Sevastopolya (1911),1911.0
+34,5.9,Obratnoe dvizhenie (2010),2010.0
+242,5.9,Obratnyy otschet (2006),2006.0
+11,6.2,Obrechyonnye na voynu (2009),2009.0
+60,6.2,Obstoyatelstva (2009),2009.0
+10,3.7,Obyknovennyy bolshevism (2000),2000.0
+268,4.9,Ochen russkiy detektiv (2008),2008.0
+8,6.0,Ochen vernaya zhena (1992),1992.0
+5,5.6,Ochishcheniye (1990),1990.0
+8,2.2,Oderzhimyi pepsi (2016) (V),2016.0
+6,1.8,Odinochestvo (2016) (V),2016.0
+86,4.9,Odinochestvo krovi (2002),2002.0
+8,5.8,Odinochestvo lyubvi (2005) (TV),2005.0
+82,7.5,Odinochka (2010) (TV),2010.0
+15,6.1,Odinokiy igrok (1995),1995.0
+42,7.3,Odisseya 1989 (2003),2003.0
+110,6.0,Odna lyubov na million (2007),2007.0
+11,6.6,Odna na million (1992),1992.0
+117,6.3,Odna voyna (2009),2009.0
+81,6.1,Odnazhdy (2015),2015.0
+99,6.3,Odnazhdy v provintsii (2008),2008.0
+9,4.8,Odno reshenie - soprotivlenie (2011),2011.0
+99,4.9,Odnoklassniki (2010),2010.0
+388,3.1,Odnoklassniki.ru: naCLICKay udachu (2013),2013.0
+154,3.2,Odnoklassnitsy (2016),2016.0
+154,8.0,OdnovrEmEnno (2004) (V),2004.0
+284,4.3,Odnoy levoy (2015),2015.0
+5,6.0,Offline (2011/III),2011.0
+13,4.3,Ofitsiant s zolotym podnosom (1992),1992.0
+224,6.1,Ogni pritona (2011),2011.0
+21,6.6,Ohen' Odinokiy Petux (2015),2015.0
+65,7.1,Okean (2008),2008.0
+1317,6.1,Okhota na Piranyu (2006),2006.0
+41,5.9,Okhota na Vervolfa (2009) (V),2009.0
+7,5.1,Okhota na zaytsev (2003),2003.0
+92,6.2,Okhotnik (2011),2011.0
+14,7.6,Okhotniki za karavanami (2010) (TV),2010.0
+6,7.7,Okno (2015),2015.0
+1121,7.4,Okno v Parizh (1993),1993.0
+1264,6.8,Okolofutbola (2013),2013.0
+469,7.9,Okraina (1998),1998.0
+33,6.9,Oktyabr (1993),1993.0
+5,7.2,Old Peter (2007) (TV),2007.0
+9,7.2,Olga (2013/I),2013.0
+1619,6.8,Oligarkh (2002),2002.0
+348,5.4,Olimpius Inferno (2009),2009.0
+16,6.2,Olimpiyskaya derevnya (2011),2011.0
+19,3.4,Olive shou 2011 (2010) (TV),2010.0
+9,6.7,Olya's Love (2014),2014.0
+9,8.1,Ombilic (1992),1992.0
+1092,6.5,On - drakon (2015),2015.0
+11,7.9,On byl ego drugom (2015),2015.0
+7,6.1,On i ona (2008),2008.0
+7,7.6,On the Edge (2007/II),2007.0
+6,9.2,On the Way Home (2011) (V),2011.0
+45,5.5,"On, ona i ya (2007)",2007.0
+7,7.9,One Silent Man (2017),2017.0
+17,6.8,One and a Half Head Teacher (2014),2014.0
+49,7.3,Opashkata na dyavola (2001),2001.0
+8,4.5,Opasnaya kombinatsiya (2008),2008.0
+10,7.2,Opening Our Eyes (2011),2011.0
+11,6.4,Operatsiya 'Pravednik' (2009) (TV),2009.0
+361,5.7,Operatsiya 'S novym godom' (1996) (TV),1996.0
+16,7.2,Opyt breda lyubovnogo ocharovaniya (1991),1991.0
+698,6.3,Orda (2012),2012.0
+10291,7.2,Orlando (1992),1992.0
+516,6.1,Orlean (2015),2015.0
+275,7.2,Oryol i reshka (1995),1995.0
+6,5.7,Osenniye soblazny (1993),1993.0
+48,2.8,"Osobennosti bannoy politiki, ili banya 2 (2000)",2000.0
+2762,7.6,Osobennosti natsionalnoy okhoty (1995),1995.0
+995,6.4,Osobennosti natsionalnoy okhoty v zimniy period (2001),2001.0
+327,4.8,Osobennosti natsionalnoy politiki (2003),2003.0
+2542,7.3,Osobennosti natsionalnoy rybalki (1997),1997.0
+84,4.0,Osobennosti russkoy bani (1999),1999.0
+41,4.0,Osobennyy (2006),2006.0
+6,5.3,Ostanovka (1999),1999.0
+23,6.7,"Ostorozhno, deti! (2009)",2009.0
+8549,8.0,Ostrov (2006),2006.0
+6,7.7,Ostrov myortvykh (1993),1993.0
+527,3.0,Ostrov vezeniya (2013),2013.0
+434,5.7,Ot 180 i vyshe (2005),2005.0
+7,6.6,Ot serdtsa k serdtsu (2010) (TV),2010.0
+486,3.2,Ot vinta 3D (2012),2012.0
+40,5.6,Otdamsya v khoroshie ruki (2009),2009.0
+62,5.5,Otdat kontsy (2013),2013.0
+18,7.7,Otel mertvetsov (2013),2013.0
+74,6.9,Otets (2007),2007.0
+276,6.9,Otets Sergiy (1918),1918.0
+2052,6.7,Otets i syn (2003),2003.0
+6,4.5,"Otkroyte, Ded Moroz! (2007) (TV)",2007.0
+24,5.6,Otkrytoe prostranstvo (2008),2008.0
+6,6.2,Otkrytyy kosmos (2011) (TV),2011.0
+25,4.9,Otkuda berutsya deti? (2008),2008.0
+6,3.2,Otmorozki (2011),2011.0
+5,4.2,Otrazheniye v zerkale (1992),1992.0
+59,5.0,Otriv po polnoy (2007),2007.0
+88,6.2,Otryv (2007),2007.0
+8,8.9,Outlast (2016),2016.0
+162,6.1,Ovechka Dolli byla zlaya i rano umerla (2015),2015.0
+10,3.8,Over the Rainbow (LGBT Shorts) (2011),2011.0
+19,8.2,Ovsunchu (2003),2003.0
+1745,6.7,Ovsyanki (2010),2010.0
+5,5.8,"Oy, moroz, moroz! (2005)",2005.0
+83,6.0,Pacifier (1995),1995.0
+13,3.8,Padenie (1993),1993.0
+5,3.4,Padeniya s vala (2016) (V),2016.0
+17,5.8,Pakostnik (2005),2005.0
+47,6.7,Pal/Secam (2008),2008.0
+529,6.3,Palata N6 (2009),2009.0
+24,6.6,Pamietnik znaleziony w garbie (1993),1993.0
+647,7.7,Papa (2004),2004.0
+11,7.6,Papa (2014/III),2014.0
+19,6.7,Papa naprokat (2008),2008.0
+11,7.2,Para gnedykh (2010) (TV),2010.0
+1583,5.1,Paragraf 78 (2007),2007.0
+687,5.0,Paragraf 78 - Film vtoroy (2007),2007.0
+9,8.7,Parallel World (2012) (V),2012.0
+13,5.8,Parallelnye pryamye peresekayutsya v beskonechnosti (2015),2015.0
+7,1.4,Paranormal Activity. Digest. Vol. 1 (2016),2016.0
+10,7.4,Paranormal Yakutsk (2012),2012.0
+10,3.6,Paranormaliya (2012),2012.0
+5,1.4,Parazit strakha. Evolutsiya (2016),2016.0
+73,5.3,Paren s Marsa (2011),2011.0
+248,5.9,Paren s nashego kladbishcha (2015),2015.0
+21,5.2,Pari (2008),2008.0
+145,4.7,Park Sovetskogo perioda (2006),2006.0
+96,7.1,Parnikovyy effekt (2005),2005.0
+40,7.2,Paseka (2002) (V),2002.0
+7,5.1,Passazhir bez bagazha (2003) (TV),2003.0
+15,7.8,Passazhirka (1996),1996.0
+93,5.9,Passazhirka (2008),2008.0
+20,7.0,Pastukh svoikh korov (2002),2002.0
+18,8.8,Pathologic (2005) (VG),2005.0
+49,6.2,Patrioticheskaya komediya (1992),1992.0
+5,5.8,Patrul (2007),2007.0
+25,6.0,Patsienty (2014),2014.0
+10,8.6,Pavel i Lyalya (1999),1999.0
+44,5.9,Pavlovin koirat (2005),2005.0
+14,4.4,Pchyolka (1993),1993.0
+175,6.3,Peace to Us in Our Dreams (2015),2015.0
+16,5.4,Pechat tsarya Solomona (2013),2013.0
+7,7.7,"Pechatnikoff Alley, 3 (2009)",2009.0
+25,6.7,Pechorin (2011),2011.0
+42,7.9,"Pegiy pyos, Begushchiy kraem morya (1991)",1991.0
+33,5.5,Pelmeni (2013),2013.0
+344,6.4,Peregon (2006),2006.0
+181,6.2,Perekryostok (1999),1999.0
+141,5.9,Peremirie (2010),2010.0
+9,5.9,Pereprava (2009),2009.0
+116,4.5,Perestroika (2009/I),2009.0
+11,7.0,Perestroika - Umbau einer Wohnung (2008),2008.0
+18,3.6,Perevodchik (2015),2015.0
+5,6.8,Perfect (2016/V),2016.0
+5,7.4,Perimetr (2004) (VG),2004.0
+436,6.8,Persona non grata (2005/I),2005.0
+62,4.5,Pervaya lyubov: Vot takaya muzyka! (2009),2009.0
+5,9.2,Pervaya popytka (2009) (TV),2009.0
+16,7.9,Pervaya sopka 2 (2007),2007.0
+16,8.6,Pervaya sopka. Mest beshenogo Gansalesa (2007),2007.0
+495,7.1,Pervye na Lune (2005),2005.0
+257,5.4,Pervyy posle Boga (2005),2005.0
+42,7.2,Pesa dlya passazhira (1995),1995.0
+57,5.9,Peshavarskiy vals (1994),1994.0
+67,6.7,Pesni yuzhnykh morey (2008),2008.0
+10,4.5,Pesnya goda 2008 (2009) (TV),2009.0
+16,8.4,Pesnya goda 2009 (2010) (TV),2010.0
+9,7.0,Pesnya mekhanicheskoy ryby (2013),2013.0
+6,7.8,Pessimist (2015),2015.0
+14,7.2,Pestrye sumerki (2010),2010.0
+10,6.0,Peterburg (2003),2003.0
+98,5.8,Peterburg. Tolko po lyubvi (2016),2016.0
+15,5.5,Peterburgskiy dnevnik. Kvartira Kozintseva (1998) (TV),1998.0
+10,6.7,Peterburgskiy dnevnik. Otkritie pamyatnika Dostoeskomu (1997) (TV),1997.0
+26,6.2,Peterburgskiy dnevnik: Mozart. Rekviem (2004) (TV),2004.0
+5,7.4,Petukh (2015),2015.0
+143,5.7,Petya po doroge v Tsarstvie Nebesnoe (2009),2009.0
+47,7.1,Peyzazh (2003),2003.0
+5,6.0,Peyzazh s tremya kupalshchitsami (1995),1995.0
+1157,4.9,Philosophy of a Knife (2008) (V),2008.0
+23,6.3,Photojournalisms (2012),2012.0
+59,5.8,Piekna nieznajoma (1993),1993.0
+7,1.3,Pierre Sarkozi Show: Daniil Lazarenkov (2015) (V),2015.0
+9,6.0,Pik pik pik (2014),2014.0
+271,5.0,Pikap: Sem bez pravil (2009),2009.0
+61,6.2,Pikovaya dama (1910),1910.0
+346,6.8,Pikovaya dama (1916),1916.0
+446,5.5,Pikovaya dama. Chyornyy obryad (2015),2015.0
+17,6.6,Pil. Kuril (2014),2014.0
+164,6.2,Pionery-geroi (2015),2015.0
+1067,6.6,PiraMMMida (2011),2011.0
+12,7.9,Piramida nad Kievom (2016),2016.0
+11,9.1,Piramida nad Kremlyom (2016),2016.0
+38,8.2,Pisma k Elze (2002),2002.0
+5,7.6,Pisma v proshluyu zhizn (1994),1994.0
+6,6.8,Pismo (2007),2007.0
+51,5.9,Pismo (2013),2013.0
+21,5.6,Pistolet s glushitelem (1993),1993.0
+2224,7.2,Piter FM (2006),2006.0
+19,6.3,Pitstsevoz (2011),2011.0
+9,4.0,Plachu vperyod! (2001),2001.0
+10,8.7,Planeta (2005) (V),2005.0
+15,7.3,Planeta Kirsan (2011),2011.0
+5,2.2,Plata za vykhod ili vsyo konchaetsa na pistolete (2015),2015.0
+586,5.5,Platon (2008),2008.0
+17,2.2,Plemyannik ili Russkiy biznes 2 (2002),2002.0
+6,4.3,Plenniki udachi (1993),1993.0
+254,6.2,Plennyy (2008),2008.0
+19,7.9,Plyonki iz preispodney (2012),2012.0
+436,6.8,Plyus odin (2008),2008.0
+21,6.6,Po kontury litsa (2008),2008.0
+468,5.7,Pobeg (2005),2005.0
+7,1.0,Pobeg iz inogo mira. Chast 1 (2015) (V),2015.0
+8,7.9,Pochemu banan ogryzayetsya (2014),2014.0
+475,6.3,Pod elektricheskimi oblakami (2015),2015.0
+12,4.7,Pod vlasyu kurdov (1915),1915.0
+18,7.8,Pod znakom skorpiona (1995),1995.0
+50,5.5,Podari mne lunnyy svet (2001),2001.0
+5,5.8,Podarki chernogo vorona (2013),2013.0
+200,7.3,Podarok Stalinu (2008),2008.0
+150,4.7,Podarok s kharakterom (2014),2014.0
+577,6.6,Poddubnyy (2014),2014.0
+165,6.5,Podmoskovnye vechera (1994),1994.0
+7,7.0,"Podozhdi, pozhaluy (2002)",2002.0
+11,5.4,Podozrenie (2001) (TV),2001.0
+26,5.9,Podsadnoy (2010),2010.0
+9,6.8,Podvigi Gerakla (2000),2000.0
+7,1.0,Poiski vody. Zhazhda (2014) (V),2014.0
+228,5.9,Poka noch ne razluchit (2012),2012.0
+9,5.2,Poka ya ne umer (2001) (TV),2001.0
+1602,7.1,Pokazatelnyy protsess: Istoriya Pussy Riot (2013),2013.0
+6,4.7,"Pokemon GO! Catching Where I Want to, Not Prohibited by Law (2016)",2016.0
+9,3.2,Pokhishchenie (2013),2013.0
+11,6.8,Pokhishchennyy transformerami (2014),2014.0
+22,5.4,Pokhititeli knig (2003),2003.0
+758,7.1,Pokhoronite menya za plintusom (2009),2009.0
+22,6.9,Pokhozhdeniya bravogo soldata Shveyka (2012),2012.0
+81,6.3,Poklonnik (2001),2001.0
+21,7.1,Poklonnitsa (2012),2012.0
+2386,7.3,Poklosie (2012),2012.0
+12,7.3,Polaroid Love (2008),2008.0
+5,6.8,"Pole, klouny, yabloko... (2008)",2008.0
+8,7.0,Polet. Tri dnya posle katastrofy (2013),2013.0
+16,7.3,"Polifem, Akid i Galateya (1995)",1995.0
+13,8.8,Poligon 2 (2004) (V),2004.0
+60,6.6,Politseiskiye i vory (1997),1997.0
+5,7.0,Polnaya Truba (2003) (VG),2003.0
+16,6.8,Polnoe dykhanie (2007),2007.0
+21,5.8,Polnoe prevrashchenie (2015),2015.0
+11,1.5,Polnolunie (2005) (TV),2005.0
+10,6.6,Polnoluniye (1993),1993.0
+15,7.7,Poltora kota (2003),2003.0
+413,7.2,Poltory komnaty ili Sentimentalnoe puteshestvie na Rodinu (2009),2009.0
+188,6.8,Polumgla (2006),2006.0
+114,6.7,Polustanok (2000),2000.0
+46,4.1,Pomnyu - ne pomnyu! (2016),2016.0
+11,8.2,Pomori (2013),2013.0
+8,6.1,Pony Note (2015),2015.0
+964,7.1,Pop (2009),2009.0
+6,8.5,Popedi sebya (2011),2011.0
+187,6.3,Popsa (2005),2005.0
+22,3.1,Popugay Club (2013),2013.0
+25,7.6,PorNO (2010),2010.0
+7,7.4,Poros' (2007),2007.0
+10,6.6,Porta Eva (1999),1999.0
+25,7.2,Portfolio (2015),2015.0
+10,6.4,Portret (1915),1915.0
+67,7.0,Portret (2002),2002.0
+25,6.6,Portret Doryana Greya (1915),1915.0
+582,6.6,Portret v sumerkakh (2011),2011.0
+40,6.9,Poselenie (2002),2002.0
+565,6.7,Posle smerti (1915),1915.0
+7,1.0,Posle vzryva (2016) (V),2016.0
+7,1.0,Posle vzryva 2 (2016) (V),2016.0
+23,2.9,Posle zhizni (2008),2008.0
+15,6.6,Poslednee delo Varenogo (1994),1994.0
+10,6.3,Poslednee video (2013),2013.0
+15,5.1,Posledneiye tango (1918),1918.0
+11,9.3,Posledniy etazh (2010),2010.0
+175,6.8,Posledniy poezd (2003),2003.0
+227,6.6,Posledniy uik-end (2005),2005.0
+47,6.4,Posledniy zaboy (2006),2006.0
+20,7.2,Poslednyaya noch (2015),2015.0
+376,7.0,Poslednyaya skazka Rity (2012),2012.0
+7,5.3,"Poslushay, ne idyot li dozhd... (2000)",2000.0
+8,1.1,Post-mortem (2013),2013.0
+73,5.4,Postal III (2011) (VG),2011.0
+7,5.6,Poste restante (2000),2000.0
+38,6.6,Postelnye stseny (2005),2005.0
+11,5.8,Posylka s Marsa (2004),2004.0
+20,6.2,"Potapov, k doske! (2007)",2007.0
+12,7.0,Poteryannaya plyonka (2014),2014.0
+9,8.0,Potets (1992),1992.0
+5,5.4,Potolok (2012),2012.0
+30,7.3,Potomu chto mama (2001),2001.0
+6,9.5,Potop (1915),1915.0
+18,6.4,Potop (2004),2004.0
+5,1.6,Potroshitel iz prigoroda (2016),2016.0
+305,4.9,Potseluy babochki (2006),2006.0
+43,5.4,Potseluy ne dlya pressy (2008),2008.0
+116,5.1,Potseluy sestry (2007),2007.0
+180,4.1,Potseluy skvoz stenu (2011),2011.0
+11,3.8,Povelitel luzh (2002),2002.0
+18,6.2,Poveliteli snov (2015),2015.0
+340,7.7,"Poverty, Inc. (2014)",2014.0
+5,1.0,Povestka iznasilovaniya (2014) (V),2014.0
+7,4.7,Poyezd do Bruklina (1996),1996.0
+16,6.1,Poymat vedmu (2008),2008.0
+7,7.1,Pravda o shchelpakh (2004),2004.0
+9,8.3,Pravilo Very (2004),2004.0
+10,9.1,Pravosudie Elmera (2014),2014.0
+45,6.6,Pravosudie volkov (2010),2010.0
+39,5.8,Prazdnik (2001),2001.0
+23,5.4,Prazdnik vzaperti (2012),2012.0
+193,6.3,Predskazaniye (1993),1993.0
+69,7.2,Predstavlenie (2008),2008.0
+7,6.9,Prekrashchaem vyzhivat (2006) (V),2006.0
+43,6.8,Prekrasnaya Lyukanida (1912),1912.0
+10,4.0,Premiya Muz-TV 2003 (2003) (TV),2003.0
+9,2.7,Premiya Muz-TV 2004 (2004) (TV),2004.0
+7,2.9,Premiya Muz-TV 2005 (2005) (TV),2005.0
+13,5.2,Premiya Muz-TV 2006 (2006) (TV),2006.0
+17,4.9,Premiya Muz-TV 2007 (2007) (TV),2007.0
+31,4.3,Premiya Muz-TV 2008 (2008) (TV),2008.0
+19,4.9,Premiya Muz-TV 2009 (2009) (TV),2009.0
+19,4.2,Premiya Muz-TV 2010 (2010) (TV),2010.0
+15,3.9,Premiya Muz-TV 2011 (2011) (TV),2011.0
+9,3.0,Premiya Muz-TV 2012 (2012) (TV),2012.0
+7,2.6,Premiya Muz-TV 2013 (2013) (TV),2013.0
+6,4.5,Premiya Muz-TV 2014 (2014) (TV),2014.0
+7,4.9,President i ego zhenshchina (1996),1996.0
+6,1.3,Presledovatel (2014) (V),2014.0
+6,2.2,Presledovatel 2: Vysokoe napryazhenie (2016) (V),2016.0
+5,2.0,Presledovatel 3: Probuzhdenie gostya (2016) (V),2016.0
+7,1.6,Presledovatel 3: Zapredel'naya mosch (2016) (V),2016.0
+18,8.2,Prestuplenie i nakazanie (2005),2005.0
+6,6.5,Prestuplenie i pogoda (2007),2007.0
+242,7.1,Prevrashchenie (2002),2002.0
+23,5.5,Prezident (2015),2015.0
+131,5.8,Prezident i ego vnuchka (2000),2000.0
+93,7.0,Pribytie poezda (1995),1995.0
+48,7.6,Pridel angela (2008),2008.0
+9,6.3,Pridurok (2012),2012.0
+9,6.3,Pridurok 2 (2012),2012.0
+5,1.4,Prigorodskiy potroshitel (2015),2015.0
+5,1.6,Prigorodskiy potroshitel 2. Novaya krov (2015),2015.0
+5,1.4,Prigorodskiy potroshitel 3. Komanda ubiyts (2015),2015.0
+5,1.2,Prigorodskiy potroshitel 4. Nachalo (2016),2016.0
+5,1.4,Prigorodskiy potroshitel 5. Poslednyaya krov (2016),2016.0
+5,1.4,Prigorodskiy potroshitel 6. Naslediye (2016),2016.0
+10,5.8,Prigovor (1993),1993.0
+18,6.1,Prikazano zabyt (2014),2014.0
+6,5.3,Prikazano zhenit (2011) (TV),2011.0
+332,7.4,Prikhodi na menya posmotret (2001),2001.0
+7,1.0,Priklyucheniya Volodi Zlogo (2015),2015.0
+28,6.1,Priklyucheniya soldata Ivana Chonkina (2007) (TV),2007.0
+34,2.6,Priklyucheniya v tridesyatom tsarstve (2010),2010.0
+65,4.3,Priklyuchenya Alenushki i Eremi (2008),2008.0
+221,7.1,Prikosnoveniye (1992),1992.0
+14,6.6,Prikovannyy (2002),2002.0
+94,4.1,Prilichnye lyudi (2015),2015.0
+10,6.0,Primer intonatsii (1991),1991.0
+8,5.9,Printsipyalnyy i zhalostlivyy vzglyad (1996),1996.0
+8,3.6,Prityazhenie (2003),2003.0
+249,6.3,Prityazhenie (2017),2017.0
+11,6.5,Privet iz Kislovodska (2001),2001.0
+158,5.1,"Privet, duralei! (1996)",1996.0
+9,6.7,"Privet, kinder! (2009)",2009.0
+142,5.8,Privychka rasstavatsya (2013),2013.0
+421,6.7,Prizrak (2015),2015.0
+12,2.6,Prizrak 5: Vozvrashchenie sudby (2013),2013.0
+8,4.1,Prizrak doma moego (1994),1994.0
+14,6.3,Prizrak iz Khovrino (2012),2012.0
+249,6.8,"Pro Fedota-streltsa, udalogo molodtsa (2008)",2008.0
+10,6.9,Pro Rakov (2003),2003.0
+6,7.2,Pro barana i kozla (2005),2005.0
+39,6.2,Pro biznesmena Fomu (1993),1993.0
+10,6.1,"Pro devochku, kotoraya nashla svoego mishku (2002) (TV)",2002.0
+198,6.1,Pro lyuboff (2010),2010.0
+506,6.5,Pro lyubov (2015),2015.0
+8,8.0,Pro mamu (2015),2015.0
+2047,7.2,Pro urodov i lyudey (1998),1998.0
+5,6.4,Pro vasiliya blazhennogo (2009),2009.0
+16,7.7,"Pro zhenu, mechtu i esche odnu... (2013)",2013.0
+10,5.5,Probka (2009),2009.0
+14,6.9,Prodaetsya dacha (2005),2005.0
+8,5.2,Prodavets igrushek (2013),2013.0
+7,3.4,Prodayotsya detektor lzhi (2005),2005.0
+64,5.9,Proekt inzhenera Prayta (1918),1918.0
+7,4.9,Proekt: Panatseya (2013),2013.0
+23,6.7,Professor v zakone (2007),2007.0
+1367,7.4,Progulka (2003),2003.0
+46,6.8,Progulka po eshafotu (1992),1992.0
+18,4.6,Prokhindiada 2 (1994),1994.0
+61,9.1,Proklyatie serogo slonyonka (2011),2011.0
+9,6.1,Proklyatoye Video (2005),2005.0
+27,7.4,Proklyatye zemli (2000) (VG),2000.0
+7,1.0,Prolitoe krov'yu samoubiystvo (2014) (V),2014.0
+5,1.6,Prolitoe krov'yu samoubiystvo (2015) (V),2015.0
+18,7.1,Propavshaya ekspeditsiya (1996) (TV),1996.0
+9,6.2,Propavshiy (2012),2012.0
+40,6.0,Propavshiy bez vesti (2010),2010.0
+114,6.9,Prorva (1992),1992.0
+29,4.7,Proshchanie (2004),2004.0
+12,7.8,Proshchanie (2013),2013.0
+11,9.3,Proshchanie s bumagoy (2014) (V),2014.0
+13,5.7,Proshchanie v iyune (2003),2003.0
+42,7.0,"Proshchay, yuzhnyy gorod (2006)",2006.0
+21,6.6,"Proshchayte, doktor Freyd (2004)",2004.0
+23,5.3,Prostodushnyy (1994),1994.0
+364,7.1,Prostye veshchi (2007),2007.0
+22,6.0,Protivostoyanie (2006),2006.0
+20,5.7,Protivostoyanie dvukh grabiteley (2015),2015.0
+7,7.7,Protsess Mironova (1919),1919.0
+33,7.2,Provincial School (1992),1992.0
+12,2.8,Provintsialnyy benefis (1993),1993.0
+8,8.1,Provoda (2014),2014.0
+196,6.3,Pryachsya (2011),2011.0
+89,6.3,Pryamokhozhdenie (2005),2005.0
+11,7.3,Psikhoz (2009),2009.0
+9,7.0,Psychedelic Breakfast (2013),2013.0
+23,7.2,Ptitsa-Gogol (2009) (TV),2009.0
+21,5.8,Pugalo (2000),2000.0
+292,6.2,Punane elavhbe (2010),2010.0
+129,7.5,Pura vida - The Ridge (2012),2012.0
+181,6.2,Pushkin: Poslednyaya duel (2006),2006.0
+22,5.8,Pussy protiv Putina (2013),2013.0
+17,7.2,Pustota (2007),2007.0
+35,7.9,Pustoy dom (2012),2012.0
+245,4.7,Put (2009),2009.0
+15,6.3,Put k sebe (2010) (TV),2010.0
+7,6.0,Puteshestvie Fedora po Moskve nachala XXI veka (2015),2015.0
+287,7.2,Puteshestvie s domashnimi zhivotnymi (2007),2007.0
+738,4.3,Putevoy obkhodchik (2007),2007.0
+10,7.5,Putin Forever? (2015),2015.0
+563,6.5,Putins kys (2011),2011.0
+130,6.7,Pyat butylok vodki (2001),2001.0
+416,6.5,Pyat nevest (2011),2011.0
+11,7.9,Pyat zvyozd (2012),2012.0
+517,6.3,Pyatnitsa (2016),2016.0
+72,6.2,Pyatnitsa. 12 (2009),2009.0
+993,7.2,Pyl (2005),2005.0
+13,5.4,Pyotr Velikiy (1910),1910.0
+9,9.4,Pyramid Above Saint-Petersburg (2016),2016.0
+12,8.7,Pyramid Above Volga (2016),2016.0
+17,7.6,Qristine (1916),1916.0
+263,4.7,Quackerz (2016),2016.0
+71,6.9,Queen of Spades (2016),2016.0
+9,6.2,Qurban (2011),2011.0
+9,7.8,R. E. K. (2007),2007.0
+18,8.5,Racers: A Champion's Story (2013),2013.0
+7,1.0,Radiodeath (2015) (V),2015.0
+9,8.8,Radiodeath (2016),2016.0
+7,1.0,Radiodeath 2: Phonodeath (2016) (V),2016.0
+37,7.4,Radosti i pechali malenkogo lorda (2003),2003.0
+9,9.0,Raduga (2014),2014.0
+7,1.1,Rage of Spirit (2015) (V),2015.0
+5,1.6,Rage of Spirit 2 (2016) (V),2016.0
+10,7.2,Rage of Spirits (2015),2015.0
+49,6.6,Ragin (2004),2004.0
+786,6.8,Raja 1918 (2007),2007.0
+45,5.2,Random (2013),2013.0
+478,3.0,Raptor Ranch (2013),2013.0
+21,4.8,Rasfokusin (2013),2013.0
+35,4.8,Raskalyonnaya subbota (2002),2002.0
+393,5.1,Raspoutine (2011) (TV),2011.0
+292,5.2,Rasputin (2011),2011.0
+958,7.1,Rasskazy (2012),2012.0
+39,7.3,Rassvet/Zakat. Dalai Lama 14 (2008),2008.0
+18,7.1,Raukhenek (2013),2013.0
+18,6.6,Raukhenshtayn (2013),2013.0
+221,7.4,Ray (2016),2016.0
+43,6.1,Rayskie kushchi (2015),2015.0
+7,6.4,Rayskoye yablochko (1998),1998.0
+12,6.7,Razborchivyy zhenikh (1993),1993.0
+5,2.2,Razborki v stile mafia (2013),2013.0
+34,4.8,Razgovor (2011),2011.0
+6,7.0,Razgovor s ptizi (1997),1997.0
+7,7.1,Razmetka (2007),2007.0
+23,6.5,Raznoschik (2013),2013.0
+7,5.4,Razreshite tebya potselovat... na svadbe (2013) (TV),2013.0
+12,5.1,Razvod po sobstvennomu zhelaniyu (2015),2015.0
+11,7.3,Razzhalovannyi (2009) (TV),2009.0
+250,4.7,Realnaya skazka (2011),2011.0
+110,4.7,Realnyy papa (2008),2008.0
+5161,7.7,Red Army (2014),2014.0
+294,2.3,Red Serpent (2003),2003.0
+9,7.0,Redux (2015),2015.0
+99,7.2,Reka (2002),2002.0
+17,8.8,Reka (2014),2014.0
+23,7.1,Repetitsii (2013),2013.0
+7,6.7,Reportery (2008) (V),2008.0
+52,6.9,Rerberg i Tarkovsky. Obratnaya storona Stalkera (2009),2009.0
+16,8.6,Restrainer (2013),2013.0
+6,4.5,Resurrection (1907),1907.0
+8,3.4,Retribution (2014/VII),2014.0
+55,6.3,Retro vtroyem (1998),1998.0
+11,4.9,Retsept kolduni (2004),2004.0
+6,7.3,"Return of the Firebird: The Firebird, Petrushka, Scheherazade (2002) (V)",2002.0
+6,6.0,Return of the Sorcerer (2016),2016.0
+7,7.0,Revenge (2012) (VG),2012.0
+10,4.9,Revenge of Ghost (2015),2015.0
+7,8.1,Revenge of the Tree (2017),2017.0
+7,3.7,Revers (2013),2013.0
+131,6.9,Revizor (1996),1996.0
+7,1.0,Revizorro. Film perviy (2014) (V),2014.0
+53,6.4,Revolyutsioner (1917),1917.0
+93,5.4,Reyder (2011),2011.0
+14,4.7,Reyndzher iz atomnoy zony (1999),1999.0
+23,6.0,Richard Lvinoe Serdtse (1992),1992.0
+27,7.8,Richard Vtoroi (1992) (TV),1992.0
+6,5.5,Riorita (2008),2008.0
+9,2.0,Rise of the Dark (2015),2015.0
+9,8.2,Rise of the Dead (2012) (V),2012.0
+10,5.8,Rise of the Dead (2015),2015.0
+15,5.6,Risk bez kontrakta (1992),1992.0
+9,5.2,Rita (2010) (TV),2010.0
+7,8.9,Ritual: Rage of Witch (2014),2014.0
+6,1.7,Road (2015) (V),2015.0
+7,1.1,Road 2 (2016) (V),2016.0
+7,1.3,Road 3: Relevation (2016) (V),2016.0
+7,1.0,Road 4: In the Woods (2016) (V),2016.0
+7,1.0,Road 5: Survivor (2016) (V),2016.0
+7,1.0,Road 6: To Nothing (2016) (V),2016.0
+7,1.0,Road 7 (2016) (V),2016.0
+5,3.0,Road 8 (2016) (V),2016.0
+7,7.7,Road to Hell (2013) (VG),2013.0
+143,7.2,Robert. Schastlivaya zhizn (1997),1997.0
+5,7.6,Rocco's Intimacy (2007) (V),2007.0
+22,3.7,Rock-climber and the Last from the Seventh Cradle (2007),2007.0
+252,5.6,Rodina (2015),2015.0
+27,7.4,Rodina ili smert (2011),2011.0
+5,2.4,Rokovaya vstrecha (2016),2016.0
+5,5.2,Rokovoe uvlechenie (2012),2012.0
+84,5.1,Rokovye yaytsa (1996),1996.0
+216,7.1,Rol (2013),2013.0
+12,4.8,Roman s kokainom (2014),2014.0
+80,5.6,Roman s kontrabasom (1911),1911.0
+169,7.0,Romanovy: Ventsenosnaya semya (2000),2000.0
+7,8.0,Rosetta: Audio/Visual (2014),2014.0
+59,6.4,"Rossiya, kotoruyu my poteryali (1992)",1992.0
+68,5.4,Rotilks (2011),2011.0
+9,8.9,Route (2016),2016.0
+22,7.2,Royal Babylon: The Criminal Record of the British Monarchy (2012),2012.0
+36,6.9,Rozhdestvenskaya misteriya (2000),2000.0
+76,7.2,Rozhdestvo (1997),1997.0
+449,6.9,Rozhdestvo obitateley lesa (1913),1913.0
+20,6.5,Rozovaya kukla (1997),1997.0
+243,6.2,Rozygrysh (2008),2008.0
+64,6.0,Rud i Sem (2007),2007.0
+7,9.9,Rudolf Nureyev. Island of His Dreams (2016),2016.0
+16,8.2,Ruka (2014),2014.0
+6,8.0,Ruka na schaste (2008),2008.0
+6,2.5,"Run, cry, die (2016)",2016.0
+46,5.4,Rusalka (1910),1910.0
+648,7.9,Rusalka (1997),1997.0
+2604,7.3,Rusalka (2007),2007.0
+32,3.7,Rusichi (2008),2008.0
+6,8.5,Ruslan i Lyudmila (1915),1915.0
+693,6.4,Russia 88 (2009),2009.0
+18,8.7,Russia from My Window (2003),2003.0
+11,6.3,Russian Idea (1996) (TV),1996.0
+147,7.9,Russian Lessons (2010),2010.0
+68,5.4,Russian Lolita (2007),2007.0
+6,4.2,Russian Sentai HoodyRanger: The Beginning (2016) (V),2016.0
+6,7.3,Russisk Avant-Garde (1999) (TV),1999.0
+219,6.9,Russkaya igra (2007),2007.0
+15,7.9,Russkaya reznya britvoy (2016),2016.0
+81,7.2,Russkaya simfoniya (1994),1994.0
+43,5.1,Russkaya svadba XVI stoletiya (1909),1909.0
+92,4.1,Russkiy biznes (1993),1993.0
+268,6.6,Russkiy bunt (2000),2000.0
+14835,7.4,Russkiy kovcheg (2002),2002.0
+6,6.0,Russkiy parovoz (1995),1995.0
+44,6.7,Russkiy regtaym (1993),1993.0
+50,4.2,Russkiy shchyot (1994),1994.0
+20,4.6,Russkiy spetsnaz (2003),2003.0
+118,6.6,Russkoe (2004),2004.0
+72,3.7,Russkoe chudo (1994),1994.0
+136,7.9,"Russland - Im Reich der Tiger, Bren und Vulkane (2011)",2011.0
+7,6.3,Rustles (2012),2012.0
+50,7.1,Ryabinovyy vals (2010),2010.0
+8,5.9,Ryba (2008),2008.0
+19,7.8,Rybka (2008),2008.0
+18,6.1,Rytsar Kennet (1993),1993.0
+24,6.8,Rytsarskiy roman (2000) (TV),2000.0
+11,7.5,Rzhev. Neizvestnaya bitva Georgia Zhukova (2009) (TV),2009.0
+625,3.2,Rzhevskiy protiv Napoleona (2012),2012.0
+131,4.7,Rlli ja kultainen avain (2013),2013.0
+219,5.8,Rllin sydn (2007),2007.0
+50,4.6,"S 8 marta, muzhchiny! (2014)",2014.0
+2205,6.8,"S Novym godom, mamy! (2012)",2012.0
+14,5.9,"S Novym godom, papa! (2004)",2004.0
+10,6.2,S chyornogo khoda (2009),2009.0
+80,6.5,"S dnem rozhdeniya, Lola! (2001)",2001.0
+11,7.1,S dnyom rozhdeniya (1998),1998.0
+5,7.0,S dobrym utrom! (1992) (TV),1992.0
+113,6.7,S lyubovyu. Lilya (2003),2003.0
+42,8.5,S osenyu v serdtse (2015),2015.0
+9,5.1,S.O.S. (2004),2004.0
+425,4.6,S.S.D. (2008),2008.0
+59,3.7,"SOS, Ded Moroz, ili Vsyo sbudetsya! (2015)",2015.0
+5,9.2,Sabs (1996),1996.0
+6,8.8,Sacred (2016),2016.0
+34,7.0,Sad (2008),2008.0
+17,8.5,Sadko (1994) (TV),1994.0
+12,7.8,Sady skorpiona (1991),1991.0
+68,5.7,Saint Petersburg (2013),2013.0
+10,6.4,Salandar (1994),1994.0
+5,6.6,Samiy-samiy-samiy-plokhoy (2010),2010.0
+73,5.7,Samka (2011),2011.0
+7,1.0,Samodel'nyie narkotiki (2015) (V),2015.0
+7,1.0,Samodel'nyie narkotiki 2: V buduyuschem (2016) (V),2016.0
+7,1.0,Samodel'nyie narkotiki 3: Den' nelsdzavisimosti (2016) (V),2016.0
+40,7.0,Samolyot letit v Rossiyu (1994),1994.0
+121,6.8,Samostoyatelnaya zhizn (1992),1992.0
+234,5.5,Samoubiytsy (2012),2012.0
+5,5.2,Samyy luchshiy den (2002),2002.0
+763,4.8,Samyy luchshiy den! (2015),2015.0
+1880,3.0,Samyy luchshiy film (2008),2008.0
+1156,3.0,Samyy luchshiy film 2 (2009),2009.0
+802,3.1,Samyy luchshiy film 3-DE (2011),2011.0
+8,6.8,Sanya i Vorobey (2010),2010.0
+10,7.3,Sanzhyra (2001),2001.0
+13,6.5,Sapiens (2004),2004.0
+32,4.6,Sar (2016),2016.0
+187,5.6,Sarancha (2014),2014.0
+5,2.6,Sastrafi (2009),2009.0
+81,7.0,Satana likuyushchiy (1917),1917.0
+269,6.2,Satisfaktsiya (2010),2010.0
+7,7.7,Saved by Deportation (2007),2007.0
+537,4.2,Savva. Serdtse voina (2015),2015.0
+10,2.1,Scarecrow: The Legend Comes Alive (2012),2012.0
+47,5.5,Schaste - eto... (2015),2015.0
+17,6.1,Schaste vechnoy nochi (1915),1915.0
+11,3.7,Schastlivaya pokupka (2010),2010.0
+129,3.8,Schastlivyy konets (2010),2010.0
+5,6.2,Schastlivyy neudachnik (1993),1993.0
+7,1.3,Schors: Odin v pole tozhe voin (2016) (V),2016.0
+7,8.3,Scp-087 (2015),2015.0
+7,8.1,Scp-087: 5th Experiment (2015),2015.0
+8,8.4,Scream at the Entrance (2016),2016.0
+11,6.7,Sdayotsya dom so vsemi neudobstvami (2016),2016.0
+53,4.4,Sdelka (2009),2009.0
+69,3.9,Sdvig (2006),2006.0
+11,7.5,"Sea Blind, the Price of Shipping Our Stuff (2015) (TV)",2015.0
+18,8.1,Sea Dogs (2000) (VG),2000.0
+12,8.5,Searching for Hell (2015),2015.0
+8,7.5,Season of Decomposition (2006),2006.0
+7,8.4,Sebastian (2013/I),2013.0
+8,6.2,Second Chance (2016/VII),2016.0
+13,6.2,Second Wind (2012) (V),2012.0
+12,8.2,Secret of Slenderman 3 (2016),2016.0
+17,6.3,Secret of Water (2015),2015.0
+7,1.3,Sector of the Living Dead (2016) (V),2016.0
+5,6.4,Sedmaya zhertva (2011) (TV),2011.0
+64,5.7,Sedmoy den (2006),2006.0
+51,7.7,Seeds of Time (2013),2013.0
+10,6.4,Segodnya my postroim dom (1996),1996.0
+10,6.7,Sekret vinodeliya (1994),1994.0
+7,1.0,Sekretniye knigi mira (2016) (V),2016.0
+14,3.1,Sekskazka (1991),1991.0
+5,8.8,Selfieman: For All the Broken Hearts (2016) (V),2016.0
+5,6.2,Selskiy rok-n-roll (2011),2011.0
+9,7.6,Sem dney posle ubiystva (1991),1991.0
+52,5.1,Sem kabinok (2007),2007.0
+24,7.1,Semeyka Ady (2008),2008.0
+68,6.5,Seneca's Day (2016),2016.0
+5,1.2,Sepio-film (2014) (V),2014.0
+52,6.7,Serdtsa bumerang (2011),2011.0
+32,7.6,Serdtsa tryokh-2 (1993),1993.0
+5,6.4,Serdtse zverya (2006),2006.0
+79,6.6,Serebryanye golovy (1999),1999.0
+6,8.2,Sergey A. Always Takes a Camera (2016),2016.0
+40,6.0,Sergey Eyzenshteyn. Avtobiografiya (1996),1996.0
+49,6.6,Sergey Eyzenshteyn. Meksikanskaya fantasiya (1998),1998.0
+57,6.8,Serp i molot (1994),1994.0
+125,6.8,Serye volki (1993),1993.0
+48,6.6,Severnoye siyaniye (2001),2001.0
+9,6.6,Sex and Breakfast (2012),2012.0
+20,7.0,Sex in the Russian Way (1998) (V),1998.0
+29,4.4,"Sex, kofe, sigarety (2014)",2014.0
+44,8.4,Sezon tumanov (2009),2009.0
+7,5.3,Shadow (2012/II) (V),2012.0
+298,4.3,Shadows in Paradise (2010),2010.0
+62,6.1,Shagal - Malevich (2014),2014.0
+7,1.0,Shakhmatnoe kino (2014) (V),2014.0
+14,5.2,Shalnaya baba (1991),1991.0
+972,7.7,Shapito-shou (2011),2011.0
+25,6.2,Shatun (2001) (TV),2001.0
+21,6.7,Sheep & Wolves (2016),2016.0
+49,4.9,Shekspiru i ne snilos (2007),2007.0
+497,6.8,Shekvarebuli kulinaris ataserti retsepti (1996),1996.0
+12,7.4,Sherlock Homes: Mystery of the Stream (2016),2016.0
+17,7.6,Sherlok Kholms i doktor Vatson (2005),2005.0
+389,6.6,Shik (2003),2003.0
+16,5.0,Shipovnik (2011),2011.0
+1158,7.2,Shirli-myrli (1995),1995.0
+901,7.3,Shiza (2004),2004.0
+127,5.8,Shizofreniya (2001),2001.0
+10,6.0,Shlyukha (2012),2012.0
+273,4.6,Shoping-tur (2012),2012.0
+6,8.8,Short summer (2012),2012.0
+968,5.3,Shpion (2012),2012.0
+19,4.7,Shpionskie igri: Okhota na chernogo volka (2006) (TV),2006.0
+5,4.2,Shpionskie igry: Chastny visit (2008) (TV),2008.0
+8,5.5,Shpionskie igry: Lovushka dlya mudretsa (2006) (TV),2006.0
+12,6.2,Shpionskie igry: Nelegal (2004) (TV),2004.0
+12,5.8,Shu-Chu (2009),2009.0
+254,6.0,Shultes (2008),2008.0
+10,8.1,Siberia Teaches a Trans-Siberian Rail Trip Story (2011),2011.0
+7,8.3,Siberian Horror (2016),2016.0
+1597,7.7,Sibir. Monamur (2011),2011.0
+10,4.2,Sibirskiy spas (1998),1998.0
+9567,7.9,Sibirskiy tsiryulnik (1998),1998.0
+7,4.1,Sick (2011) (V),2011.0
+7,5.3,Sick Furry (2015),2015.0
+5,7.6,Sickfuckpeople - Short Version (2011),2011.0
+9,7.0,Sidab-Man (2016),2016.0
+621,4.8,Silent Partner (2005),2005.0
+8,7.9,Silk (2013/II),2013.0
+6,2.8,Sin neudachnika (2002) (TV),2002.0
+115,5.9,Sindrom Petrushki (2015),2015.0
+7,7.7,Sinee nebo. Cherniy hleb (2010),2010.0
+21,9.0,Sira Disi Insanlar (2015),2015.0
+7,2.9,Sirenevye sumerki (2000),2000.0
+7,8.4,Siriyskiy dnevnik (2012),2012.0
+359,7.1,Sirota kazanskaya (1997),1997.0
+178,5.9,Skaz pro Fedota-streltsa (2002),2002.0
+54,4.5,Skazhi Leo (2008),2008.0
+197,6.2,Skazka pro temnotu (2009),2009.0
+106,1.4,Skazka. Est (2012),2012.0
+137,6.6,Skhvisi sakhli (2016),2016.0
+58,6.0,Skolzhenie (2013),2013.0
+46,5.8,Skoro vesna (2009),2009.0
+372,3.6,Skoryy 'Moskva-Rossiya' (2014),2014.0
+9,8.2,Skyforge (2015) (VG),2015.0
+8,6.0,"Slava - nam, smert' - vragam (1914)",1914.0
+19,5.4,Sledstvie vedut znatoki 23: Treteyskiy sudiya (2002) (TV),2002.0
+14,7.9,Sledy na snegu (2014),2014.0
+12,8.2,Slender Man (2013),2013.0
+6,7.0,Slender Man 2: Curse Book (2014),2014.0
+6,6.3,Slender Man 3: Pandemonium. Chapter 1 (2015),2015.0
+7,7.0,Slender Man 3: Pandemonium. Chapter 2. End of Story (2015),2015.0
+56,7.1,Slon (2010),2010.0
+21,4.6,Slova i muzyka (2004),2004.0
+189,3.7,Slove (2011),2011.0
+7,5.9,Sluchaynye znakomye (2013),2013.0
+1189,6.1,Sluga Gosudarev (2007),2007.0
+189,7.1,Slushatel (2004),2004.0
+157,7.1,Slushaya tishinu (2007),2007.0
+3309,5.7,Sluzhebnyy roman. Nashe vremya (2011),2011.0
+40,2.4,Sluzhu Sovetskomu Soyuzu! (2012) (TV),2012.0
+186,5.1,Smatyvay udochki (2004),2004.0
+9,7.1,Smekhovorot (2007),2007.0
+6,7.8,Smert Ioanna Groznogo (1909),1909.0
+5,1.0,Smert Ivana Rudskogo (2014) (V),2014.0
+9,7.2,Smert shpionam. Skrytyy vrag (2013),2013.0
+17,6.9,Smert v pensne ili Nash Chekhov (2010),2010.0
+75,3.8,Smeshannye chuvstva (2014),2014.0
+68,6.1,Smeshariki. Legenda o Zolotom Drakone (2016),2016.0
+223,6.2,Smeshariki: Nachalo (2011),2011.0
+104,7.0,Smirennaya zhizn (1997),1997.0
+22,5.4,Snayper (1992),1992.0
+7,6.6,Snayper Sakha (2010),2010.0
+17,4.9,Snegurochka (2014),2014.0
+33,7.8,Snezhnaya koroleva (2007) (TV),2007.0
+1278,5.3,Snezhnaya koroleva (2012),2012.0
+955,6.3,Snezhnaya koroleva 2. Perezamorozka (2014),2014.0
+52,6.8,Snezhnaya koroleva 3. Ogon i led (2016),2016.0
+16,6.1,Snezhnyy angel (2008) (TV),2008.0
+12,5.6,Snezhnyy chelovek (2008) (TV),2008.0
+13,6.8,Snokhach (1912),1912.0
+11,7.5,Snowflake (2012),2012.0
+16,9.3,Snowflake (2014) (TV),2014.0
+191,6.7,Sny (1993),1993.0
+216,7.3,So mnoyu vot chto proiskhodit (2012),2012.0
+38,6.5,Sobaka Pavlova (2005),2005.0
+49,6.2,Sobiratel pul (2011),2011.0
+6,6.3,Sobstvennaya ten (2001),2001.0
+8,6.4,Sobytie (2009),2009.0
+73,6.8,Sochinenie ko Dnyu Pobedy (1998),1998.0
+13,6.0,Sochinushki (2000),2000.0
+196,2.8,Sokrovishcha O.K. (2013),2013.0
+6,6.2,Sokrovishche (2008) (TV),2008.0
+56,5.4,Soldatskiy dekameron (2005),2005.0
+86,6.7,Soldatskiy son (1995),1995.0
+6327,4.3,Soldiers of Fortune (2012),2012.0
+30,8.2,Solnechnye dni (1994),1994.0
+22,5.0,Solnechnyy udar (2003),2003.0
+615,5.8,Solnechnyy udar (2014),2014.0
+2211,7.4,Solntse (2005),2005.0
+9,7.0,"Solntse, Vozdukh I... Na-Na (1992)",1992.0
+611,5.5,Solovey-Razboynik (2012),2012.0
+12,1.8,Something in the Woods (2016) (V),2016.0
+34,4.3,Somnambula (2013),2013.0
+7,1.1,Son (2016) (V),2016.0
+9,6.9,Son razuma (2010),2010.0
+582,7.9,Son smeshnogo cheloveka (1992),1992.0
+110,7.0,Sonhos de Peixe (2006),2006.0
+12,8.2,Sonka zolotaya ruchka (1914),1914.0
+12,8.3,Sonnyy ad (2014) (VG),2014.0
+42,8.4,Sonuncu (2014),2014.0
+16,6.4,Sosedi (2000),2000.0
+21,7.4,Sota ilman voittoa (2009) (TV),2009.0
+37,6.0,Sotvorenie Adama (1994),1994.0
+119,4.2,Space Dogs: Adventure to the Moon (2016),2016.0
+18,8.1,Spartacus (2008) (TV),2008.0
+83,6.8,Spartak i Kalashnikov (2002),2002.0
+29,3.4,Spartakiada. Lokalnoe poteplenie (2008),2008.0
+79,6.6,Spasenie (2015),2015.0
+15,6.7,Spasibo (2012),2012.0
+107,4.4,Spiral (2014/II),2014.0
+7,5.7,Spisok korabley (2008),2008.0
+58,5.0,Spores (2011) (TV),2011.0
+9,9.0,Sport: It's Fashionable! (2014) (TV),2014.0
+70,6.9,Spravka (2005),2005.0
+9,7.4,Springtrap: Two Evil Eyes (2015) (TV),2015.0
+11,6.3,Sprint (2015/I),2015.0
+49,7.8,Sreda (1997),1997.0
+89,5.6,Srochno vyydu zamuzh (2015),2015.0
+60,7.0,Srok (2014),2014.0
+1831,7.2,Stalin (1992) (TV),1992.0
+7,7.7,Stalin vspomnil o vas (2009),2009.0
+12557,5.6,Stalingrad (2013),2013.0
+7,8.7,Stalingrad 2016 (2016),2016.0
+1085,7.2,Stalnaya babochka (2012),2012.0
+121,6.0,Stand (2014/I),2014.0
+10,6.4,Starshaya zhena (2010),2010.0
+86,4.5,Startap (2014),2014.0
+141,7.2,Starukhi (2003),2003.0
+447,4.8,Starye klyachi (2000),2000.0
+140,5.9,Starye pesni o glavnom (1996) (TV),1996.0
+148,4.5,Starye pesni o glavnom 2 (1997) (TV),1997.0
+150,4.4,Starye pesni o glavnom 3 (1998) (TV),1998.0
+41,4.1,Starye pesni o glavnom. Postskriptum (2000) (TV),2000.0
+2253,7.2,Statskiy sovetnik (2005),2005.0
+376,5.8,Status: Svoboden (2016),2016.0
+72,5.4,Stavka na lyubov (2016),2016.0
+198,4.8,Stenka Razin (1908),1908.0
+10,4.0,Step bay step (2011),2011.0
+3324,7.2,Stilyagi (2008),2008.0
+295,5.7,Sto dney do prikaza (1991),1991.0
+5,6.6,Stolichnyy skoryy (2003),2003.0
+91,5.8,Stories on Human Rights (2008),2008.0
+7,8.0,Stradaniya yunogo Wertera (2004),2004.0
+795,6.9,Strana Oz (2015),2015.0
+168,4.3,Strana chudes (2016),2016.0
+954,7.7,Strana glukhikh (1998),1998.0
+69,3.4,Strana khoroshikh detochek (2013),2013.0
+10,5.5,Stranger (2014/IV),2014.0
+22,6.8,Strannik (2006),2006.0
+7,1.0,Stranniy sluchay (2015) (V),2015.0
+16,6.7,Strannye chastitsy (2015),2015.0
+5,6.6,Strannye muzhchiny Semyonovoy Ekateriny (1993),1993.0
+8,6.6,Strashnaya mest (1913),1913.0
+30,4.8,Strasti po Anzhelike (1993),1993.0
+12,5.5,Strastnoy bulvar (1999),1999.0
+9,7.3,Stravinsky et les Ballets Russes (2009) (V),2009.0
+7,7.1,Strazh mertvetsa (2014),2014.0
+221,7.0,Strekoza i muravey (1913),1913.0
+7,2.0,Strela lyubvi (2003),2003.0
+68,7.0,Strelets neprikayannyy (1993),1993.0
+18,6.1,Strelyayushchiye angely (1994),1994.0
+709,2.9,Stritreysery (2008),2008.0
+6,2.7,Stroll (2016),2016.0
+19,7.2,Styd (2013),2013.0
+7,6.1,Substance: Jam (2012),2012.0
+6,6.5,Suka (2001),2001.0
+56,6.6,Sukhodol (2011),2011.0
+5,5.6,Sumasshedshaya lyubov (2008) (TV),2008.0
+267,6.8,Sumasshedshaya pomoshch (2009),2009.0
+373,6.5,Sumerki zhenskoi dushi (1913),1913.0
+5,6.2,Summer Snowball Fight (1904),1904.0
+75,7.3,Sunduk predkov (2005),2005.0
+8,4.8,Sunrise/Sunset (2012),2012.0
+17,4.8,Super-tyoshcha dlya neudachnika (2004) (TV),2004.0
+7,2.3,Super-zhutiki (1995) (V),1995.0
+282,4.6,SuperBobrovy (2016),2016.0
+39,2.5,Supermen ponevole ili eroticheskiy mutant (1993),1993.0
+254,3.2,"Supermenedzher, ili Motyga sudby (2011)",2011.0
+30,4.6,Superplokhie (2016),2016.0
+9,6.4,Suzeniy-Ryazeniy (2007) (TV),2007.0
+1009,7.2,Svadba (2000),2000.0
+239,5.0,Svadba po obmenu (2011),2011.0
+6,7.7,Svadba tishiny (2004),2004.0
+12,6.8,Sverchok za ochagom (2001),2001.0
+7,1.0,Sverkhsekretnye faily. Pikovaya dama. Glava 1 (2016) (V),2016.0
+5,7.4,Svetlana About Svetlana (2008),2008.0
+77,5.1,Svidanie (2012),2012.0
+6,6.3,Svistun (1998),1998.0
+7,1.0,Svita (2015) (V),2015.0
+337,7.1,Svobodnoe plavanie (2006),2006.0
+1023,7.8,Svoi (2004),2004.0
+19,5.9,Svoi deti (2007) (TV),2007.0
+2560,6.2,Svolochi (2006),2006.0
+20,6.7,Svoya chuzhaya zhizn (2005) (TV),2005.0
+91,7.6,Svyato (2005),2005.0
+7,6.4,Svyatoe delo (2007),2007.0
+152,5.7,Svyaz (2006),2006.0
+28,7.2,Svyaz vremyon (2010),2010.0
+23,8.6,Swan Lake (2007) (V),2007.0
+7,8.4,Swan Lake 3D - Live from the Mariinsky Theatre (2013),2013.0
+129,6.4,Switchcraft (1994),1994.0
+179,4.7,Syberiada polska (2013),2013.0
+51,6.5,Syn (2014),2014.0
+32,6.3,Syn za ottsa... (1995),1995.0
+46,6.3,Synok (2010),2010.0
+1989,7.1,Syostry (2001),2001.0
+32,4.4,Syostry (2005),2005.0
+24,7.0,Syshchik Peterburgskoy politsii (1991),1991.0
+8,4.0,Sysknoe byuro 'Feliks' (1993),1993.0
+17,7.3,Tak pakhnet lyubov (2012),2012.0
+10,3.5,Taksi smerti (2013),2013.0
+5,5.6,Talismi Jazeera (1992),1992.0
+177,7.1,Tanets Deli (2012),2012.0
+12,8.8,Tanets s vampirom (1914),1914.0
+6,4.8,Tango nad propastyu (1997),1997.0
+21,6.0,Tanker 'Tango' (2006),2006.0
+20,6.2,Tantsuy so mnoy (2016),2016.0
+16,7.4,Tantsuyushchiye prizraki (1992),1992.0
+2123,5.8,Taras Bulba (2009),2009.0
+446,6.3,Tarif Novogodniy (2008),2008.0
+6,6.7,Tarkovsky: Time Within Time (2015),2015.0
+11,4.7,Tartaren iz Taraskona (2003) (TV),2003.0
+67,7.2,Tartyuf (1992) (TV),1992.0
+109,6.4,Tayna (2011),2011.0
+343,4.6,Tayna Chingis Khaana (2009),2009.0
+41,6.0,Tayna Slendermena (2013),2013.0
+23,6.8,Tayna Slendermena 2 (2014),2014.0
+11,5.4,Tayna Sukharevoy bashni. Charodey ravnovesiya (2015),2015.0
+181,5.6,Tayna korolevy Anny ili mushketyory 30 let spustya (1993),1993.0
+7,1.0,Tayna phantomnogo mira (2016) (V),2016.0
+5,4.4,Tayna snezhnoy korolevy (2015),2015.0
+5,3.0,Tayna volchyey pasti (2004),2004.0
+14,6.7,Tayny lyubvi (2009),2009.0
+20,6.8,Tayny smerti (2009),2009.0
+15,6.9,Tchaikovsky - An Elegy (2011),2011.0
+20,7.2,Teatralnyy roman (2003) (TV),2003.0
+10,6.2,Telefonnaya kamasutra (2012),2012.0
+7,1.0,Telephonnyi maniac (2016) (V),2016.0
+599,7.0,Telets (2001),2001.0
+18,5.2,Teli i Toli (2016),2016.0
+37,6.4,"Telo budet predano zemle, a starshiy michman budet pet (1998)",1998.0
+901,6.4,Temnye vody (1993),1993.0
+758,4.8,Temnyy mir (2010),2010.0
+323,4.2,Temnyy mir: Ravnovesie (2013),2013.0
+189,6.2,Teoriya zapoya (2003),2003.0
+22,7.4,Teremok (1995) (TV),1995.0
+663,6.5,Territoriya (2015),2015.0
+62,1.2,Territoriya Dzha (2014),2014.0
+13,5.8,Territory of Ghosts (2016),2016.0
+7,8.0,Terror lyubovyu (2009) (TV),2009.0
+48,6.9,Testy dlya nastoyashchikh muzhchin (1999),1999.0
+6,7.0,The Abode of Darkness (2006),2006.0
+89,9.3,The Anthropologist (2015),2015.0
+548,2.7,The Arena (2001/I),2001.0
+38,4.7,The Burning Land (2003),2003.0
+31,7.7,The Children of Captain Grant (1996),1996.0
+198,5.1,The Code of Cain (2015),2015.0
+250,7.3,The Condemned (2013),2013.0
+5,1.6,The Corridor (2015) (V),2015.0
+703,4.1,The Cosmonaut (2013),2013.0
+3044,6.2,The Cut (2014/I),2014.0
+168,7.8,The Desert of Forbidden Art (2010),2010.0
+9,8.6,The Discrete Charm of Geometry (2015),2015.0
+16528,5.7,The Dyatlov Pass Incident (2013),2013.0
+11,8.4,The Edge (2012/II),2012.0
+128,6.8,The Eurovision Song Contest (2009) (TV),2009.0
+23,6.5,The Eurovision Song Contest Semi Final (2009) (TV),2009.0
+5,8.6,The Evolution of Stem Cell Research (2014),2014.0
+8,8.0,The Face (2014),2014.0
+20,6.3,The Fall of Flutter Green [Flutter Green vs. Hater 2] (2016),2016.0
+11,8.3,The Fiery Angel (1993) (TV),1993.0
+7,8.6,The First Entrance (2007),2007.0
+387,6.1,The Fourth Dimension (2012),2012.0
+677,7.2,The Fourth Phase (2016),2016.0
+462,6.3,The God (2003),2003.0
+21,6.7,The Green Serpent (2013),2013.0
+197,4.3,The Groom (2016),2016.0
+10,7.6,The Hand. New Victim (2014),2014.0
+9,8.4,The Hand. Return (2016),2016.0
+27,6.8,The Haunter of the Dark (2015),2015.0
+8,4.9,The Hidden Enemy: Inside Psychiatry's Covert Agenda (2013),2013.0
+10,5.0,The Horror of the First of September (2016),2016.0
+7,8.9,The House of Domovoy (2014),2014.0
+7,6.0,The Hunter (2013),2013.0
+9,3.7,The Imaginarium (2016),2016.0
+481,8.4,The Invisible Front (2014),2014.0
+346,2.6,The Iris Effect (2005),2005.0
+89,6.1,The King of Ads (1991),1991.0
+17,7.7,The Last Russian Limousine (2014) (TV),2014.0
+6,8.8,The Last Show (2015/I),2015.0
+15665,7.0,The Last Station (2009),2009.0
+15,5.9,The Last Summer (2016/II),2016.0
+5,7.0,The Little Mouse and the Fox (2007),2007.0
+7,1.0,The Lost Video. Forest of the Dead (2016) (V),2016.0
+8,8.0,The Magic Paintbrush: A Story from China (2000) (TV),2000.0
+11,8.1,The Maid of Orleans (1993) (TV),1993.0
+1094,7.8,The Man Who Saved the World (2014),2014.0
+16,6.5,The Man Who Stopped WW3: Revealed/The Man Who Saved the World (2012) (TV),2012.0
+305,7.8,The Mark of Cain (2001),2001.0
+1088,7.2,The Miracle Maker (2000),2000.0
+7,1.4,The Mutrix (2016) (V),2016.0
+9,9.1,The Mystagogue (2014),2014.0
+333,6.6,The Notorious Mr. Bout (2014),2014.0
+19,7.7,The Nutcracker (2008) (V),2008.0
+11,7.6,The Nutcracker (2012) (V),2012.0
+163,5.5,The Nutcracker and the Mouseking (2004) (V),2004.0
+16,6.2,The Offshore Reserves (2004),2004.0
+2941,8.1,The Old Man and the Sea (1999),1999.0
+7,7.0,The Oscar Nominated Short Films 2009: Animation (2009),2009.0
+32,5.6,The Payback (2009),2009.0
+6,6.7,The Phase (2013),2013.0
+9,8.8,The Possessed (2015) (V),2015.0
+10,9.4,The Possessed: Through the Night (2015),2015.0
+11,4.2,The Queen of Spades (2016),2016.0
+126,6.5,The Rainbowmaker (2008),2008.0
+23,7.5,The Riddle (1996),1996.0
+5,9.6,The Room (2004),2004.0
+43,8.8,The Russian Winter (2012),2012.0
+269,4.0,The Second Front (2005),2005.0
+7,5.6,The Shirt (2015/II),2015.0
+39,6.7,The Spirit (2007),2007.0
+210,6.0,The Stringer (1998),1998.0
+31,7.1,The Summer of Frozen Fountains (2015),2015.0
+7,6.1,The Tree with the Golden Apples (2000) (TV),2000.0
+15,4.9,The Trouble of the Rings 2: The Towers (2003) (V),2003.0
+22,5.8,The Trouble of the Rings Returns: King-Size (2004) (V),2004.0
+26,7.4,The Trouble of the Rings: The Fellowship (2002) (V),2002.0
+957,6.9,"The Tulse Luper Suitcases, Part 1: The Moab Story (2003)",2003.0
+46,6.6,The Vanquishing of the Witch Baba Yaga (2014),2014.0
+9,7.3,The Way Back (2010/II),2010.0
+12,8.3,The Will to Fly (2016),2016.0
+32,6.0,The Wolves (1996),1996.0
+9,6.0,The Writings of Denis Kaufman (2010),2010.0
+2254,6.9,The Zohar Secret (2016),2016.0
+8,5.9,There Is No Me (2011),2011.0
+21,7.2,Three Days in August (1992),1992.0
+47,7.1,Tides to and Fro (2010),2010.0
+11,5.5,Tikhaya semeynaya zhizn (2008) (TV),2008.0
+276,6.9,Tikhaya zastava (2011),2011.0
+140,4.4,Tikhie omuty (2000),2000.0
+302,7.2,Tikhiye stranitsy (1994),1994.0
+47,2.0,Time of Change (2005),2005.0
+7,1.0,Tirmenater v lesu (2016) (V),2016.0
+8,1.0,Tirminater v derevne (2016) (V),2016.0
+239,7.8,Tishe! (2003),2003.0
+323,6.4,Tiski (2007),2007.0
+172,6.2,To Russia with Love (2014) (TV),2014.0
+5,9.4,To the Moon and Back (2016),2016.0
+264,6.3,Tochka (2006),2006.0
+7,5.4,Tolko ty (2011) (TV),2011.0
+67,5.9,Tonkaya shtuchka (1999),1999.0
+3278,5.2,Tot eshchyo Karloson! (2012),2012.0
+203,6.1,"Tot, kto gasit svet (2008)",2008.0
+27,6.3,"Tot, kto nezhnee (1995)",1995.0
+6,7.7,"Tot, kto poluchaet poshchechiny (1916)",1916.0
+8,5.0,Total Recall (2012/II),2012.0
+17,6.8,Totalitarnyy roman (1998),1998.0
+31,8.7,Town of the Dead (2012),2012.0
+6,10.0,Toxic Plastic (2016),2016.0
+9,8.2,Traces of Gore (2016),2016.0
+7,9.0,Traces of Gore II (2016),2016.0
+12,7.5,Tragediya v lesu (2014),2014.0
+27,6.0,Traktoristy (1992),1992.0
+14,5.1,"Tram-tararam, ili Bukhty-barakhty (1993)",1993.0
+384,6.4,Transe (2006),2006.0
+45,7.1,Transformator (2003),2003.0
+7,1.0,Translyatsia Safronova: Pro Konstruktory (2015) (TV),2015.0
+5,8.8,Trash (2009) (V),2009.0
+12,7.2,Trassa M8 (2008),2008.0
+15,5.3,Travelling Fields (2010),2010.0
+6,6.5,Travesti (2006),2006.0
+8,3.1,Treason (2011),2011.0
+3840,4.5,Treasure Raiders (2007),2007.0
+19,6.6,Treblinka (2016),2016.0
+11,7.2,Trebuyetsya nyanya (2005),2005.0
+46,5.9,Trete zhelanie (2009),2009.0
+26,4.0,Tretiy ne lishniy (1994),1994.0
+17,6.5,Tretiy reykh: Operatsiya 'NLO' (2006) (TV),2006.0
+6,6.0,Tretiy variant (2003),2003.0
+20,5.5,Tri bogatyrya i Morskoy tsar (2017),2017.0
+818,6.6,Tri bogatyrya i Shamakhanskaya tsaritsa (2010),2010.0
+468,5.2,Tri bogatyrya na dalnikh beregakh (2012),2012.0
+179,5.2,Tri bogatyrya: Khod konem (2015),2015.0
+16,4.4,Tri dnya v Odesse (2007),2007.0
+10,5.2,Tri dnya vne zakona (1992),1992.0
+499,7.2,Tri istorii (1997),1997.0
+179,3.9,Tri mushketera (2013),2013.0
+5,4.0,Tri raza pro eto (2013) (V),2013.0
+29,4.7,Tri sestry (1994),1994.0
+76,5.5,Tridtsatogo unichtozhit! (1992),1992.0
+1198,6.7,Trilogia II: I skoni tou hronou (2008),2008.0
+115,5.8,Trio (2003),2003.0
+1193,6.5,Triple agent (2004),2004.0
+12,4.3,Trista let spustya (1994),1994.0
+47,6.9,Triumf (2000),2000.0
+72,6.2,Troe i Snezhinka (2007),2007.0
+16,3.1,Tropa smerti (2008) (V),2008.0
+17,4.7,Tropa smerti 2: Iskuplenie (2009),2009.0
+24,6.4,Trotskiy (1994),1994.0
+58,7.3,Truba (2013),2013.0
+9,7.0,Trubadur (2010),2010.0
+2906,6.7,Trudno byt bogom (2013),2013.0
+6,6.5,Trusha (2015),2015.0
+231,6.4,Tryapichnyy soyuz (2015),2015.0
+15,6.4,Tryokhsotletie tsarstvovaniya doma Romanovykh (1913),1913.0
+2245,6.9,Tsar (2009),2009.0
+12,7.2,Tsar Ivan Vasilevich Groznyy (1915),1915.0
+38,6.7,Tsarevich Aleksey (1996),1996.0
+36,5.2,Tsel vizhu (2013),2013.0
+8,2.5,Tsenzuru k pamyati ne dopuskayu (1992),1992.0
+17,6.9,Tserkov (2013),2013.0
+10,4.9,Tsikatriz (1999),1999.0
+44,5.0,Tsili (2014),2014.0
+38,6.7,"Tsirk sgorel, i klouny razbezhalis (1998)",1998.0
+74,8.2,Tsvet Natsii (2013),2013.0
+169,1.7,Tsvetok dyavola (2010),2010.0
+44,6.9,Tsvety kalenduly (1999),1999.0
+22,6.9,Tsvety ot pobediteley (1999),1999.0
+44,7.9,Tu es... (1995),1995.0
+11,8.4,Tufelki (2012),2012.0
+39,5.3,Tuk-Tuk (1993),1993.0
+2674,7.1,Tulpan (2008),2008.0
+24,6.4,Tuman (2008),2008.0
+15,7.1,Tumors (2011),2011.0
+7,7.6,Tunnel of Memory (2015),2015.0
+18,6.9,Tunnelirovanie (2006),2006.0
+147,4.9,Tupoy zhirnyy zayats (2007),2007.0
+3229,7.1,Turetskiy gambit (2005),2005.0
+6,5.2,Tushite svet (2009) (TV),2009.0
+8,2.1,Twins (2012),2012.0
+224,7.0,Ty u menya odna (1993),1993.0
+19,6.5,"Ty zabyl, vo chto my igrali (2010)",2010.0
+21,7.9,Tyazhelyy pesok (2008),2008.0
+92,7.3,Tyomnaya noch (2001),2001.0
+15,5.5,Tyomnaya noch (2004),2004.0
+57,6.1,Tysyacha vtoraya khitrost (1915),1915.0
+34,5.8,Tyuremnyy romans (1993),1993.0
+14,5.9,"Ubezhat, dognat, vluybitsya (2015)",2015.0
+61,6.0,Ubitye molniey (2002),2002.0
+6,2.5,Ubiystvo (2010),2010.0
+20,7.3,Ubiystvo na Zhdanovskoy (1992),1992.0
+15,5.3,Ubiystvo v Sunshine Menor (1992),1992.0
+1381,7.2,Ubornaya istoriya - lyubovnaya istoriya (2007),2007.0
+168,5.9,Uchilka (2015),2015.0
+6,6.7,Uchitel v zakone (2007) (TV),2007.0
+33,6.2,"Udachi vam, gospoda (1992)",1992.0
+29,6.4,Udalyonnyy dostup (2004),2004.0
+18,4.9,Udar Lotosa (2001),2001.0
+23,6.0,Udivi menya (2012) (TV),2012.0
+11,8.3,Ugodie (2015),2015.0
+34,6.0,Ukhod velikogo startsa (1912),1912.0
+117,4.7,Ukroshchenie stroptivykh (2009),2009.0
+102,6.6,"Ulybka Boga, ili Chisto odesskaya istoriya (2008)",2008.0
+58,5.9,Umirat legko (1999),1999.0
+614,6.8,Umirayushchii lebed (1917),1917.0
+7,6.7,University Sluts of St. Petersburg 2 (2007) (V),2007.0
+27,7.7,"Unosim nogi, ili Khochu v Parizh (1995)",1995.0
+9,3.1,Unrequited Love (2012),2012.0
+5,6.0,Unrequited Love (2015/II),2015.0
+67,7.1,Upast vverh (2002),2002.0
+5,4.4,Uplotnenie (1918),1918.0
+227,7.2,Uprazhneniya v prekrasnom (2011),2011.0
+158,6.9,Upyr (1997),1997.0
+30,6.1,Urod (1993),1993.0
+28,5.5,Uroki vyzhivaniya (2016),2016.0
+23,5.2,Ustritsy iz Lozanny (1992),1992.0
+11525,8.0,Utomlennye solntsem (1994),1994.0
+3517,4.1,Utomlennye solntsem 2 (2010),2010.0
+1366,4.0,Utomlennye solntsem 2 (2011),2011.0
+9,5.4,Utro popygaya Keshi (2002),2002.0
+40,6.6,Uvidet Parizh i umeret (1992),1992.0
+205,7.0,Uvlecheniya (1994),1994.0
+105,7.1,Uzel (2000),2000.0
+7,1.0,Uzhas nochnoy kvartiry. Nezvaniy gost' nochi (2015) (V),2015.0
+16,5.1,"Uzhas, kotoryy vsegda s toboy (2007)",2007.0
+12,6.8,Uzhin w chetyre ruki (2000) (TV),2000.0
+45,6.7,V Ozhidanii Morya (2012),2012.0
+37,7.3,V Parizh! (2009),2009.0
+81,5.1,V Tsenturiya. V poiskakh zacharovannykh sokrovishch (2010),2010.0
+857,7.6,V avguste 44-go (2001),2001.0
+417,6.7,V dvizhenii (2002),2002.0
+5,7.0,V gostyakh u deda Yevlampiya. Zhabyonok (1996),1996.0
+25,7.9,V masshtabe (2008) (V),2008.0
+6,5.2,V okruzhenii (2012),2012.0
+147,6.3,V ozhidanii chuda (2007),2007.0
+1775,7.4,V paprscch slunce (2015),2015.0
+5,7.0,V pogone za kedami (2012),2012.0
+17,2.5,V poiskakh zolotogo fallosa (1992),1992.0
+12,4.5,V pyatnitsu 13. Chast 2 (2012),2012.0
+28,5.9,V sozvezdii byka (2003),2003.0
+245,4.5,V sporte tolko devushki (2014),2014.0
+41,5.7,V stile jazz (2010),2010.0
+448,5.5,V subbotu (2011),2011.0
+74,8.2,V temnote (2004),2004.0
+5,5.8,V toy oblasti nebes (1992),1992.0
+115,7.1,V toy strane... (1998),1998.0
+2176,6.8,V tumane (2012),2012.0
+5,8.2,V.H.S. (2013) (TV),2013.0
+7,5.0,VII Ezhegodnaya Kinopremiya Rossiyskoy Akademii kinematograficheskikh iskusstv (1993) (TV),1993.0
+17,5.5,Vagon (1993),1993.0
+5,2.6,Vaifu (2015) (V),2015.0
+5,4.4,Vaktsina (2007) (TV),2007.0
+9,5.8,Valeriy Kharlamov. Dopolnitelnoe vremya (2008) (TV),2008.0
+5,7.2,Vals zolotykh teltsov (1992),1992.0
+103,6.0,Vanechka (2007),2007.0
+42,5.0,Varene iz sakury (2011),2011.0
+16,5.2,Vashi paltsy pakhnut ladanom! (1993),1993.0
+19,7.6,Vasilisa (2000),2000.0
+125,5.9,"Vdokh, vydokh (2006)",2006.0
+9,6.4,Vdoviy parokhod (2010) (TV),2010.0
+346,5.7,Vdrebezgi (2011),2011.0
+149,5.7,Vechera na khutore bliz Dikanki (2001) (TV),2001.0
+21,6.1,Vecherniy zvon (2004) (V),2004.0
+437,4.0,Vedma (2006),2006.0
+5,6.8,Velik (2008),2008.0
+10,6.9,Velikan (2003),2003.0
+8,6.2,Velikaya bitva slona s kitom (1992) (TV),1992.0
+18,5.0,Velikaya kriminal'naya revolyutsiya (1994),1994.0
+5,1.0,Velikiy bal satany (2014) (V),2014.0
+30,6.7,Velikiy polkovodets Georgiy Zhukov (1995),1995.0
+92,6.5,Velkam khom (2014),2014.0
+6,7.3,Venozniy koshmar (2015) (V),2015.0
+24,3.6,"Vera, nadezhda, krov' (2000)",2000.0
+18,7.2,Vermelho Russo (2016),2016.0
+9,8.7,Vernaya (2008),2008.0
+7,8.7,Vernutsya v proshloe po fotografiyam (2014),2014.0
+20,5.7,Verpaskungen (2014),2014.0
+8,1.2,Very Trash Movie (2016) (V),2016.0
+15,5.7,Ves etot dzhem (2016),2016.0
+100,7.1,Vesegonskaya volchitsa (2004),2004.0
+143,6.5,Veselchaki (2009),2009.0
+14,5.6,Veselye stsenki iz zhizni zhivotnykh (1912),1912.0
+12,2.9,Vesyolenkaya poyezdka (1994),1994.0
+18,4.4,Vesyolye rebyata;) (2014),2014.0
+172,7.3,Veter vdol berega (2004),2004.0
+14,6.4,Viking (2007) (TV),2007.0
+744,5.4,Viking (2016),2016.0
+332,3.7,Viktor (2014),2014.0
+7,1.1,Viktor Zamaraev. Nachalo Kar'ery (2014) (V),2014.0
+9,1.0,"Viktor Zamaraev. Novaya era, Novyie vozmozhnosti i Novyie filmy (2015) (V)",2015.0
+7,1.0,Viktor Zamaraev. Pervaya vstrecha s A. Gromovym (2015) (V),2015.0
+7,1.4,Village House of the Living Dead (2016) (V),2016.0
+51,7.3,Vino iz oduvanchikov (1997),1997.0
+5,8.8,Vinovata li ya... (1992),1992.0
+8,3.9,Vint (1993),1993.0
+11,7.5,Virtuosity (2014),2014.0
+7,7.7,Vishnyovyy sad (1993),1993.0
+363,5.2,Visions of Suffering (2006) (V),2006.0
+7,5.4,Vitrina (2000) (TV),2000.0
+26,5.1,Viva Castro! (1994),1994.0
+6,8.3,Viva Stalin (1994),1994.0
+3395,5.3,Viy (2014),2014.0
+6,7.0,Viy: The Story Retold (2004) (VG),2004.0
+5,5.2,Vkhod cherez okno (2002),2002.0
+5,3.6,Vkus pobedy (2016),2016.0
+5,4.4,Vkus ubiystva (2003) (TV),2003.0
+147,5.0,Vladenie 18 (2014),2014.0
+5,6.6,Vladivostok! (2008),2008.0
+5,2.2,Vlastelin kolets. Bratstvo koltsa (2015),2015.0
+8,4.2,Vlyublyonnye 2 (2004),2004.0
+34,7.0,Vmesto menya (2000),2000.0
+44,5.4,Vne (2009),2009.0
+26,7.2,Vne Igry (2012),2012.0
+30,7.2,Vnezemnoy (2011) (TV),2011.0
+143,6.5,Vnuk Gagarina (2007),2007.0
+1448,7.2,Voditel dlya Very (2004),2004.0
+302,2.3,Voin (2015),2015.0
+28,9.2,Vokhatuk (2005) (V),2005.0
+681,7.2,Volchok (2009),2009.0
+24,7.2,Volchya krov (1995),1995.0
+495,6.1,Volki i ovtsy. Beeezumnoe prevrashchenie (2016),2016.0
+3409,5.8,Volkodav iz roda Serykh Psov (2006),2006.0
+7,1.0,Volodya zloy. Zhizn' ot interview (2014) (V),2014.0
+14,5.4,Volshebnik (2008),2008.0
+38,5.6,Volshebnik Izumrudnogo goroda (1994),1994.0
+36,6.9,Volshebnyy portret (1997),1997.0
+3952,7.8,Vor (1997),1997.0
+7,7.1,Vorobej kotoryj umel dergat' slovo (2010) (V),2010.0
+14,6.7,Vorobey (2010),2010.0
+5,5.8,Vorona (1992) (TV),1992.0
+2096,7.5,Voroshilovskiy strelok (1999),1999.0
+41,7.3,Vorovka (1995) (TV),1995.0
+165,5.4,Vosmerka (2013),2013.0
+40,7.6,Vospitanie zhestokosti u zhenshchin i sobak (1992) (TV),1992.0
+5,1.2,Vosstavshiy iz myortvykh (2016),2016.0
+198,7.4,Vostochnaya elegiya (1996),1996.0
+7,4.0,Vostochnyy roman (1992),1992.0
+54,6.5,Vot eto lyubov! (2013),2013.0
+58,5.9,Vovochka (2002),2002.0
+20,7.0,Voyage vers la mre (2014),2014.0
+2618,7.7,Voyna (2002),2002.0
+11,5.7,Voyna Printsessy (2013),2013.0
+9,8.4,Voyna i mir (1915),1915.0
+22,3.5,Voyna polov (2015),2015.0
+57,3.8,Vozhd raznokozhikh (2012),2012.0
+5,1.4,Vozmezdiye (2016),2016.0
+36,6.9,Vozvrashchenie 'Bronenostsa' (1996),1996.0
+32673,8.0,Vozvrashchenie (2003),2003.0
+51,3.4,Vozvrashchenie Buratino (2013),2013.0
+10,3.6,Vozvrashchenie Gitlera (2013),2013.0
+9,4.2,Vozvrashchenie Gitlera 2 (2013),2013.0
+75,7.4,Vozvrashchenie kota Leopolda (1993) (TV),1993.0
+524,2.4,"Vozvrashchenie mushketyorov, ili Sokrovishcha kardinala Mazarini (2009)",2009.0
+14,5.6,Vozvrashchenie v 'A' (2011),2011.0
+21,7.9,Vozvrashenie Erkina (2015),2015.0
+11,5.2,Vrag nomer odin (2008),2008.0
+31,6.0,Vragi (2007),2007.0
+8,4.4,Vremya lyubit i vremya nenavidet (1994),1994.0
+53,6.5,Vremya pechali yeshchyo ne prishlo (1995),1995.0
+88,7.2,Vremya sobirat kamni (2005),2005.0
+131,7.2,Vremya tantsora (1998),1998.0
+174,7.0,Vremya zhatvy (2004),2004.0
+287,6.4,Vsadnik po imeni Smert (2004),2004.0
+6,7.8,Vse Vertovy (2002),2002.0
+21,5.7,Vse o muzhchinakh (2016),2016.0
+1631,6.6,Vse umrut a ya ostanus (2008),2008.0
+40,6.4,Vse ushli (2013),2013.0
+14,6.8,"Vse v poryadke, mama! (2011)",2011.0
+8,4.2,Vskrytie moshchey Sergiya Radonezhskogo (1919),1919.0
+32,3.2,Vspominaya Chekhova (1993),1993.0
+262,6.9,Vsyo budet khorosho (1995),1995.0
+578,6.9,Vsyo i srazu (2014),2014.0
+75,4.3,Vsyo mogut koroli (2008),2008.0
+5,3.2,Vsyo po-chestnomu (2007),2007.0
+74,6.2,Vsyo prosto (2012),2012.0
+24,4.7,"Vsyo to, o chyom my tak dolgo mechtali (1997)",1997.0
+94,3.2,Vsyo vklyucheno 2 (2013),2013.0
+5,6.0,"Vsyo, chto ty lyubish (2001)",2001.0
+6,2.7,Vurdalak (2015),2015.0
+17,6.1,Vy ne ostavite menya (2006),2006.0
+30,4.7,Vyblyadki (2000) (V),2000.0
+707,4.4,Vychislitel (2014),2014.0
+5,7.6,Vykhodnoy den (2008),2008.0
+2117,6.1,Vykrutasy (2011),2011.0
+10,6.8,Vynos tela (1992),1992.0
+188,3.8,Vypusknoy (2014),2014.0
+1961,6.6,"Vysotskiy. Spasibo, chto zhivoy (2011)",2011.0
+28,1.6,Vzlomat' blogerov (2016),2016.0
+44,6.4,"Vzroslaya doch, ili Test na... (2010)",2010.0
+248,7.0,Wagner & Me (2010),2010.0
+7,7.7,Walk (2013),2013.0
+51,8.2,War Thunder (2014) (VG),2014.0
+153,6.3,Water (2006),2006.0
+9,2.1,Way to Nowhere (2012),2012.0
+95,6.1,Weekend [Uik-end] (2013),2013.0
+6,9.0,When New Year Comes on Shabbat (2012),2012.0
+26,8.0,Where the Condors Fly (2012),2012.0
+14,7.0,Whispering of Dead (2014),2014.0
+81,5.0,White Gold (2003),2003.0
+7,3.0,Why Ponies Bred Pigs? (2016),2016.0
+7,3.6,Why Ponies Have Items for Your Fingers? (2016),2016.0
+9,7.2,WikiLeaks Revelations (2011) (TV),2011.0
+22,6.5,Wild Women: Gentle Beasts (2015),2015.0
+26,7.3,Woody Before Allen (2011),2011.0
+47,4.9,World Order (2015),2015.0
+5385,5.9,Wrong Cops (2013),2013.0
+5,5.0,Y. O. P. (2013),2013.0
+309,6.3,Ya (2009),2009.0
+109,6.6,Ya - Russkiy soldat (1995),1995.0
+5,5.4,Ya Vam bolshe ne veryu (2000),2000.0
+13,7.0,Ya budu pomnit (2010),2010.0
+170,7.1,Ya budu ryadom (2012),2012.0
+40,6.5,Ya khotela uvidet angelov (1993),1993.0
+79,4.1,Ya kukla (2002),2002.0
+807,6.5,Ya lyublyu tebya (2004),2004.0
+433,7.1,Ya ne vernus (2014),2014.0
+11,4.3,"Ya obeshchala, ya uydu... (1992)",1992.0
+667,7.5,Ya ostayus (2007),2007.0
+6,5.7,Ya pokazhu tebe Moskvu (2009) (TV),2009.0
+17,5.4,Ya sama (1993),1993.0
+14,5.6,"Ya svoboden, ya nichey (1994)",1994.0
+43,6.8,Ya tebya lyublyu (2011),2011.0
+25,6.3,Ya tebya ne lyublyu (2012),2012.0
+976,6.4,Ya tozhe khochu (2012),2012.0
+5,7.2,Ya uchitel (2016),2016.0
+25,6.6,Ya umer v detstve... (2004),2004.0
+6,6.7,Ya umeyu vyazat (2016),2016.0
+6,4.7,Ya vinovat (1993),1993.0
+12,6.8,Ya zabudu etot den (2011),2011.0
+247,6.6,"Yady, ili vsemirnaya istoriya otravleniy (2001)",2001.0
+14,6.6,Yantarnye krylya (2003),2003.0
+36,4.4,Yar (2007),2007.0
+35,6.9,Yarik (2008) (TV),2008.0
+404,5.3,Yaroslav. Tysyachu let nazad (2010),2010.0
+5,1.8,Yarost titanov. Shakhmatniye voiny (2016) (V),2016.0
+36,5.6,Yasnovidyashchaya (2009),2009.0
+8,7.8,Yatrinskaya vedma (1991),1991.0
+5,6.2,Yavlenie prirody (2010),2010.0
+2057,6.4,Yolki (2010),2010.0
+547,4.9,Yolki 1914 (2014),2014.0
+1572,6.5,Yolki 2 (2011),2011.0
+890,5.7,Yolki 3 (2013),2013.0
+145,4.3,Yolki 5 (2016),2016.0
+1991,4.9,You and I (2011),2011.0
+6,7.5,Your Skin Just Right to Me (2017),2017.0
+49,1.5,Yubiley prokurora (1998),1998.0
+668,5.2,Yulenka (2009),2009.0
+432,7.0,Yurev den (2008),2008.0
+12,6.4,Yuzhnye nochi (2012) (TV),2012.0
+285,4.3,Z'olushka (2012),2012.0
+155,6.5,Za Marksa... (2012),2012.0
+17,7.5,Za co? (1996),1996.0
+59,7.0,Za schastem (1917),1917.0
+23,4.4,Za toboy (2011),2011.0
+5,6.6,Zabava (2012),2012.0
+12,4.1,Zachem tebe alibi? (2003) (TV),2003.0
+17,7.4,Zagadka starogo kladbishcha (2008),2008.0
+24,5.3,Zagovor (2007) (TV),2007.0
+6,8.5,Zakovannaya filmoi (1918),1918.0
+369,6.7,Zakrytye prostranstva (2008),2008.0
+72,1.9,Zaletchiki (2014),2014.0
+9,4.1,Zalozhniki dyavola (1993),1993.0
+356,7.0,Zamok (1994),1994.0
+14,6.2,Zapakh vereska (2013),2013.0
+692,3.7,Zapreshchyonnaya realnost (2009),2009.0
+14,4.9,Zarazhenie (2015) (V),2015.0
+57,4.6,Zatvornik (2000),2000.0
+17,5.6,Zaveshchanie Stalina (1993),1993.0
+228,6.6,Zavist bogov (2000),2000.0
+68,6.7,Zavtra (2012),2012.0
+5,6.8,Zavtra (2014) (TV),2014.0
+24,7.3,Zavtrak s vidom na Elbrus (1993),1993.0
+126,6.1,Zavtrak u papy (2016),2016.0
+189,6.2,Zayats nad bezdnoy (2006),2006.0
+218,5.9,Zaymemsya lyubovyu (2002),2002.0
+44,4.3,"Zaytsev, zhgi! Istoriya shoumena (2010)",2010.0
+31,7.0,Zaza (2009),2009.0
+92,7.4,Zdorovo i Vechno (2014),2014.0
+39,6.7,"Zdravstvuyte, my vasha krysha (2006)",2006.0
+7,7.6,Zelluloza (2015) (V),2015.0
+62,6.4,Zelyonaya kareta (2015),2015.0
+1245,5.6,Zelyonyy slonik (1999),1999.0
+77,7.8,Zelyonyy teatr v Zemfire (2008),2008.0
+28,7.9,Zemfira (2007) (V),2007.0
+782,6.8,Zemletryasenie (2016),2016.0
+10,6.4,Zemlya lyudey (2011),2011.0
+27,6.4,Zerkala (2013),2013.0
+461,3.1,Zerkalnye voyny. Otrazhenie pervoe (2005),2005.0
+6,7.0,Zero (2006),2006.0
+85,6.7,"Zhar nezhnykh. Dikiy, dikiy plyazh (2007)",2007.0
+1089,4.6,Zhara (2006),2006.0
+7,5.6,Zharkiy noyabr (2006),2006.0
+80,6.8,Zhazhda (2013),2013.0
+7,5.0,Zhelanie posmotret film Raynera Vernera Fassbindera (1993),1993.0
+34,6.8,Zheleznaya doroga (2007),2007.0
+107,5.9,Zheleznaya pyata oligarkhii (1998),1998.0
+56,6.4,Zheleznodorozhnyy romans (2003) (TV),2003.0
+28,6.5,Zhena Stalina (2006) (TV),2006.0
+66,4.8,Zhenikh iz Mayami (1994),1994.0
+30,4.8,Zhenshchin obizhat ne rekomenduyetsya (2000),2000.0
+9,7.7,Zhenshchina vampir (1915),1915.0
+14,6.0,Zhenshchina zavtrashevo dnya (1914),1914.0
+263,2.9,Zhenshchiny protiv muzhchin (2015),2015.0
+14,6.1,Zhenskaya logika 1 (2002) (TV),2002.0
+20,6.0,Zhenskaya logika 2 (2003) (TV),2003.0
+19,5.7,Zhenskaya logika 3 (2004) (TV),2004.0
+103,7.2,Zhenskaya sobstvennost (1999),1999.0
+579,5.3,Zhest (2006),2006.0
+15,4.6,Zhestkoe vremya (1998),1998.0
+176,5.8,Zhestokost (2007),2007.0
+622,5.7,Zhila-byla odna baba (2011),2011.0
+9,6.9,Zhisel v 3D (2011),2011.0
+477,7.1,Zhit (2010),2010.0
+811,7.3,Zhit (2012),2012.0
+7,8.9,Zhitel nyeobitayemovo ostrova (1915),1915.0
+74,6.5,Zhivi i pomni (2008),2008.0
+528,6.5,Zhivoy (2006),2006.0
+130,7.2,Zhizn i priklyucheniya chetyrekh druzei 3. Igra s ognem. 4. Kot v meshke. (1994),1994.0
+47,7.7,Zhizn i priklyucheniya chetyrekh druzei 5. Kot Semafor 6. Neznakomtsy (1993),1993.0
+43,7.7,Zhizn i priklyucheniya chetyrekh druzei 7. Sledstvie vedet Semafor 8. Podvig Varkhata (1994),1994.0
+50,5.1,Zhizn i smert A.S. Pushkina (1910),1910.0
+31,1.6,Zhizn kuvyrkom (2003),2003.0
+35,6.1,Zhizn odna (2003),2003.0
+54,7.1,Zhizn s idiotom (1993),1993.0
+32,6.0,Zhizn vrasplokh (2007),2007.0
+17,5.9,Zhizn vzaymy (2009) (TV),2009.0
+263,6.2,Zhizn za zhizn (1916),1916.0
+40,6.1,Zhizn' zabavami polna (2003),2003.0
+45,7.1,"Zhizn, osin (1999)",1999.0
+3695,7.2,Zhmurki (2005),2005.0
+7,4.1,Zhong e Lie Che da jie an (1995),1995.0
+62,7.3,Zhuravlinye per'ya (1977),1977.0
+61,6.6,Zhyoltyy karlik (2001),2001.0
+30,7.6,Zima (2013),2013.0
+115,4.5,Zima mertvetsov. Metelitsa (2012),2012.0
+65,7.0,"Zima, ukhodi! (2012)",2012.0
+7,1.0,Zimnee pokhischenie (2015) (V),2015.0
+130,6.9,Zimniy put (2013),2013.0
+7,5.7,Zimy ne budet (2014),2014.0
+433,7.1,Zivot a neobycejna dobrodruzstvi vojaka Ivana Conkina (1994),1994.0
+142,6.7,Zmeinyy istochnik (1997),1997.0
+41,5.2,Zmey (2002),2002.0
+54,7.1,Znaki lyubvi (2006),2006.0
+7,4.9,Zolotaya nevesta (2014) (TV),2014.0
+9,6.1,Zolotaya rybka v gorode N (2011),2011.0
+45,6.1,Zoloto (1992),1992.0
+60,6.0,Zoloto (2014),2014.0
+16,5.0,Zolotoe dno (1995),1995.0
+55,5.4,Zolotoe sechenie (2010),2010.0
+15,4.7,Zolotoy grammofon 2008 (2008) (TV),2008.0
+13,4.7,Zolotoy grammofon 2009 (2010) (TV),2010.0
+6,3.7,Zolotoy grammofon 2010 (2010) (TV),2010.0
+6,2.5,Zolotoy grammofon 2011 (2011) (TV),2011.0
+12,3.8,Zolotoy klyuchik (2009) (TV),2009.0
+6,2.7,Zolotoy tuman (1996),1996.0
+105,5.8,Zolushka (2003) (TV),2003.0
+9,3.9,Zolushka v sapogakh (2002) (TV),2002.0
+7,1.0,Zombari (2016) (V),2016.0
+5,1.0,Zombari 2. Plot i krov (2016) (V),2016.0
+315,2.1,Zombi kanikuly 3D (2013),2013.0
+10,7.5,Zombie 2024 (2014),2014.0
+14,2.6,Zombie Apocalypse (2016),2016.0
+29,6.3,Zombie Infection (2011),2011.0
+22,6.0,Zona Lyube (1995),1995.0
+19,6.5,Zona turbulentnosti (2010),2010.0
+335,6.5,Zoologiya (2016),2016.0
+76,4.2,Zovi menya Dzhinn (2005),2005.0
+10,5.3,Zveno (2013),2013.0
+8,6.9,"Zver, vykhodyashchiy iz morya (1992)",1992.0
+1786,7.3,Zvezda (2002),2002.0
+599,7.1,Zvezda (2014),2014.0
+21,7.2,Zvorykin-Muromets (2010),2010.0
+7,7.0,Zvyozdniy vors (2012),2012.0
+1296,5.6,[Anti]killer (2002),2002.0
+5,8.0,t.A.T.u.: Nas Ne Dogonyat (2001) (V),2001.0
+7,8.9,t.A.T.u.: Ya Soshla S Uma (2000) (V),2000.0
+52,6.9,idin toive (2015),2015.0
