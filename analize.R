@@ -6,7 +6,7 @@ imdb <- read.csv('imdb_data/imdb_rus_ratings.csv')
 imdb <- imdb[imdb$n_rates > 10 & imdb$year >= 2004 & imdb$year <= 2016, ]
 imdb_mean <- aggregate(rating~year, imdb, mean)
 head(imdb_mean)
-fk <- read.csv('fond_kino_150.tsv')
+fk <- read.csv('fond_kino_150.csv')
 fk_mean <- aggregate(imdb_rating~year, fk, mean)
 head(fk_mean)
 
